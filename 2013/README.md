@@ -31,6 +31,10 @@ comparison reference: https://www.cc.ntu.edu.tw/chinese/epaper/0030/20140920_300
 8\. 7\.
 ### A.13 Communications
 ### A.14 Development
+#### A.14.2.4 Restrictions on changes to software packages
+<i>Control</i><br>
+Modifications to software packages shall be discouraged, limited to necessary changes and all changes shall be strictly controlled.
+
 ### A.15 Supplier
 7\.
 ### A.16 Incident
