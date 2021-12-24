@@ -29,8 +29,16 @@ comparison reference: https://www.cc.ntu.edu.tw/chinese/epaper/0030/20140920_300
 ### A.11 Environment
 ### A.12 Operations
 8\. 7\.
+#### A.12.3 Backup
+Objective: To protect against loss of data.
+#### A.12.3.1 Information backup
+<i>Control</i><br>
+Backup copies of information, software and system images shall be taken and tested regularly in accordance with an agreed backup policy.
+
 ### A.13 Communications
 ### A.14 Development
+#### A.14.2 Security in development and support processes
+Objective: To ensure that information security is designed and implemented within the development lifecycle of information systems.
 #### A.14.2.4 Restrictions on changes to software packages
 <i>Control</i><br>
 Modifications to software packages shall be discouraged, limited to necessary changes and all changes shall be strictly controlled.
