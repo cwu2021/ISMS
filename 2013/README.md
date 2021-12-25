@@ -48,3 +48,8 @@ Modifications to software packages shall be discouraged, limited to necessary ch
 ### A.16 Incident
 ### A.17 BCP
 ### A.18 Compliance
+#### A.18.1 Compliance with legal and contratual requirements
+Objective: To avoid breaches of legal, statutory, regulatory or contractual obligations related to information security and of any security requirements.
+#### A.18.1.1 Identification of applicable legislation and contratual requirements
+<i>Control</i><br>
+All relevant legislative statutory, regulatory, contractual requirements and the organization's approach to meet these requirements shall be explicitly identified, documented and kept up to date for each information system and the organization.
