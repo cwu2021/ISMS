@@ -13,6 +13,13 @@ https://www.ithome.com.tw/news/147193
 8.16	監視活動
 8.22	網站過濾
 8.28	安全程式碼撰寫
+## 為讓組織能夠更有效運用控制措施，新定義5類屬性
+這5種新出現的控制屬性，分別是：控制類型（Control Types）、資安特性（Information Security Properties）、網路安全概念（Cybersecurity oncepts）、執行能力（Operational Capabilities），以及安全領域（Security Domain）。例如：
+1. 控制類型屬性：防護、偵測與矯正等（威脅發生前中後）
+2. 資安特性屬性：機密性、完整性與可用性（CIA）
+3. 網路安全屬性：識別、保護、偵測、回應與復原（NIST CSF）
+4. 執行能力屬性：資產管理、人力資源安全、實體安全、系統與網路安全、應用程式安全、威脅與弱點管理、資安事件管理等15項
+5. 安全領域屬性：治理生態系統、防護、防禦與韌性。這方面對應的是，組織所需要的資安領域、專業能力、服務或產品。
 ## ISO 27002新版草案（DIS）版本章節概覽
 5　	0rganizational controls	7　	Physical controls
 5.1　	Policies for information security	7.1　	Physical security perimeter
