@@ -3,3 +3,6 @@ https://www.ithome.com.tw/tech/147261 <br>
 https://www.ithome.com.tw/news/147193
 ## 新增11項控制要求，自動化工具執行成關鍵
 5.7	威脅情資 5.7　	Threat intelligence
+## Cyber Threat Intelligence
+### 勒索軟體Conti開始利用Log4Shell漏洞，攻擊VMware vCenter
+https://www.ithome.com.tw/news/148583
