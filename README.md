@@ -1,5 +1,8 @@
 # ISO 27001 related resources
-https://github.com/nathanpocock/I-ISMS
+https://github.com/nathanpocock/I-ISMS <br>
+<i>2021 updates of ISO/IEC 27001 :</i><br>
+https://www.ithome.com.tw/tech/147261 <br>
+https://www.ithome.com.tw/news/147193
 
 Please review the official site page [https://nathanpocock.github.io/I-ISMS](https://nathanpocock.github.io/I-ISMS)
 
