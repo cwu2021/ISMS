@@ -34,6 +34,11 @@ Objective: To protect against loss of data.
 #### A.12.3.1 Information backup
 <i>Control</i><br>
 Backup copies of information, software and system images shall be taken and tested regularly in accordance with an agreed backup policy.
+#### A.12.6 Technical vulnerability management
+Objective: To prevent exploitation of technical vulnerabilities.
+#### A.12.6.1 Management of technical vulnerabilities
+<i>Control</i><br>
+Information about technical vulnerabilities of information systems being used shall be obtained in a timely fashion, the organization's exposure to such vilnerabilities evaluated and appropriate measures taken to address the associated risk.
 
 ### A.13 Communications
 ### A.14 Development
