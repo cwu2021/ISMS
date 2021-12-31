@@ -34,6 +34,20 @@ Objective: To protect against loss of data.
 #### A.12.3.1 Information backup
 <i>Control</i><br>
 Backup copies of information, software and system images shall be taken and tested regularly in accordance with an agreed backup policy.
+#### A.12.4 Logging and monitoring
+Objective: To record events and generate evidence.
+#### A.12.4.1 Event logging
+<i>Control</i><br>
+Event logs recording user activities, exceptions, faults and information security events shall be produced, kept and regularly reviewed.
+#### A.12.4.2 Protection of log information
+<i>Control</i><br>
+Logging facilities and log information shall be protected against tampering and unauthorized access.
+#### A.12.4.3 Administrator and operator logs
+<i>Control</i><br>
+System administrator and system operator activities shall be logged and the logs protected and regularly reviewed.
+#### A.12.4.4 Clock synchronisation
+<i>Control</i><br>
+The clocks of all relevant information processing systems within an organization or security domain shall be synchronised to a single reference time source.
 #### A.12.6 Technical vulnerability management
 Objective: To prevent exploitation of technical vulnerabilities.
 #### A.12.6.1 Management of technical vulnerabilities
