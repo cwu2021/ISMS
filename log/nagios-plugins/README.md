@@ -12,5 +12,8 @@ For patch submissions and bug reports, please use the appropriate resources at:
 
 https://github.com/nagios-plugins
 
+# local system checks
+checks from local commands, iDrac output, cooling detection ,etc.
+
 # utilities for notification
 sip call, mailer, etc.
