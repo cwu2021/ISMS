@@ -31,3 +31,6 @@ alert tcp any 6667 -> any any (msg:"C&C Server sent netinfo command";content:"!n
 alert tcp any 6667 -> any any (msg:"C&C Server sent sysinfo command";content:"!sysinfo";sid:1000007;) <br>
 alert tcp any 6667 -> any any (msg:"C&C Server sent port scan command";content:"!scan";sid:1000008;) <br>
 alert tcp any 6667 -> any any (msg:"C&C Server sent download command";content:"!download";sid:1000009;) <br>
+## VPN
+### Initial packet
+$ grep Initial /var/log/daemon
