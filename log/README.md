@@ -34,3 +34,5 @@ alert tcp any 6667 -> any any (msg:"C&C Server sent download command";content:"!
 ## VPN
 ### Initial packet
 $ grep Initial /var/log/daemon
+### user login
+$ last |less
