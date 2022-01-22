@@ -18,3 +18,9 @@ https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/co
 Some vendors don't want to provide documentation, but do want users of open source operating systems to buy their hardware. These vendors provide drivers for their hardware in the form of binary objects, or <i>blobs</i>. This might sound reasonable at first, but the operating system must load these blobs into the kernel...If the blob has a security issue, or has some subtle interaction with the kernel that destablizes the system, there's no way for the developers to resolve the problem. The blob might only be inefficient or wasteful, but it could negatively impact other kernel subsystems or even include backdoors...
 
 Note that blobs are not the same as <i>firmware</i>. Firmware is a binary object a piece of hardware needs in order to run, and is loaded into the hardware itself, rather than into the operating system. You'll find firmware in almost every computer component: CPUs, motherboards, NICs, disk controllers, and so on. Firmware is never loaded into the kernel; the kernel loads the firmware into the card...The firmware lets the hardware provide its documented interface to the operating system, and if it wasn't on the disk, it would be on the hardware itself.
+## Offline Updates
+https://fedoramagazine.org/offline-updates-and-fedora-35/ <br>
+The process of restarting, applying updates, and then restarting again is called Offline Updates. Your computer boots into a special save-mode, where all other systems are disabled and where network access is unavailable. It then applies the updates and restarts.
+
+Offline Updates is there to protect you. Computers have become way more complex in the past twenty years. Back in the day, it was possible to apply updates without too much worry since the system itself was smaller and less interconnected. Multitasking was also in its infancy, so users were not actually using the computer and updating it at the same time.
+
