@@ -10,3 +10,6 @@ rsync -avz /folder1 /folder2/
 rsync -av user1@host1:/data/folder/ /local/folder/
 done
 echo "`date` sync ended..." >> sync.log
+
+# report by mail via crontab. mailx package required.
+#00 09  *  *  7 tail sync.log | mail -s "sync weekly" -S smtp=ip.of.mta webmaster@your.domain
