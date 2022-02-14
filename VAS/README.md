@@ -8,3 +8,5 @@ Information about technical vulnerabilities of information systems being used sh
 ### Practical PERL for Security Practitioners
 This paper introduces PERL as a useful, flexible, and extensible tool for the security practitioner. References to resources are provided so that the reader may expand their knowledge beyond the concepts presented here. In this paper examples of PERL's ability to process log files, grab banners of...<br>
 <i>https://www.giac.org/paper/gsec/3602/practical-perl-security-practitioners/105856</i>
+### Conclusion
+PERL is one of the more flexible tools that a security practitioner can learn. This paper has given a few examples of the power that PERL provides. PERL's extensibility allows a security practitioner to utilize a significant code base to rapidly solve problems that the security practitioner faces on a regular basis. PERL can help one create a quick solution to a smaller sized security problem, or can scale to a large security application that necessitates object oriented architecture.
