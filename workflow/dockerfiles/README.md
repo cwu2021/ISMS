@@ -1,5 +1,14 @@
+## SDN (control/data) -> NFV -> vxlan.
+## similar as PaaS -> docker
+### The Community Distribution of Kubernetes that powersRed Hat OpenShift
+https://www.okd.io/
+### Mininet is also a great way to develop, share, and experiment with Software-Defined Networking (SDN) systems using OpenFlow and P4.
+http://mininet.org/download/#option-3-installation-from-packages
+### Set OpenFlow flows based on Proxmox VM configuration.
+https://github.com/crisvp/pve-to-ofctl
+
 # dockerfiles
-https://ithelp.ithome.com.tw/articles/10191016?sc=hot
+https://ithelp.ithome.com.tw/articles/10191016?sc=hot <br>
 https://github.com/wsargent/docker-cheat-sheet
 
 一. 建立 Dockerfile
