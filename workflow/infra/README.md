@@ -12,6 +12,11 @@ Theres a similar setting available from the VNC Viewer toolbar on your tablet or
 
 <b> p.s. 8-color runs real fast on old vncviewer. and TeamViewer offers remote worker license of NT$488/mo with balanced quality and speed. </b>
 
+### LAN-only TeamViewer via VPN also works.
+- It requires no Internet connection, listening on port 5938.
+- Go into the TeamViewer application and click the Gear icon (⚙) in the upper right corner of the TeamViewer application. Navigate to General --> Incoming LAN Connections --> change to either Accept or Accept exclusively.
+https://community.teamviewer.com/English/kb/articles/4618-use-teamviewer-in-lan
+
 VNC has some limitations inherent in the protocol it uses. RFB, remote framebuffer, works by transmitting rectangles of pixels over a network. The higher the resolution and bit depth the more bandwidth required to send updates. There
 are a few optimizations VNC servers/clients already do:
 
