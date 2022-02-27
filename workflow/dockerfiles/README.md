@@ -1,4 +1,13 @@
 ## SDN (control/data) -> NFV -> vxlan.
+### Mininet is also a great way to develop, share, and experiment with Software-Defined Networking (SDN) systems using OpenFlow and P4.
+http://mininet.org/download/#option-3-installation-from-packages
+### OpenBSD has its own OpenFlow 1.3 SDN stack since 6.1
+https://www.openbsd.org/papers/bsdcan2018-mininet.pdf
+- switch(4): datapath
+- switchd(8): controller
+- switchctl(8): control application for switchd(8)
+### Set OpenFlow flows based on Proxmox VM configuration.
+https://github.com/crisvp/pve-to-ofctl
 ## similar as PaaS -> docker
 ### The Community Distribution of Kubernetes that powers Red Hat OpenShift
 https://www.okd.io/guides/aws-ipi/ <br>
@@ -22,11 +31,6 @@ This describes the resources used by OpenShift after performing an installation 
 - 21 elastic network interfaces, plus 1 interface per availability zone
 - 1 virtual private cloud gateway
 - 10 distinct security groups
-
-### Mininet is also a great way to develop, share, and experiment with Software-Defined Networking (SDN) systems using OpenFlow and P4.
-http://mininet.org/download/#option-3-installation-from-packages
-### Set OpenFlow flows based on Proxmox VM configuration.
-https://github.com/crisvp/pve-to-ofctl
 
 # dockerfiles
 https://ithelp.ithome.com.tw/articles/10191016?sc=hot <br>
