@@ -2,7 +2,9 @@
 ## Mininet is also a great way to develop, share, and experiment with Software-Defined Networking (SDN) systems using OpenFlow and P4.
 http://mininet.org/download/#option-3-installation-from-packages
 ## OpenBSD has its own OpenFlow 1.3 SDN stack since 6.1
-https://www.openbsd.org/papers/bsdcan2018-mininet.pdf
+https://www.openbsd.org/papers/bsdcan2018-mininet.pdf <br>
+https://www.openbsd.org/papers/asiabsdcon2018-mininet-paper.pdf <br>
+https://youtube.com/watch?v=u-E8emCBGXI&feature=share
 - switch(4): datapath
 - switchd(8): controller
 - switchctl(8): control application for switchd(8)
