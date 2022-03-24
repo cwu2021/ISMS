@@ -10,6 +10,6 @@ ls *http*
 wpscan
 nslookup $target_url
 wpscan --url $target_url --enumerate p
-wpscan --url http://heavenkid.ntdtv.com.tw --enumerate p --random-user-agent
+wpscan --url $target_url --enumerate p --random-user-agent
 wpscan --url $target_ip --enumerate p --random-user-agent -exit-api-token $your_token
 nmap -v -A $target_ip
