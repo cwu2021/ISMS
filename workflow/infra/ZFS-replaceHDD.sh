@@ -13,7 +13,14 @@ smartctl -a /dev/sdy | more
 # Rotation Rate:    7200 rpm
 # LED blinking the HDD array as HDD slot reference.
 hdparm -tT /dev/sdy
+# Clearing SMART disk complaints, with safety provided by ZFS.
+# resilvering will then start after fixing unreadable/uncorrectable sectors.
+# raid checking from Oracle doc.
+zpool scrub tank
+zpool status -v tank
+# Reslivering may be started soon. however, if the disk becomes unstable during the procedure,
 # Offline the disk, if necessary, with the zpool offline command.
+zpool offline tank c1t1d0
 # https://docs.oracle.com/cd/E19253-01/819-5461/gazgd/index.html
 ls -l /dev/by-id/
 zpool replace -f yourpool /dev/by-id/wwm=xxxxx /dev/by-id/wwm=olddisk /dev/by-id/wwm=newdisk
