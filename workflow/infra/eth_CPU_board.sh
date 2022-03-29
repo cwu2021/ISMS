@@ -6,3 +6,5 @@ cat /sys/class/thermal/thermal_zone*/temp
 # https://phoenixnap.com/kb/linux-cpu-temp#:~:text=Check CPU Temperature Using Lm-Sensors,-Lm-sensors is&text=Wait for the lm-sensors,all sensors in the machine.
 cat /sys/class/net/eth*/operstate
 # https://unix.stackexchange.com/questions/121523/check-if-interface-eth0-is-up-configured
+dmidecode -s system-product-name
+# to get mainboard name.
