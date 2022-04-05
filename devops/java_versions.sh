@@ -1,5 +1,8 @@
 #!/bin/ksh
 # latest version of Oracle Java without license fee is 8u202. AdoptOpenJDK can be used for later versions.
+# https://stackoverflow.com/questions/55930547/openjdk-and-java-webstart
+# https://www.wowza.com/docs/manually-install-and-troubleshoot-java-on-wowza-streaming-engine
+# https://adoptopenjdk.net/migration.html
 doas pkg_add -v jdk
 # Update candidates: quirks-4.53 -> quirks-4.53
 # quirks-4.53 signed on 2021-09-28T09:08:28Z
