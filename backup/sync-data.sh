@@ -1,4 +1,6 @@
 #!/bin/bash
+# 3-2-1 Backup plan with Fedora ARM server
+# https://fedoramagazine.org/3-2-1-backup-plan-with-fedora-arm-server/
 
 LANG=en_US
 
