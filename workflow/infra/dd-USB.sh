@@ -5,3 +5,8 @@ dd if=install70.img of=/dev/rsd6c bs=1M
 # https://www.proxmox.com/en/downloads/category/iso-images-pve
 # https://pve.proxmox.com/wiki/Prepare_Installation_Media
 dd bs=1M conv=fdatasync if=./proxmox-ve_*.iso of=/dev/XYZ
+# https://nomadbsd.org/download.html
+# uncompressed file larger than FAT can handle!
+lzma -d nomadbsd-x.y.z.img.lzma
+dd bs=1M if=nomadbsd-x.y.z.img of=/dev/sdX conv=fsync
+# may not be bootable due to USB key or PC or filesystem layout ...
