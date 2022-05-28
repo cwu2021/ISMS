@@ -54,3 +54,16 @@ X is the Unix world's equivalent of Remote Desktop. To be fair, it's been around
 All of the remote access protocols I've mentioned are freely available (either with an OS or as a download) except PcAnywhere, which is sold by Symantec.
 
 Personally I would try each of them and select the one that best suites your needs.
+
+### OpenVPN server in 5 minutes on Ubuntu
+https://www.cyberciti.biz/faq/howto-setup-openvpn-server-on-ubuntu-linux-14-04-or-16-04-lts/ <br>
+https://github.com/Nyr/openvpn-install <br>
+$ sudo bash openvpn-install.sh
+
+Looks like OpenVPN is already installed
+
+What do you want to do?
+   1) Add a cert for a new user
+   2) Revoke existing user cert
+   3) Remove OpenVPN
+   4) Exit
