@@ -11,6 +11,10 @@ https://youtube.com/watch?v=u-E8emCBGXI&feature=share
 ## Set OpenFlow flows based on Proxmox VM configuration.
 https://github.com/crisvp/pve-to-ofctl
 # Remote Access
+## TeamViewer QS for acess to fix Filezilla 'not find resource'.
+https://forum.filezilla-project.org/viewtopic.php?t=6234 <br>
+In the program dir of Filezilla, is there a folder called 'resources'? You don't need DOS for the command line parameters. Simply edit the shortcut in the start menu and add the parameter after the executable name (+a blank) in the 'Target' field.
+
 ## How can I make VNC faster?
 https://help.realvnc.com/hc/en-us/articles/360002321097-What-can-I-do-to-boost-picture-quality-or-performance-
 https://superuser.com/questions/15337/how-can-i-make-vnc-faster <br>
