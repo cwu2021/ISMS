@@ -71,3 +71,7 @@ What do you want to do?
    2) Revoke existing user cert
    3) Remove OpenVPN
    4) Exit
+#### ** client > 2.5 drops BF-CBC support. (Jun 11, 2022)
+<i># This config item must be copied to the client config file as well.</i><br>
+cipher AES-128-CBC   # AES <br>
+https://community.openvpn.net/openvpn/wiki/CipherNegotiation
