@@ -10,6 +10,8 @@ echo "`date` sync started..." >> sync.log
 rsync -avz /folder1 /folder2/
 # or sync remotely via ssh, cron at midnight, morning, aftrnoon, and such.
 rsync -av user1@host1:/data/folder/ /local/folder/
+# https://linuxize.com/post/how-to-exclude-files-and-directories-with-rsync/
+rsync -av --exclude 'out/*' --exclude 'public/uploads/*' alldata/ partialdata/
 done
 echo "`date` sync ended..." >> sync.log
 
