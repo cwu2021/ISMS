@@ -12,6 +12,8 @@ rsync -avz /folder1 /folder2/
 rsync -av user1@host1:/data/folder/ /local/folder/
 # https://linuxize.com/post/how-to-exclude-files-and-directories-with-rsync/
 rsync -av --exclude 'out/*' --exclude 'public/uploads/*' alldata/ partialdata/
+# rsync from POSIX to FAT, -a to no -go.
+rsync -rltpDvz posix/ fat/
 done
 echo "`date` sync ended..." >> sync.log
 
