@@ -10,3 +10,4 @@ curl checkip.dyndns.org
 dig +short myip.opendns.com @resolver1.opendns.com
 host myip.opendns.com resolver1.opendns.com
 curl ident.me
+curl --max-time 2 checkip.amazonaws.com
