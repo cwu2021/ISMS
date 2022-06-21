@@ -10,4 +10,5 @@ curl checkip.dyndns.org
 dig +short myip.opendns.com @resolver1.opendns.com
 host myip.opendns.com resolver1.opendns.com
 curl ident.me
+# https://unix.stackexchange.com/questions/94604/does-curl-have-a-timeout
 curl --max-time 2 checkip.amazonaws.com
