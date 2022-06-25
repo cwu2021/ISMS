@@ -6,3 +6,18 @@
 less /etc/yum.repos.d/centos.repo
 # How to activate your no-cost Red Hat Enterprise Linux subscription
 # https://developers.redhat.com/blog/2021/02/10/how-to-activate-your-no-cost-red-hat-enterprise-linux-subscription#step_2__download_no_cost_rhel
+# 2.9 Creating a Local Yum Repository Using an ISO Image
+# https://docs.oracle.com/cd/E37670_01/E37355/html/ol_create_repo.html
+mkdir -p /var/OSimage/OL6.3_x86_64
+mount -o loop,ro /ISOs/V33411-01.iso /var/OSimage/OL6.3_x86_64
+yum-config-manager --disable \*
+cat /etc/yum.repos.d/OL63.repo << EOF
+[OL63]
+name=Oracle Linux 6.3 x86_64
+baseurl=file:///var/OSimage/OL6.3_x86_64
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY
+gpgcheck=1 
+enabled=1 
+EOF
+yum clean all
+yum repolist
