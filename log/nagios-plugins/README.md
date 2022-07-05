@@ -18,6 +18,9 @@ checks from local commands, iDrac output, cooling detection ,etc.
 # utilities for notification
 sip call, mailer, etc.
 ## Forwarding mail to multiple recipients
+table nw "/etc/mail/ntdtw.table" <br>
+action nw-forward forward-only virtual \<nw\> <br>
+match from any for domain "ntd.bz" action nw-forward <br>
 https://github.com/OpenSMTPD/OpenSMTPD/wiki/Forwarding-mail-to-multiple-recipients <br>
  /etc/opensmtpd/lists.table: <br>
  postmaster admins <br>
