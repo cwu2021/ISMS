@@ -17,3 +17,10 @@ checks from local commands, iDrac output, cooling detection ,etc.
 
 # utilities for notification
 sip call, mailer, etc.
+## Forwarding mail to multiple recipients
+https://github.com/OpenSMTPD/OpenSMTPD/wiki/Forwarding-mail-to-multiple-recipients <br>
+ /etc/opensmtpd/lists.table: <br>
+ postmaster admins <br>
+ admins kevin.flynn@encom.com, alan.bradley@encom.com <br>
+ programs tron@grid.org, clue@grid.org <br>
+ isos quorra@grid.org <br>
