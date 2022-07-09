@@ -8,3 +8,5 @@ REM auto screen off. network may be off too.
 REM https://nircmd.nirsoft.net/monitor.html
 REM https://www.quora.com/How-can-I-turn-off-display-in-Windows-from-command-line	
 .\nircmd.exe monitor off
+REM or via scheduled tasks
+schtasks
