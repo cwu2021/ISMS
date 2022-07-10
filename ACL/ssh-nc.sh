@@ -9,4 +9,6 @@ User myusername         # Change this default user accordingly
 Host internalmachine    # Machine A definition (the target host)
 ProxyCommand ssh -q unibroker nc hostname.or.IP.address.internal.machine 22
 IdentityFile your_key_on_local
+# "Too many Authentication Failures" issue.
+IdentitiesOnly=yes
 EOF
