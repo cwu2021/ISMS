@@ -1,6 +1,7 @@
 @echo off
 REM https://docs.microsoft.com/zh-tw/troubleshoot/windows-server/identity/find-current-schema-version
 REM https://wiki.samba.org/index.php/AD_Schema_Version_Support
+REM a domain controller doesn't have a local SAM thus not possible for local logon.
 dsquery * "cn=schema,cn=configuration,dc=contoso,dc=local" -scope base -attr objectVersion
 REM KDC certificate information.
 certutil -scinfo
