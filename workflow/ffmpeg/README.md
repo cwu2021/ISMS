@@ -8,3 +8,4 @@ $ ffmpeg -y -f dshow -video_size 1920x1080 -pixel_format  uyvy422 -rtbufsize 702
 $ ffplay -f libndi_newtek -i "HAYLAPTOP (FrontCamera)" <br>
 ### Stream a webcam to NDI
 $ ffmpeg -f v4l2 -framerate 30 -video_size 1280x720 -pixel_format mjpeg -i /dev/video1 -f libndi_newtek -pix_fmt uyvy422 FrontCamera
+### NDI requires switch instead of direct device connection, which may be due to broadcast address needs.
