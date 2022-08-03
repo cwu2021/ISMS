@@ -13,6 +13,7 @@ myps=`your/local/exe`
     echo "$status localvar myps=$status;0;1;0; $statustxt - $myps result text"
     
 myps=`/usr/local/bin/check_load -w 1,0.6,0.3 -c 2,1.2,0.6 | awk '{print $1}'`
+myload=`/usr/local/bin/check_load -w 1,0.6,0.3 -c 2,1.2,0.6 | awk '{print $5}' | cut -d ',' -f1`
 
     if [ $myps != OK ] ; then
         status=1
@@ -21,4 +22,4 @@ myps=`/usr/local/bin/check_load -w 1,0.6,0.3 -c 2,1.2,0.6 | awk '{print $1}'`
         status=0
         statustxt=OK
     fi
-    echo "$status myLoad myps=1.0;0.6;0.3;0; $statustxt - server_load"
+    echo "$status myLoad myps=$myload;0.6;0.3;0; $statustxt - $myload server_load"
