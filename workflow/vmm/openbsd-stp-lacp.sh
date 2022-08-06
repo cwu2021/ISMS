@@ -9,3 +9,9 @@ add vr3
 # https://man.openbsd.org/ifconfig.8
 stp vr1
 EOF
+# https://man.openbsd.org/aggr.4
+ifconfig aggr0 create
+ifconfig aggr0 trunkport em0
+ifconfig aggr0 trunkport em1
+ifconfig aggr0 10.1.1.100/24
+ifconfig aggr0 up
