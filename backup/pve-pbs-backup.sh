@@ -2,6 +2,7 @@
 # unlock vm if previous backup failed due to improper handled.
 # https://forum.proxmox.com/threads/vm-locked-after-failed-backup-cant-unlock.9099/
 qm unlock 102
+# openvz backup of pve 3.x utilizes rsync and requires a short STOP of container! BEWARE.
 
 # https://forum.proxmox.com/threads/proxmox-backup-server-on-lxc-with-external-nas.79489/
 # Download Debian 10 (Buster) template
