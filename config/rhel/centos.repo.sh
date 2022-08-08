@@ -21,3 +21,8 @@ enabled=1
 EOF
 yum clean all
 yum repolist
+# Choosing your RHEL 8 clone after the death of CentOS
+# https://www.getpagespeed.com/server-setup/choosing-your-rhel
+#    AlmaLinux
+#    Rocky Linux
+#    Oracle Linux
