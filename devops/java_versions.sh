@@ -16,3 +16,6 @@ doas pkg_add -v jdk
 #       /usr/local/share/doc/pkg-readmes/jdk-1.8.0
 # --- +jdk-1.8.0.302.b08.1p0v0 -------------------
 # You may wish to add /usr/local/jdk-1.8.0/man to /etc/man.conf
+java -jar cal.jar
+# cal utility based on newer java.
+# https://github.com/frossm/cal
