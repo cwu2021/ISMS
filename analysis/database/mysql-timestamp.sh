@@ -4,3 +4,4 @@ cat > mysql-timestamp.sql << EOF
 use MyDatabase;
 SELECT * FROM table WHERE TheNameOfTimestampColumn > '2009-01-28 21:00:00';
 EOF
+mysql -p < mysql-timestamp.sql > myoutput.txt
