@@ -28,6 +28,10 @@ Theres a similar setting available from the VNC Viewer toolbar on your tablet or
 
 <b> p.s. 8-color runs real fast on old vncviewer. and TeamViewer offers remote worker license of NT$488/mo with balanced quality and speed. </b>
 
+### 全球有逾8,000臺沒有密碼保護的VNC曝露於網路上
+<i>https://www.ithome.com.tw/news/152510</i><br>
+Cyble之所以特別提出警告，是因為他們在最近發現VNC已成為駭客鎖定及掃描的對象，在曝露於公開網路上的VNC實例中，中國與瑞典都占了超過1,500個，美國則有超過800個，西班牙與巴西也都超過500個，而且這些缺乏密碼保護的，不乏隸屬於重大基礎設施的VNC實例，像是水處理廠、製造工廠或研究中心等。
+
 ### LAN-only TeamViewer via VPN also works.
 - It requires no Internet connection, listening on port 5938.
 - Go into the TeamViewer application and click the Gear icon (⚙) in the upper right corner of the TeamViewer application. Navigate to General --> Incoming LAN Connections --> change to either Accept or Accept exclusively.
