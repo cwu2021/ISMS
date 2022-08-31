@@ -3,6 +3,12 @@
 ## A.15.1.1 of ISO/IEC 27001:2005
 <i>Control</i><br>
 All relevant legislative statutory, regulatory, contractual requirements and the organization's approach to meet these requirements shall be explicitly identified, documented and kept up to date for each information system and the organization.
+## Common Sense (1776)
+<i>https://en.wikisource.org/wiki/Common_Sense_(1776)</i><br>
+Man knows no Master save creating Heaven,
+Or those whom Choice and Common Good ordain.
+ ~ Thomson.
+
 ## GDPR
 ## NCC
 ### 影音授權與廣電法規
