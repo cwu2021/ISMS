@@ -1,5 +1,9 @@
 #!/bin/bash
 # use ctrl-c to simulate 'next song' for this simple loop playback.
+# for scheduled streaming, just `crontab -e` a similar script without loop:
+# 00 20 * * 1-6 screen -d -m /data/scheduled-rtmp.sh
+# and make sure the server is set to the correct timezone:
+timedatectl
 
 # self compiled ffmpeg path
 export LD_LIBRARY_PATH=/src/ffmpeg-2.6.2-1.el6.i686/lib
