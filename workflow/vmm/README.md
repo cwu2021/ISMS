@@ -9,5 +9,5 @@ there were some issues related to uvm/pmap and wired pages fixed recently,
 but i don't think this is one of the panics that would result.</i> 
 ## NIC/networking with temporal correlation removed, which also simplified vm networking. unused services disabled. keep observing.
 ## Emulators
- - dgen-gtk for sega.
+ - dgen for sega. https://www.mankier.com/5/dgenrc
  - snes9x for super nintendo.
