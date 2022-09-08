@@ -18,6 +18,8 @@ ls | while read source
 do
 # /src/ffmpeg-2.6.2-1.el6.i686/bin/ffmpeg -re -i $source -acodec copy -vcodec copy -bufsize 8000k -f flv $output < /dev/null
 # backup stream turned on to resume broadcast.
+# 至於那個備援能起到多大作用，還是取決於youtube平台的實作是否完善，用戶就是照他設計的設定來做。但若網路質量不足，這樣的消耗反而會播不順 (沒起到備援作用反而過度消耗)。
+
 /src/ffmpeg-2.6.2-1.el6.i686/bin/ffmpeg -re -i $source -acodec copy -vcodec copy -bufsize 8000k -f flv $output -acodec copy -vcodec copy -bufsize 8000k -f flv $backup < /dev/null
 done
 done
