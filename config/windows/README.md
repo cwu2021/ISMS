@@ -3,6 +3,9 @@ https://answers.microsoft.com/en-us/windows/forum/all/bsod-registryerror/53c4326
 If you receiver a Blue Screen with a error message REGISTRY_ERROR bug, that indicates that a severe registry error has occurred. In other words something has gone wrong with the registry. This error may indicate that the registry encountered an I/O error while trying to read one of its files. This can be caused by hardware problems or file system corruption.
 
 when this occurs during console or rdp login, backups could be done via net share such as C$ with domain admin or other working drives.
+# IRQL_NOT_LESS_OR_EQUAL
+https://www.tomshardware.com/how-to/fix-irql-not-less-or-equal-errors-windows <br>
+(sometimes referred to as just “IRQL”) is typically a memory related error that occurs if a system process or a device driver seeks access to a memory address for which it lacks valid access rights. 
 ## VM restoration related!! maybe failed or something similar.
  - 此工作站和主要網域間的信任關係失敗
 https://ithelp.ithome.com.tw/articles/10259756
