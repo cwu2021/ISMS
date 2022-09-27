@@ -79,3 +79,6 @@ What do you want to do?
 <i># This config item must be copied to the client config file as well.</i><br>
 cipher AES-128-CBC   # AES <br>
 https://community.openvpn.net/openvpn/wiki/CipherNegotiation
+#### Is a TCP port needed or can I open only 1194 for UDP
+<i>https://forums.openvpn.net/viewtopic.php?f=24&t=29289</i><br>
+By default the OpenVPN Connect client installer file comes prebundled with a server-locked profile. There is no option setting to change this.
