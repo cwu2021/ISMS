@@ -1,3 +1,6 @@
+# Metaverse: AR/VR/AI/NFT/IoT
+ - NFT ftom 2012. boost on 2021.
+ - ref: snow crash , ready player one.
 # 星巴克也踏進Web 3！
  - 新會員制度可換NFT、咖啡課程，還有哪些亮點？
  - polygon ethereum
