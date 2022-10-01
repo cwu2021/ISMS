@@ -1,6 +1,8 @@
 # Best practice, clean PC for customized app. Follow items on the contract.
 # Math for Machine Learning 
-https://mml-book.github.io/book/mml-book.pdf
+https://mml-book.github.io/book/mml-book.pdf <br>
+https://github.com/trekhleb/machine-learning-experiments <br>
+https://github.com/topics/deeplearning-demo
 ## A.14 Development
 # Cloudflare Web3 docs
 https://developers.cloudflare.com/web3/
