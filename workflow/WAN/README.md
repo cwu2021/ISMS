@@ -1,3 +1,8 @@
+# 5G Technology
+Test your 5G, 4G and WiFi connection with our top 12 apps | 5Gradar<br>
+<i>https://www.5gradar.com/features/test-your-5g-connection-with-our-top-apps</i><br>
+<i>https://github.com/calee0219/awesome-5g</i>
+
 # Dynamic routing of friends' networks at home using BGP privately : building Intranets.
 http://blog.jpauli.tech/dynamic-routing-of-friends-networks-at-home-using-bgp-privately/
 # Why BGP is used over OSPF?
