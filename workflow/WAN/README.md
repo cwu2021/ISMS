@@ -25,3 +25,7 @@ Starlink Business users can expect download speeds of up to 350 Mbps and latency
 論壇時間： 9/27(二) & 9/28(三) 09:00~17:00
 
 Day 2 morning presentation.
+# iPhone 14 Will Have Satellite Connectivity. How Exactly It Will Work
+Globalstar is operating a constellation of 48 satellites in LEO at 1414 km altitude. They are placed in eight orbital planes of six satellites, each with an inclination of 52°. This means they can provide service on Earth from 70° North latitude to 70° South latitude. Meaning the iPhone 14 satellite connectivity won’t work in polar regions.
+
+https://www.universetoday.com/157474/iphone-14-will-have-satellite-connectivity-how-exactly-it-will-work/
