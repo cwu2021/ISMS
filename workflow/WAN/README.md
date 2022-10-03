@@ -1,8 +1,16 @@
 # 5G Technology
-Test your 5G, 4G and WiFi connection with our top 12 apps | 5Gradar<br>
-<i>https://www.5gradar.com/features/test-your-5g-connection-with-our-top-apps</i><br>
-<i>https://github.com/calee0219/awesome-5g</i>
-
+ - Test your 5G, 4G and WiFi connection with our top 12 apps | 5Gradar <br>
+https://www.5gradar.com/features/test-your-5g-connection-with-our-top-apps<br>
+https://github.com/calee0219/awesome-5g
+ - NCC公布5G電波人口涵蓋率已達94.36% !? <br>
+https://www.kocpc.com.tw/archives/440835
+ - Turn Your Cell Phone Into A Satellite Phone | Iridium Satellite Communications <br>
+https://www.iridium.com/blog/2022/05/11/how-to-turn-your-cell-phone-into-a-satellite-phone/
+ - TACC台灣資料分析中心 <br>
+https://tacc.cwb.gov.tw/v2/
+ - iPhone 14 Will Have Satellite Connectivity. How Exactly It Will Work <br>
+https://www.universetoday.com/157474/iphone-14-will-have-satellite-connectivity-how-exactly-it-will-work/
+Globalstar is operating a constellation of 48 satellites in LEO at 1414 km altitude. They are placed in eight orbital planes of six satellites, each with an inclination of 52°. This means they can provide service on Earth from 70° North latitude to 70° South latitude. Meaning the iPhone 14 satellite connectivity won’t work in polar regions.<br>
 # Dynamic routing of friends' networks at home using BGP privately : building Intranets.
 http://blog.jpauli.tech/dynamic-routing-of-friends-networks-at-home-using-bgp-privately/
 # Why BGP is used over OSPF?
@@ -30,7 +38,3 @@ Starlink Business users can expect download speeds of up to 350 Mbps and latency
 論壇時間： 9/27(二) & 9/28(三) 09:00~17:00
 
 Day 2 morning presentation.
-# iPhone 14 Will Have Satellite Connectivity. How Exactly It Will Work
-Globalstar is operating a constellation of 48 satellites in LEO at 1414 km altitude. They are placed in eight orbital planes of six satellites, each with an inclination of 52°. This means they can provide service on Earth from 70° North latitude to 70° South latitude. Meaning the iPhone 14 satellite connectivity won’t work in polar regions.
-
-https://www.universetoday.com/157474/iphone-14-will-have-satellite-connectivity-how-exactly-it-will-work/
