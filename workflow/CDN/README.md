@@ -1,3 +1,5 @@
+# AWS Local Zones Expansion: Taipei and Delhi
+https://aws.amazon.com/blogs/aws/aws-local-zones-expansion-taipei-and-delhi/
 # Metaverse: AR/VR/AI/NFT/IoT
  - NFT ftom 2012. boost on 2021.
  - ref: snow crash , ready player one.
