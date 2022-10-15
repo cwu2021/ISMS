@@ -10,3 +10,7 @@ dnf history
 dnf info fedora-repos-archive
 dnf install fedora-repos-archive
 dnf history undo 158
+# Test Week for Kernel 6.0 
+# https://fedoramagazine.org/contribute-at-the-fedora-linux-37-test-week-for-kernel-6-0/
+koji list-builds –package=kernel –after=”2022-10-16″ | grep “6.00”
+koji list-builds –package=kernel –after=”2022-10-16″ 
