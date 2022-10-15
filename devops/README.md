@@ -1,4 +1,7 @@
 # Best practice, clean PC for customized app. Follow items on the contract.
+# Rethinking Unix-like systems
+https://www.linux-magazine.com/Issues/2022/258/Distro-Walk-DragonFly-BSD <br>
+https://www.linux-magazine.com/Online/Features/Make-It-One-with-Linux
 # Math for Machine Learning 
 https://mml-book.github.io/book/mml-book.pdf <br>
 https://github.com/trekhleb/machine-learning-experiments <br>
