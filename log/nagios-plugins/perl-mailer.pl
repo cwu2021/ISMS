@@ -13,3 +13,12 @@ use Try::Tiny;my $email = Email::Simple->create(
 } catch {
  print "Can't send mail: $_";
 }
+# To start from scratch in docker with latest ubuntu:
+# docker run -it --name kinetic ubuntu:22.10 bash
+# docker attach kinetic
+# export PS1="\u@kinetic:\w#"
+# apt update
+# apt upgrade
+# apt install cpanminus
+# cpanm install Net::SMTP
+# perl -v
