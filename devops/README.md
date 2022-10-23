@@ -1,4 +1,6 @@
 # Best practice, clean PC for customized app. Follow items on the contract.
+# Stack Overflow Trends
+https://insights.stackoverflow.com/trends?tags=react-native%2Cflutter%2Cionic-framework%2Cxamarin&_ga=2.132343628.330900151.1666453939-101389269.1666453939
 # Rethinking Unix-like systems
 https://www.linux-magazine.com/Issues/2022/258/Distro-Walk-DragonFly-BSD <br>
 https://www.linux-magazine.com/Online/Features/Make-It-One-with-Linux
