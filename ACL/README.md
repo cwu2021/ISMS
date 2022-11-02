@@ -5,3 +5,6 @@
 https://www.debugpoint.com/guide-how-share-folder-between-ubuntu-linux-windows/ <br>
 https://askubuntu.com/questions/88108/samba-share-read-only-for-guests-read-write-for-authenticated-users <br>
  - chmod 755 ~/shareFolder
+## Windows防火牆進階設定的輸出規則
+ - https://kheresy.wordpress.com/2019/01/10/windows-firewall-setting-only-aloow-some-ip-connect/
+
