@@ -1,7 +1,7 @@
 # apt install libmoose-perl
 # perl -le "print for @INC"
 # Intermediate Perl, p20.
-BEGIN { unshift @INC, '~/lib'; }
+BEGIN { unshift @INC, '/home/myuser/lib'; }
 use Horse;
 use v5.10;
 
