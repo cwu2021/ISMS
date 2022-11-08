@@ -2,6 +2,8 @@
 # perldoc perlfaq3
 # apt install cpanminus
 use lib '/home/myuser/perl5/lib/perl5';
+# https://perldoc.perl.org/modules
+# use Module::CoreList;
 # perl -le "print for @INC"
 # Intermediate Perl, p20.
 # BEGIN { unshift @INC, '/home/myuser/lib'; }
