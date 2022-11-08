@@ -16,6 +16,7 @@ print "$_ " for @modules
 C:\Strawberry\perl\bin>perl -le "print $^O"
 MSWin32
 (darwin for osx with perl 5.8.8)
+(WebPerl | Run Perl in the browser with WebPerl! https://webperl.zero-g.net/ )
 C:\Strawberry\perl\bin>perl check_modules.pl
 Algorithm::C3 Algorithm::Diff Alien::Build Alien::GMP Alien::Libxml2 Alt::Crypt:
 :RSA::BigInt App::cpanminus App::local::lib::Win32Helper App::module::version Ap
