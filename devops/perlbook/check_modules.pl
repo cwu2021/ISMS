@@ -15,6 +15,7 @@ print "$_ " for @modules
 =pod
 C:\Strawberry\perl\bin>perl -le "print $^O"
 MSWin32
+(dos for freedos with perl 5.8.8)
 (darwin for osx with perl 5.8.8)
 (WebPerl | Run Perl in the browser with WebPerl! https://webperl.zero-g.net/ )
 C:\Strawberry\perl\bin>perl check_modules.pl
