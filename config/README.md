@@ -6,3 +6,10 @@ https://www.ithome.com.tw/news/147193
 ## CLIENT AND SERVER SETTINGS FOR CONFIGURATION MANAGEMENT
 An important part of Red Hat Satellite 6’s configuration process is making sure the Puppet clients (called Puppet agents) can communicate with the Puppet Server (called Puppet master) on either the internal Satellite Capsule or an external Satellite Capsule. <br>
 https://access.redhat.com/documentation/en-us/red_hat_satellite/6.4/html/puppet_guide/chap-red_hat_satellite-puppet_guide-client_and_server_settings_for_configuration_management
+### Puppet from gems (versions can be chosen)
+https://rubygems.org/gems/puppet/versions/4.3.2?locale=zh-TW <br>
+$ sudo apt install rubygems <br>
+$ sudo gem install puppet -v 4.3.2 <br>
+$ sudo gem query --local <br>
+http://guides.rubygems.org/command-reference/#gem-list
+
