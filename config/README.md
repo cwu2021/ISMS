@@ -13,4 +13,5 @@ $ sudo gem install puppet -v 4.3.2 <br>
 $ sudo gem query --local <br>
 http://guides.rubygems.org/command-reference/#gem-list
 ### Installing Ruby 1.8.7 in Ubuntu 20.04 (Focal Fossa)
-https://learn.bitcontroltech.com/2021/05/installing-ruby-1-8-7-in-ubuntu-20-04-focal-fossa/
+ - https://learn.bitcontroltech.com/2021/05/installing-ruby-1-8-7-in-ubuntu-20-04-focal-fossa/
+ - https://wiki.ubuntu.com/Releases
