@@ -32,6 +32,8 @@ https://nxlog.co/documentation/nxlog-user-guide/eventlog-eventids.html
  - https://www.netadmintools.com/art314.html
 ### Sys::Syslog, openlog, closelog, setlogmask, syslog - Perl interface to the UNIX syslog(3) calls - Perldoc Browser
  - https://perldoc.perl.org/Sys::Syslog
+### Log Management: installing and using multitail.
+ - https://www.admin-magazine.com/HPC/Articles/Log-Management
 ## IDS
 https://github.com/John-Lin/snort-base/tree/master/mysnortrules/rules <br>
 alert icmp any any -> any any (msg:"Pinging...";sid:1000004;) <br>
