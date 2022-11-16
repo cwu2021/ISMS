@@ -11,9 +11,11 @@ Windows 11 has Application Isolation to run dangerous files and web pages in a c
 
 http://en.minghui.org/html/articles/2022/5/7/200215.html
 ## Windows Sandbox - Windows security | Microsoft Learn
-https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview <br>
-https://youtu.be/uIjX4aOoeaQ
-
+ - https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview <br>
+ - https://youtu.be/uIjX4aOoeaQ
+## Microsoft shares mitigation for Windows KrbRelayUp LPE attacks
+ - https://www.bleepingcomputer.com/news/security/microsoft-shares-mitigation-for-windows-krbrelayup-lpe-attacks/
+ - https://www.ithome.com.tw/news/151458
 #  BSOD REGISTRY_ERROR 
 https://answers.microsoft.com/en-us/windows/forum/all/bsod-registryerror/53c43269-e2d4-4440-a230-cce80038bc30 <br>
 If you receiver a Blue Screen with a error message REGISTRY_ERROR bug, that indicates that a severe registry error has occurred. In other words something has gone wrong with the registry. This error may indicate that the registry encountered an I/O error while trying to read one of its files. This can be caused by hardware problems or file system corruption.
