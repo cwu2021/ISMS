@@ -9,5 +9,6 @@ A distribution will contain one or more modules, documentation, a build script, 
 https://manpages.ubuntu.com/manpages/impish/man3/Unix::Syslog.3pm.html
 ## Perl stats
  - metacpan weekly report https://niceperl.blogspot.com/2022/10/dxxix-metacpan-weekly-report-texttable.html
+ - Weekly MetaCPAN report on Perl Weekly https://perlweekly.com/metacpan.html
  - stackoverflow perl report https://niceperl.blogspot.com/2022/10/dlvii-stackoverflow-perl-report.html
  - CPAN modules released last week https://niceperl.blogspot.com/2022/10/cdxvi-16-great-cpan-modules-released.html
