@@ -14,6 +14,9 @@ https://github.com/crisvp/pve-to-ofctl
 ## TeamViewer QS for acess to fix Filezilla 'not find resource'.
 https://forum.filezilla-project.org/viewtopic.php?t=6234 <br>
 In the program dir of Filezilla, is there a folder called 'resources'? You don't need DOS for the command line parameters. Simply edit the shortcut in the start menu and add the parameter after the executable name (+a blank) in the 'Target' field.
+## Supported operating systems, including different Mac.
+ - https://community.teamviewer.com/English/kb/articles/24141-supported-operating-systems
+ - https://community.teamviewer.com/English/kb/articles/24141-which-operating-systems-are-supported
 
 ## How can I make VNC faster?
 https://help.realvnc.com/hc/en-us/articles/360002321097-What-can-I-do-to-boost-picture-quality-or-performance-
