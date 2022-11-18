@@ -1,5 +1,7 @@
 #!/bin/bash
 # https://mathias-kettner.de/checkmk_localchecks.html
+# Monitoring time-based processes (Cronjobs)
+# https://docs.checkmk.com/latest/en/monitoring_jobs.html
 
 myps=`your/local/exe`
 
