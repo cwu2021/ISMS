@@ -18,3 +18,15 @@ C:\\> ffmpeg.exe -f libndi_newtek -i "NC1IO-RCTV (IN 4)" -vf yadif -c:v libx264 
 # NDI and Skype
 - Internet and LAN access for Skype all allowed between TriCaster and SkypeTX are required. 
 - Two channels available on TC1.
+# FFmpeg on Mac
+### macOS更新到Catalina後，找不到TIMEMACHINE上原來的的備份，只要這一招就能解決 @Blog-i-Move
+ - https://blogimove.com/catalina-timemachine-recovery-problem/
+### static FFmpeg binaries for macOS 64-bit
+ - https://evermeet.cx/ffmpeg/
+### Installing FFmpeg on macOS Big Sur (on Intel) - RickMakes
+ - https://www.rickmakes.com/installing-ffmpeg-on-macos-big-sur-on-intel/
+### Amazon EC2 Mac Instances - Amazon Web Services
+ - https://aws.amazon.com/ec2/instance-types/mac/
+### 如何查 Apple M1 軟體、遊戲相容性？用這方法即可查詢 - 瘋先生
+ - https://mrmad.com.tw/apple-silicon-compatible-query
+
