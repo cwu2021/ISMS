@@ -12,6 +12,13 @@ $ sudo apt install rubygems <br>
 $ sudo gem install puppet -v 4.3.2 <br>
 $ sudo gem query --local <br>
 http://guides.rubygems.org/command-reference/#gem-list
+### Deploy our own software using Puppet? - Server Fault
+ - https://serverfault.com/questions/215545/deploy-our-own-software-using-puppet
 ### Installing Ruby 1.8.7 in Ubuntu 20.04 (Focal Fossa)
  - https://learn.bitcontroltech.com/2021/05/installing-ruby-1-8-7-in-ubuntu-20-04-focal-fossa/
  - https://wiki.ubuntu.com/Releases
+### A Ruby Gem to easily create Nagios Plugins.
+ - https://github.com/jhstatewide/ruby-nagios-plugin
+### Ruby library to monitor system resources - Stack Overflow
+ - https://stackoverflow.com/questions/1346578/ruby-library-to-monitor-system-resources
+ - http://rubyforge.org/projects/sysutils
