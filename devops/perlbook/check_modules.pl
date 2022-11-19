@@ -18,6 +18,9 @@ MSWin32
 (dos for freedos with perl 5.8.8)
 (darwin for osx with perl 5.8.8 ; Mojave 10.14 with perl 5.18.2)
 (WebPerl | Run Perl in the browser with WebPerl! https://webperl.zero-g.net/ )
+(cygwin) This is perl 5, version 32, subversion 1 (v5.32.1) built for i686-cygwin-threads-64int-multi
+(with 7 registered patches, see perl -V for more detail)
+Copyright 1987-2021, Larry Wall
 C:\Strawberry\perl\bin>perl check_modules.pl
 Algorithm::C3 Algorithm::Diff Alien::Build Alien::GMP Alien::Libxml2 Alt::Crypt:
 :RSA::BigInt App::cpanminus App::local::lib::Win32Helper App::module::version Ap
