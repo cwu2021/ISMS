@@ -4,6 +4,10 @@ $ ffmpeg -list_devices true -f dshow -i dummy <br>
 $ ffmpeg -y -f dshow -video_size 1920x1080 -pixel_format  uyvy422 -rtbufsize 702000 -framerate 59.94 -i video="Decklink Video Capture" -codec:v libx264 -pix_fmt yuv420p -preset ultrafast -an -crf 0  output.mp4 <br>
 https://stackoverflow.com/questions/47339745/sending-blackmagic-decklink-studio-4k-over-rtmp-streams-with-ffmpeg <br>
 $ ffmpeg -re -format_code Hi59 -f decklink -i 'DeckLink Studio 4K' -map 0 -flags +global_header -vcodec libx264 -crf 25 -preset medium -pix_fmt yuv422p -acodec aac -f tee "[f=flv]rtmp://ip1/live/test|[f=flv]rtmp://ip2/live/test.
+# Encode/VFX – FFmpeg
+https://trac.ffmpeg.org/wiki/Encode/VFX
+## Apple Prores
+https://www.apple.com/tw/final-cut-pro/docs/Apple_ProRes_White_Paper.pdf
 # NDI and ffmpeg streaming commands
 ## http://haytech.blogspot.com/2018/03/ndi-and-ffmpeg-streaming-commands.html
 ### Monitor an NDI stream
