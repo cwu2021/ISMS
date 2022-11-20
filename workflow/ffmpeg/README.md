@@ -8,6 +8,8 @@ $ ffmpeg -re -format_code Hi59 -f decklink -i 'DeckLink Studio 4K' -map 0 -flags
 https://trac.ffmpeg.org/wiki/Encode/VFX
 ## Apple Prores
 https://www.apple.com/tw/final-cut-pro/docs/Apple_ProRes_White_Paper.pdf
+## Building a video converter with Rails 6 and FFmpeg
+https://dev.to/davidcolbyatx/building-a-video-converter-with-rails-6-and-ffmpeg-5e88
 # NDI and ffmpeg streaming commands
 ## http://haytech.blogspot.com/2018/03/ndi-and-ffmpeg-streaming-commands.html
 ### Monitor an NDI stream
