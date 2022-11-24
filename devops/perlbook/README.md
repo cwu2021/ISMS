@@ -12,3 +12,6 @@ https://manpages.ubuntu.com/manpages/impish/man3/Unix::Syslog.3pm.html
  - Weekly MetaCPAN report on Perl Weekly https://perlweekly.com/metacpan.html
  - stackoverflow perl report https://niceperl.blogspot.com/2022/10/dlvii-stackoverflow-perl-report.html
  - CPAN modules released last week https://niceperl.blogspot.com/2022/10/cdxvi-16-great-cpan-modules-released.html
+## Coding trends
+ - https://insights.stackoverflow.com/trends?tags=zend-framework%2Creact-native%2Cwordpress
+ - https://madnight.github.io/githut/#/pull_requests/2022/3
