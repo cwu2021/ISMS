@@ -19,9 +19,19 @@ http://guides.rubygems.org/command-reference/#gem-list
 ### Installing Ruby 1.8.7 in Ubuntu 20.04 (Focal Fossa)
  - https://learn.bitcontroltech.com/2021/05/installing-ruby-1-8-7-in-ubuntu-20-04-focal-fossa/
  - https://wiki.ubuntu.com/Releases
-### A Ruby Gem to easily create Nagios Plugins.
+### Ruby Gem to easily create Nagios Plugins.
  - https://github.com/jhstatewide/ruby-nagios-plugin
-### Ruby library to monitor system resources - Stack Overflow
+ - https://github.com/ripienaar/ruby-nagios
+### Ruby library to monitor system resources, and Rails!
  - https://stackoverflow.com/questions/1346578/ruby-library-to-monitor-system-resources
  - http://rubyforge.org/projects/sysutils
  - rake, rails are popular gems!
+ - https://github.com/piotrmurach/awesome-ruby-cli-apps
+<br>$ sudo apt install rails
+(cause rails new myapp from gems may throwout errors)
+ - https://ubuntu.com/server/docs/programming-ruby-on-rails 
+ - https://travis-ci.community/t/mkmf-rb-cant-find-header-files-for-ruby-at-usr-lib-ruby-include-ruby-h-building-the-travis-gem/4527
+ - https://github.com/rails/rails
+ - https://www.spreered.com/ask-job-line-bot-2-ruby-crawler/
+ - https://github.com/CarolHsu/rumor-checker
+
