@@ -24,3 +24,6 @@ do
 # /src/ffmpeg-2.6.2-1.el6.i686/bin/ffmpeg -re -i $source -acodec copy -vcodec copy -bufsize 8000k -f flv $output -acodec copy -vcodec copy -bufsize 8000k -f flv $backup < /dev/null
 done
 done
+
+# Facebook relay may require aac audio encoding.
+# -re -i "$SOURCE" -c:v copy -c:a aac -f flv "$FACEBOOK_URL/$KEY"
