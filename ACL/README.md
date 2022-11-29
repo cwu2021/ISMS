@@ -9,4 +9,7 @@ https://askubuntu.com/questions/88108/samba-share-read-only-for-guests-read-writ
  - https://kheresy.wordpress.com/2019/01/10/windows-firewall-setting-only-aloow-some-ip-connect/
 ## Windows防火牆進階設定的輸入規則
  - ICMPv4, 445 tcp should be allowed to any for SMB accross LANs.
-
+## Add User to Sudoers
+ - usermod -aG wheel UserName , then visudo find 'tom ALL=(ALL) NOPASSWD:ALL'
+ - https://phoenixnap.com/kb/how-to-create-add-sudo-user-centos#ftoc-heading-5
+ - https://www.cyberciti.biz/faq/linux-unix-running-sudo-command-without-a-password/
