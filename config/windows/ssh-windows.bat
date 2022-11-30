@@ -1,4 +1,5 @@
 @echo off
+REM Microsoft Announces Support for SSH https://undeadly.org/cgi?action=article;sid=20150603090420
 REM Windows+R to run, +S to search.
 PowerShell
 Add-WindowsCapability -Online -Name OpenSSH.Server~~~~0.0.1.0
