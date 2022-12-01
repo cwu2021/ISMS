@@ -21,6 +21,8 @@ xenial:~$ ffmpeg-ndi/ffmpeg -f libndi_newtek -find_sources 1 -i dummy
 https://forums.newtek.com/threads/streaming-from-ndi-to-facebook-with-ffmpeg.157567/ <br>
 C:\\> ffmpeg.exe -f libndi_newtek -i "NC1IO-RCTV (IN 4)" -vf yadif -c:v libx264 -preset veryfast -crf 20 -c:a aac -f flv "rtmp://live-api-s.facebook.com:80/rtmp/101XXXXXXXXXXXXXX?ds=1&s_vt=api-s&a=ATivxXXXXXXXXXX"
 ## intermediate codec (between camera and output)
+ - https://www.theinsidetips.com/tip-105-why-do-we-need-intermediate-codecs/
+ - https://blog.frame.io/2017/02/13/compare-50-intermediate-codecs/
  - It is generally very similar to MPEG-2 intraframe. .. NewTek's NDI network codec uses SHQ2 and SHQ7. https://wiki.multimedia.cx/index.php/SpeedHQ
  - NDI 單路約 150-250Mbps ( 10Gbps = 40 路 )，又類似 MPEG-2 I-frame 編碼，那麼畫質應當不比 Vegas 輸出的 XDCAM 35Mbps MP4 差。 https://learnmediatech.com/i-p-b-frames-and-gops-mpeg-2/ 
  - https://www.getop.com/product-page/aja-bridge-ndi-3g-雙向轉換器 
