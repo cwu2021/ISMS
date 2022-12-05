@@ -16,7 +16,7 @@ print "$_ " for @modules
 C:\Strawberry\perl\bin>perl -le "print $^O"
 MSWin32
 (dos for freedos with perl 5.8.8)
-(darwin for osx with perl 5.8.8 ; El Capitan 10.11/Mojave 10.14 with perl 5.18.2)
+(darwin for osx with perl 5.8.8 ; El Capitan 10.11/Mojave 10.14 with perl 5.18.2; ruby 1.9.3+)
 (WebPerl | Run Perl in the browser with WebPerl! https://webperl.zero-g.net/ )
 (cygwin) This is perl 5, version 32, subversion 1 (v5.32.1) built for i686-cygwin-threads-64int-multi
 (with 7 registered patches, see perl -V for more detail)
