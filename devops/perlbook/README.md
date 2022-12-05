@@ -1,4 +1,6 @@
 ## Logic and Intelligence
+https://github.com/mjhea0/python-ruby <br>
+<i>Ruby inherited the Perl philosophy of having more than one way to do the same thing. I inherited that philosophy from Larry Wall, who is my hero actually. I want to make Ruby users free. I want to give them the freedom to choose. </i>
  - Perl: system operation
  - Python: numerical analysis
  - Ruby: business automation
