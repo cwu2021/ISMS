@@ -20,6 +20,8 @@ http://guides.rubygems.org/command-reference/#gem-list
  - https://learn.bitcontroltech.com/2021/05/installing-ruby-1-8-7-in-ubuntu-20-04-focal-fossa/
  - https://wiki.ubuntu.com/Releases
  - JRuby 1.4.0 Released https://www.jruby.org/2009/11/02/jruby-1-4-0.html
+ - Ubuntu package for RVM https://github.com/rvm/ubuntu_rvm
+ - RVM is not a function; bash --login https://stackoverflow.com/questions/23963018/rvm-is-not-a-function-selecting-rubies-with-rvm-use-will-not-work
 ### Ruby Gem to easily create Nagios Plugins.
  - https://github.com/jhstatewide/ruby-nagios-plugin
  - https://github.com/ripienaar/ruby-nagios
