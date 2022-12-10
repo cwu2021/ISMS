@@ -85,3 +85,10 @@ https://community.openvpn.net/openvpn/wiki/CipherNegotiation
 #### Is a TCP port needed or can I open only 1194 for UDP
 <i>https://forums.openvpn.net/viewtopic.php?f=24&t=29289</i><br>
 By default the OpenVPN Connect client installer file comes prebundled with a server-locked profile. There is no option setting to change this.
+#### IKEv2 OpenBSD VPN
+<i>https://www.openbsd.org/faq/faq17.html</i><br>
+ The ikectl(8) utility also allows you to maintain a simple X.509 certificate authority (CA) for IKEv2 peers.
+
+An IKEv1 server (isakmpd(8)) is also available and, coupled with npppd(8), it allows you to build an IKEv1/L2TP VPN where IKEv2 can't be deployed.
+
+Native WireGuard support is also available via the wg(4) device. As the manual explains, it can be configured the same way as all other network interfaces in OpenBSD. 
