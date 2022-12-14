@@ -1,3 +1,34 @@
+# Install WireGuard VPN Server on OpenBSD 7.0
+# https://www.vultr.com/docs/install-wireguard-vpn-server-on-openbsd-7-0/
+pkg_add wireguard-tools
+sysctl net.inet.ip.forwarding=1
+echo "net.inet.ip.forwarding=1" >> /etc/sysctl.conf
+mkdir -p /etc/wireguard
+cd /etc/wireguard
+wg genkey > private.key
+wg pubkey <private.key> public.key
+cat > /etc/wireguard/wg0.conf << EOF
+[Interface]
+PrivateKey = SERVER-PRIVATE-KEY 
+ListenPort = 51820
+#Client configuration
+[Peer] 
+PublicKey = CLIENT-PUBLIC-KEY
+#Enter assigned Client local VPN address
+AllowedIPs = 10.0.0.2/32
+#Keep the connection alive
+PersistentKeepalive = 25 
+EOF
+# Extra pf rules
+# pass in on wg0 
+# pass in inet proto udp from any to any port 51820 
+# pass out on egress inet from (wg0:network) nat-to (vio0:0)
+cat > /etc/hostname.wg0 << EOF
+inet 10.0.0.1 255.255.255.0 NONE 
+up
+!/usr/local/bin/wg setconf wg0 /etc/wireguard/wg0.conf
+EOF
+# Use wg to view the current WireGuard server status.
 # https://www.wireguard.com/quickstart/
 # Command-line Interface
 # A new interface can be added via ip-link(8), which should automatically handle module loading:
