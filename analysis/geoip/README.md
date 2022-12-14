@@ -17,3 +17,6 @@ You can also configure cron to send an email containing the output from each pf-
 # Link-local address
 https://en.wikipedia.org/wiki/Link-local_address <br>
 169.254.0.0/16 
+# Amazon SES IP addresses
+- https://aws.amazon.com/tw/blogs/messaging-and-targeting/amazon-ses-ip-addresses/
+- dig TXT amazonses.com +short| grep 'v=spf1'
