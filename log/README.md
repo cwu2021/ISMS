@@ -24,6 +24,13 @@ https://ithelp.ithome.com.tw/m/questions/10194900 <br>
 ### Event IDs to monitor
 When it comes to Windows log collection, one of the most challenging tasks of a system administrator is deciding which event IDs to monitor. Due to the large number of event IDs in use, this can be daunting at first sight. Therefore, this section aims to provide guidance about selecting event IDs to monitor, with some example configurations. <br>
 https://nxlog.co/documentation/nxlog-user-guide/eventlog-eventids.html
+### Splunk, Greylog, Winlogbeat.
+ - https://docs.splunk.com/Documentation/Splunk/9.0.2/Installation/DeployandrunSplunkEnterpriseinsideDockercontainers
+ - docker pull splunk/splunk:latest
+ - docker run -d -p 8000:8000 -e "SPLUNK_START_ARGS=--accept-license" -e "SPLUNK_PASSWORD=<password>" --name splunk splunk/splunk:latest
+ - https://www.reddit.com/r/Splunk/comments/sa9ep3/free_version/
+ - https://ithelp.ithome.com.tw/m/articles/10222725
+ - https://www.elastic.co/guide/en/beats/winlogbeat/current/winlogbeat-installation-configuration.html
 ## Perl for System Administration
  - https://docstore.mik.ua/orelly/perl/sysadmin/ch07_06.htm
 ### System Monitoring with Perl 
