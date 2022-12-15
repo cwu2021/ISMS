@@ -1,3 +1,7 @@
+# Opal is a Ruby to JavaScript source-to-source compiler.
+# https://github.com/opal/opal#usage
+# How to Choose Your Ruby Interpreters and Runtimes | Toptal
+# https://www.toptal.com/ruby/the-many-shades-of-the-ruby-programming-language
 # https://github.com/jruby/jruby/wiki/CallingJavaFromJRuby
 # This is the 'magical Java require line'.
 require 'java'
