@@ -100,3 +100,6 @@ curl zx2c4.com/ip
 
 modprobe wireguard && echo module wireguard +p > /sys/kernel/debug/dynamic_debug/control
 # If you're using a userspace implementation, set the environment variable export LOG_LEVEL=verbose.
+# I'm Jason A. Donenfeld, security researcher, kernel developer, and creator of WireGuard, `pass(1)`, and other various FOSS projects. AMA! : r/linux
+# https://www.reddit.com/r/linux/comments/hzyu8j/im_jason_a_donenfeld_security_researcher_kernel/?sort=new
+# It's inspired by a stone engraving of the mythological ancient greek python, which I saw while visiting a museum in Delphi. The WireGuard logo then kind of morphed to be more dragon-like than snake-like, but they're nonetheless closely related creatures. 
