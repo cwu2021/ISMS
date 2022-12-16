@@ -92,3 +92,50 @@ By default the OpenVPN Connect client installer file comes prebundled with a ser
 An IKEv1 server (isakmpd(8)) is also available and, coupled with npppd(8), it allows you to build an IKEv1/L2TP VPN where IKEv2 can't be deployed.
 
 Native WireGuard support is also available via the wg(4) device. As the manual explains, it can be configured the same way as all other network interfaces in OpenBSD. 
+#### 2FA VPNs https://marc.info/?l=openbsd-misc&m=166794348111746&w=2
+Thought I'd follow up on this with my thoughts after considering the
+various suggestions (thanks all).
+
+iked with EAP-MSCHAPv2 *and* RSA certificates:
+
+This was suggested off-list, at least strongswan clearly supports it,
+and it's likely that other clients do too, but if there is a way to have
+iked require both cert and EAP auths I don't see anything in the docs
+showing how to configure it.
+
+authpf:
+
+This might just work for these non-techy users if it was only Windows
+machines where I could preconfigure a nice shortcut, but it's just going
+to be too much of a juggle to have them auth on an iOS/Android ssh
+client as well as connect VPN.
+
+L2TP/IPsec (npppd) and auth via RADIUS:
+
+Presumably TOTP would be the way to do MFA here, probably glommed onto a
+password, but I'm not sure all clients will support auth protocols that
+send the actual password over the wire to be able to do this
+(CHAP/MSCHAP won't work as they require both sides to have knowledge of
+the string used as password). Also L2TP/IPsec is not something I really
+want to return to having already got rid of it once :)
+
+OpenVPN with bsd-auth and login_totp:
+
+If I went for OpenVPN I'd really not want to use system users, though
+it's easy enough to hack something together with OpenVPN's auth scripts.
+That's a bit of a fallback option I think.
+
+Wireguard:
+
+I like this for some things, but without some layer on top to do
+config/auth there's a lot of setup needed on each client. And unless
+combined with authpf (see above) or in whatever layer on top,
+there's no way to verify that a second factor was used.
+
+Let's Connect/EduVPN:
+
+This is what I'm going to look at in more detail next, and it has the
+advantage over anything IPsec-based in that it should be possible to
+move across gradually on the same gateway and turn off the old setup
+when done. As a configure layer on top of wireguard/openvpn and with
+packaged clients it's quite appealing. Let's see...
