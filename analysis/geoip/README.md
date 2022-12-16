@@ -14,6 +14,9 @@ https://www.linux-magazine.com/Issues/2022/258/Maltrail
 # Block spammers/abusive IPs with Pf-badhost in OpenBSD. A 'must have' security tool!
 <i>https://undeadly.org/cgi?action=article;sid=20210119113425</i><br>
 You can also configure cron to send an email containing the output from each pf-badhost run, which includes statistics such as number of blocked/added/removed IP addresses as well as list totals for each IP address family. Here's an example pf-badhost statistics report from one of my servers: 620,584,460 IPs! crazy thing!
+## PF rules to block out every IP from a given country 
+ - https://marc.info/?l=openbsd-misc&m=167043335202280&w=2
+ - https://nxdomain.no/~peter/ripe2cidr_country.sh.txt
 # Link-local address
 https://en.wikipedia.org/wiki/Link-local_address <br>
 169.254.0.0/16 
