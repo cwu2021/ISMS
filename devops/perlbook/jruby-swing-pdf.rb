@@ -27,3 +27,7 @@ com.itextpdf.text.pdf.PdfWriter.get_instance pdf, file
 pdf.open
 pdf.add para
 pdf.close
+
+# IronLanguages for .NET
+# https://github.com/IronLanguages
+# https://learn.microsoft.com/en-us/archive/msdn-magazine/2009/february/net-interop-getting-started-with-ironruby-and-rspec-part-1
