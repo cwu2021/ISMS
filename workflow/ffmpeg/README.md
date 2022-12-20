@@ -5,7 +5,8 @@ $ ffmpeg -y -f dshow -video_size 1920x1080 -pixel_format  uyvy422 -rtbufsize 702
 https://stackoverflow.com/questions/47339745/sending-blackmagic-decklink-studio-4k-over-rtmp-streams-with-ffmpeg <br>
 $ ffmpeg -re -format_code Hi59 -f decklink -i 'DeckLink Studio 4K' -map 0 -flags +global_header -vcodec libx264 -crf 25 -preset medium -pix_fmt yuv422p -acodec aac -f tee "[f=flv]rtmp://ip1/live/test|[f=flv]rtmp://ip2/live/test.
 # Encode/VFX – FFmpeg
-https://trac.ffmpeg.org/wiki/Encode/VFX
+ - https://trac.ffmpeg.org/wiki/Encode/VFX
+ - https://www.lighterra.com/papers/videoencodingh264/
 ## Apple Prores
 https://www.apple.com/tw/final-cut-pro/docs/Apple_ProRes_White_Paper.pdf
 ## Building a video converter with Rails 6 and FFmpeg
