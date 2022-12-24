@@ -10,6 +10,21 @@ Ransomware encrypts user files and demands ransom for decryption. Since ransomwa
 Windows 11 has Application Isolation to run dangerous files and web pages in a container. The system would be protected from harm even if the files and web pages are malicious. By default the Windows 11 Application Guard will open Word files, PowerPoint files, Excel files, Microsoft Edge in protected containers.
 
 http://en.minghui.org/html/articles/2022/5/7/200215.html
+
+## Windows 11 install with disable TPM and secureboot
+ - Virtualbox 7 will cause BSOD. Use 6.1 instead. (fn)-shift-F10 for cmd.
+- https://superuser.com/questions/1699669/windows-11-install-with-disable-tpm-and-secureboot-option-for-older-computer
+
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig]
+
+"BypassTPMCheck"=dword:00000001
+
+"BypassSecureBootCheck"=dword:00000001
+
+"BypassRAMCheck"=dword:00000001
+
 ## Windows Sandbox - Windows security | Microsoft Learn
  - https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview <br>
  - https://youtu.be/uIjX4aOoeaQ
