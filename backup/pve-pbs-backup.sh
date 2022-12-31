@@ -34,3 +34,6 @@ apt-get install proxmox-backup-server
 # After a reboot all is installed and started, don't forget to set the IP-address you want to use
 # and mounting the NFS-share you want to use as the storage for backups.
 # Put the NFS-share into /etc/fstab to automatically mount it at reboot.
+dpkg -l | grep sshfs
+sshfs backup01:/data/backup /mnt/backup
+# or simpler backup via sshfs
