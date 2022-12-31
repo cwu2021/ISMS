@@ -19,3 +19,6 @@ doas pkg_add -v jdk
 java -jar cal.jar
 # cal utility based on newer java.
 # https://github.com/frossm/cal
+java -XshowSettings:system -version
+# cgroups v2 support on Linux 
+# https://developers.redhat.com/articles/2022/04/19/java-17-whats-new-openjdks-container-awareness#why_container_awareness_is_important
