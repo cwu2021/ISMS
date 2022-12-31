@@ -14,6 +14,7 @@ http://en.minghui.org/html/articles/2022/5/7/200215.html
 ## Windows 11 install with disable TPM and secureboot
  - Virtualbox 7 will cause BSOD. Use 6.1 instead. (fn)-shift-F10 for cmd.
 - https://superuser.com/questions/1699669/windows-11-install-with-disable-tpm-and-secureboot-option-for-older-computer
+- https://techsviewer.com/how-to-install-windows-11-on-mac-with-free-virtual-machine/
 
 Windows Registry Editor Version 5.00
 
