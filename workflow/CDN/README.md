@@ -1,3 +1,10 @@
+# How to block all VPNs, Proxys and host IPs?
+Cloudflare managed lists do it, but I’m afraid its only available to enterprise customers.
+- https://community.cloudflare.com/t/how-to-block-all-vpns-proxys-and-host-ips/303070
+# CrimeFlare can see the real IP behind CloudFlare
+- https://github.com/zidansec/CloudPeler
+## This VPN service used by cyber criminals to deliver ransomware has just been taken down by police
+- https://www.zdnet.com/article/this-vpn-service-used-by-cyber-criminals-to-deliver-ransomware-has-just-been-taken-down-by-police/
 # AWS Local Zones Expansion: Taipei and Delhi
 https://aws.amazon.com/blogs/aws/aws-local-zones-expansion-taipei-and-delhi/
 # Metaverse: AR/VR/AI/NFT/IoT
