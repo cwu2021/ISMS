@@ -103,3 +103,44 @@ modprobe wireguard && echo module wireguard +p > /sys/kernel/debug/dynamic_debug
 # I'm Jason A. Donenfeld, security researcher, kernel developer, and creator of WireGuard, `pass(1)`, and other various FOSS projects. AMA! : r/linux
 # https://www.reddit.com/r/linux/comments/hzyu8j/im_jason_a_donenfeld_security_researcher_kernel/?sort=new
 # It's inspired by a stone engraving of the mythological ancient greek python, which I saw while visiting a museum in Delphi. The WireGuard logo then kind of morphed to be more dragon-like than snake-like, but they're nonetheless closely related creatures. 
+
+# Setup WireGuard on Ubuntu 22.04
+# https://www.digitalocean.com/community/tutorials/how-to-set-up-wireguard-on-ubuntu-20-04
+sudo apt update
+sudo apt install wireguard
+wg genkey | sudo tee /etc/wireguard/private.key
+sudo chmod go= /etc/wireguard/private.key
+sudo cat /etc/wireguard/private.key | wg pubkey | sudo tee /etc/wireguard/public.key
+sudo cat /etc/wireguard/private.key
+sudo vi /etc/wireguard/wg0.conf
+sudo vi /etc/sysctl.conf
+sudo sysctl -p
+ip route list default
+sudo ufw allow 51820/udp
+sudo ufw status
+sudo systemctl enable wg-quick@wg0.service
+sudo systemctl start wg-quick@wg0.service
+sudo systemctl status wg-quick@wg0.service
+sudo wg set wg0 peer LtWSoGacmhntd2Gr1+0BZ464G5C1Sw9zJEpJqYLtTnw= allowed-ips 10.8.0.2
+sudo wg
+sudo apt install net-tools -y
+netstat -uan
+sudo modprobe wireguard
+sudo dmesg
+sudo journalctl -kf
+sudo timedatectl set-timezone Asia/Taipei
+sudo ufw app list
+umask 077 && wg genkey > wg-private-client.key
+wg pubkey < wg-private-client.key > wg-public-client.key
+cat wg-private-client.key
+umask 077 && vi ~/wg-client.conf
+sudo wg show wg0 public-key
+umask 077 && vi ~/wg-client.conf
+cat wg-public-client.key
+sudo wg set wg0 peer fXCoFQbxqDMMzA5zxHhuDmehNa1wBPPA6hY+FQ1xBVc= allowed-ips 10.8.0.3
+sudo wg syncconf wg0 /etc/wireguard/wg0.conf
+sudo systemctl stop wg-quick@wg0.service
+sudo systemctl start wg-quick@wg0.service
+sudo apt install qrencode --assume-yes
+qrencode --read-from=wg-client.conf --type=UTF8
+sudo watch wg
