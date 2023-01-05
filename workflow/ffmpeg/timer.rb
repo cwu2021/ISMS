@@ -8,4 +8,5 @@ a = Time.now.strftime("%s").to_i
 b = Time.local(2023, 1, 2, 23, 30).strftime("%s").to_i
 # https://code-maven.com/convert-string-to-number-in-ruby
 sleep b-a
-system 'ffmpeg'
+# run another bat for system command.
+# system 'ffmpeg'
