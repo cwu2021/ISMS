@@ -7,7 +7,8 @@ https://www.linux-magazine.com/Online/Features/Make-It-One-with-Linux
 # Math for Machine Learning 
 https://mml-book.github.io/book/mml-book.pdf <br>
 https://github.com/trekhleb/machine-learning-experiments <br>
-https://github.com/topics/deeplearning-demo
+https://github.com/topics/deeplearning-demo <br>
+https://www.ibm.com/tw-en/topics/blockchain-ai
  - Eliza, a chatbot therapist https://web.njit.edu/~ronkowit/eliza.html
  - 微軟計畫以ChatGPT強化Bing搜尋功能 https://www.ithome.com.tw/news/155008
  - https://github.com/openvinotoolkit/open_model_zoo/blob/master/demos/README.md
