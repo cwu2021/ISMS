@@ -8,6 +8,9 @@ https://www.linux-magazine.com/Online/Features/Make-It-One-with-Linux
 https://mml-book.github.io/book/mml-book.pdf <br>
 https://github.com/trekhleb/machine-learning-experiments <br>
 https://github.com/topics/deeplearning-demo
+ - Eliza, a chatbot therapist https://web.njit.edu/~ronkowit/eliza.html
+ - 微軟計畫以ChatGPT強化Bing搜尋功能 https://www.ithome.com.tw/news/155008
+ - https://github.com/openvinotoolkit/open_model_zoo/blob/master/demos/README.md
 ## A.14 Development
 # Cloudflare Web3 docs
 https://developers.cloudflare.com/web3/
