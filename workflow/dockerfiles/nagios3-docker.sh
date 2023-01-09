@@ -11,3 +11,8 @@ dpkg-reconfigure postfix
 echo "test alert" | mail -s 'nagios test' youe@email
 apt install vim -y
 vi /etc/nagios3/conf.d/contacts_nagios2.cfg
+# https://docs.checkmk.com/latest/en/introduction_docker.html
+# docker run -it --name checkmk checkmk/check-mk-raw /bin/bash
+su - cmk
+omd start
+# CGI works within Document Root in var/www.
