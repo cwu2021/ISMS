@@ -1,3 +1,6 @@
+# Internet Speed Test
+ - https://speed.cloudflare.com/
+ - https://check-host.net/
 # 5G Technology
  - Test your 5G, 4G and WiFi connection with our top 12 apps | 5Gradar <br>
 https://www.5gradar.com/features/test-your-5g-connection-with-our-top-apps<br>
