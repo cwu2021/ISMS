@@ -31,11 +31,6 @@ https://nxlog.co/documentation/nxlog-user-guide/eventlog-eventids.html
  - https://www.reddit.com/r/Splunk/comments/sa9ep3/free_version/
  - https://ithelp.ithome.com.tw/m/articles/10222725
  - https://www.elastic.co/guide/en/beats/winlogbeat/current/winlogbeat-installation-configuration.html
-## nginx log: with grc or zgrep for gz
- - apt install goaccess
- - log-format %d %t %^, client: %h, server: %^, request: "%r", host: "%v"
- - log-format %d %t %^, client: %h, server: %^, request: "%r", host: "%v", referrer: "%R"
-<br> https://stackoverflow.com/questions/60074314/how-to-monitor-nginx-error-logs-with-goaccess
 ## Perl for System Administration
  - https://docstore.mik.ua/orelly/perl/sysadmin/ch07_06.htm
 ### System Monitoring with Perl 
