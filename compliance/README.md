@@ -8,7 +8,8 @@ All relevant legislative statutory, regulatory, contractual requirements and the
 Man knows no Master save creating Heaven,
 Or those whom Choice and Common Good ordain.
  ~ Thomson.
-
+## Mac OS X (now macOS) has been certified as Unix by The Open Group, starting with 10.5
+https://unix.stackexchange.com/questions/1489/is-mac-os-x-unix
 ## GDPR
 ### The Paypal Alternative https://news.gab.com/2022/10/gabpay-the-paypal-alternative/
 An alternative to Paypal has never been more important now that the ADL will be combing through your financial transactions and ruining people’s lives for financially supporting people and organizations they don’t like. This week Paypal caught tremendous backlash after it was announced that their new terms of service had a clause that would fine users $2500 for “misinformation.” Paypal later claimed that this was a “mistake” and changed course. 
