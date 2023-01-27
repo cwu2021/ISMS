@@ -5,6 +5,10 @@
  - docker run -it --name almalinux almalinux
  - docker run -it --name rockylinux rockylinux:9
  - rpm -qa grep 
+# Gentoo with portage
+ - docker run -it --name gentoo gentoo/stage3 /bin/bash
+ - emerge --sync
+ - emerge ffmpeg
 # How do I assign a port mapping to an existing Docker container?
  - docker stop test01
  - docker commit test01 test02
