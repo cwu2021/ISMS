@@ -8,6 +8,7 @@
 # Gentoo with portage 
  - docker run -it --name gentoo gentoo/stage3 /bin/bash
  - emerge --sync
+<br> https://wiki.gentoo.org/wiki/Project:Portage/Sync
  - emerge --search pdf
  - emerge ffmpeg
 <br> https://wiki.gentoo.org/wiki/Handbook:AMD64/Full/Working#Installing_software
