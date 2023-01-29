@@ -16,3 +16,6 @@ https://askubuntu.com/questions/88108/samba-share-read-only-for-guests-read-writ
 ## SELinux as additional protection
  - setenforce Permissive | Enforcing
  - vi /etc/selinux/config
+## using ACLs to assign specific permissions
+ - https://www.redhat.com/sysadmin/access-control-lists
+ - setfacl --modify user1:rw sample
