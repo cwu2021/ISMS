@@ -7,6 +7,7 @@
  - rpm -qa grep 
 # Gentoo with portage 
  - docker run -it --name gentoo gentoo/stage3 /bin/bash
+<br> https://wiki.gentoo.org/wiki/Project:Docker
  - emerge --sync
 <br> https://wiki.gentoo.org/wiki/Project:Portage/Sync
  - emerge --search pdf
