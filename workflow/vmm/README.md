@@ -12,3 +12,8 @@ but i don't think this is one of the panics that would result.</i>
 ## Emulators
  - dgen for sega. https://www.mankier.com/5/dgenrc
  - snes9x for super nintendo.
+ - mame for IRIX. https://sgi.neocities.org/
+<br> https://wiki.mamedev.org/index.php/Driver:MIPS
+- Love: install IRIX from IRIX, Linux, or Windows 
+<br> https://www.osnews.com/story/135816/love-install-irix-from-irix-linux-or-windows/
+
