@@ -18,6 +18,12 @@ In the program dir of Filezilla, is there a folder called 'resources'? You don't
  - https://community.teamviewer.com/English/kb/articles/24141-supported-operating-systems
  - https://community.teamviewer.com/English/kb/articles/24141-which-operating-systems-are-supported
 
+## SSH reverse tunnel
+ - https://superuser.com/questions/1046231/how-to-get-a-persistent-reverse-ssh-tunnel-using-autossh
+ - apt install autossh
+ - autossh -M 20000 -N -i /home/rspi/.ssh/id_rsa ksproxy@37.xxx.yyy.zzz
+ - ssh rspi@localhost -p 20000
+
 ## How can I make VNC faster?
 https://help.realvnc.com/hc/en-us/articles/360002321097-What-can-I-do-to-boost-picture-quality-or-performance-
 https://superuser.com/questions/15337/how-can-i-make-vnc-faster <br>
