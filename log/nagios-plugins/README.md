@@ -31,4 +31,6 @@ https://github.com/OpenSMTPD/OpenSMTPD/wiki/Forwarding-mail-to-multiple-recipien
 <i>https://askubuntu.com/questions/12917/how-to-send-mail-from-the-command-line</i><br>
 sudo apt-get install mailutils <br>
 echo "test message" | mailx -s 'test subject' myemail@mydomain.com
+ - sudo apt install mtr
+ - mtr -r | mail -s 'mtr report' myemail@mydomain.com
 
