@@ -2,6 +2,8 @@
  - https://speed.cloudflare.com/
  - https://check-host.net/
  - MTR: A Network Diagnostic Tool https://linuxhint.com/mtr-a-diagnostic-tool/
+ <br> $ mtr -r 1.1.1.1 | awk '{print $1,$3,$4,$5,$6,$7,$8,$9}'
+ <br> https://stackoverflow.com/questions/61521927/how-to-awk-multiple-columns-in-bash
 # 5G Technology
  - Test your 5G, 4G and WiFi connection with our top 12 apps | 5Gradar <br>
 https://www.5gradar.com/features/test-your-5g-connection-with-our-top-apps<br>
