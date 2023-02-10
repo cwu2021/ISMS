@@ -16,6 +16,8 @@ https://www.ibm.com/tw-en/topics/blockchain-ai
  - https://github.com/openvinotoolkit/open_model_zoo/blob/master/demos/README.md
  - Amadeus Code as music AI https://www.inside.com.tw/article/30388-AI-free-music-AmadeusCode
  - https://mpost.io/top-5-ai-musicaudio-generators-to-create-royalty-free-tracks/
+ - Google launches ChatGPT rival called Bard - BBC News https://www.bbc.com/news/technology-64546299
+
 ## A.14 Development
 # Cloudflare Web3 docs
 https://developers.cloudflare.com/web3/
