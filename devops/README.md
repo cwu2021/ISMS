@@ -6,6 +6,8 @@ https://insights.stackoverflow.com/trends?tags=react-native%2Cflutter%2Cionic-fr
 # Rethinking Unix-like systems
 https://www.linux-magazine.com/Issues/2022/258/Distro-Walk-DragonFly-BSD <br>
 https://www.linux-magazine.com/Online/Features/Make-It-One-with-Linux
+ - X Window Systen, Xenix, Minix, and UNIX-HATERS 
+ <br> https://web.mit.edu/~simsong/www/ugh.pdf
 # Math for Machine Learning 
 https://mml-book.github.io/book/mml-book.pdf <br>
 https://github.com/trekhleb/machine-learning-experiments <br>
