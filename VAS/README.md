@@ -10,6 +10,15 @@ $ nmap -v -PN -p 548 192.168.* | grep -B 4 open
 <i> https://github.com/wpscanteam/wpscan </i>
  - apt install ruby rubygems ruby2.5-dev
  - gem install wpscan
+### Passive Asset Detection System
+ - tcpdump -lenx -i fxp0 -s 1500 port bootps or port bootpc | dhcpdump
+ - pads -i em3 -n 10.0.0.0/8
+
+PADS can be run as a daemon using the -D switch, in which case output will not be shown. PADS stores its findings comma-separated value format in the file assets.csv. The pads-report program processes the assets.csv file, consolidating what PADS has seen into report format. For example, here is how two services on 10.200.1.28 are reported:
+
+------------------------------------------------------------------ IP: 10.200.1.28 Port Service Application 25 smtp Microsoft Exchange SMTP 6.0.3790.211 (mail.example.com) 80 www Microsoft-IIS 6.0 ------------------------------------------------------------------ PADS is smart enough to resume recording after it has been interrupted as it re-processes existing assets.csv files when restarted. PADS can also be run against packets stored in libpcap format using the -r switch. PADS is beginning to offer support for loading results into a database.
+
+https://manpages.ubuntu.com/manpages/bionic/man8/pads.8.html
 ## Penetration Testing
 ### Practical PERL for Security Practitioners
 This paper introduces PERL as a useful, flexible, and extensible tool for the security practitioner. References to resources are provided so that the reader may expand their knowledge beyond the concepts presented here. In this paper examples of PERL's ability to process log files, grab banners of...<br>
