@@ -5,3 +5,5 @@ pfexec pkg image-update -nv
 pfexec pkg image-update -v
 # Package Administration https://youtu.be/DRJzjX_04TA
 pkg info kernel
+pkg search jdk
+pkg install openjdk11
