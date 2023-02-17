@@ -10,6 +10,9 @@ https://www.linux-magazine.com/Online/Features/Make-It-One-with-Linux
  <br> https://web.mit.edu/~simsong/www/ugh.pdf
  <br> https://wiki.minix3.org/doku.php?id=www:documentation:read-more
  <br> https://www.pcjs.org/software/pcx86/sys/unix/ibm/xenix/1.0/
+ - Google Chrome uses it's own custom UI stack called Aura
+ <br> https://stackoverflow.com/questions/874609/which-gui-library-does-google-chrome-use
+ <br> https://www.chromium.org/developers/design-documents/aura/aura-overview/
 # Math for Machine Learning 
 https://mml-book.github.io/book/mml-book.pdf <br>
 https://github.com/trekhleb/machine-learning-experiments <br>
