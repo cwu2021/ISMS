@@ -8,6 +8,8 @@ https://www.linux-magazine.com/Issues/2022/258/Distro-Walk-DragonFly-BSD <br>
 https://www.linux-magazine.com/Online/Features/Make-It-One-with-Linux
  - X Window Systen, Xenix, Minix, and UNIX-HATERS 
  <br> https://web.mit.edu/~simsong/www/ugh.pdf
+ <br> https://wiki.minix3.org/doku.php?id=www:documentation:read-more
+ <br> https://www.pcjs.org/software/pcx86/sys/unix/ibm/xenix/1.0/
 # Math for Machine Learning 
 https://mml-book.github.io/book/mml-book.pdf <br>
 https://github.com/trekhleb/machine-learning-experiments <br>
