@@ -11,3 +11,5 @@ microstack launch cirros -n test
 ssh -i /home/ubuntu/snap/microstack/common/.ssh/id_microstack cirros@10.20.20.87
 # to stop microstack: https://microstack.run › docs › pro-tips
 sudo snap disable microstack
+# Goodbye-virtual-machines-hello-microVMs
+https://www.admin-magazine.com/Archive/2022/71/Goodbye-virtual-machines-hello-microVMs/(offset)/3
