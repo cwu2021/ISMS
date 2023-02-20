@@ -22,3 +22,5 @@ https://manpages.ubuntu.com/manpages/impish/man3/Unix::Syslog.3pm.html
  - https://insights.stackoverflow.com/trends?tags=zend-framework%2Creact-native%2Cwordpress
  - https://madnight.github.io/githut/#/pull_requests/2022/3
  - julia https://insights.stackoverflow.com/trends?tags=perl%2Cjulia
+ - ShellCheck- debug your shell scripts 
+ <br> https://linuxconfig.org/how-to-improve-and-debug-your-shell-scripts-with-shellcheck
