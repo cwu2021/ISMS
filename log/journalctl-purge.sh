@@ -10,3 +10,5 @@ sudo journalctl --vacuum-size=100M.
 # https://wiki.nftables.org/wiki-nftables/index.php/Simple_rule_management
 journalctl -ef -t sshguard
 nft list table sshguard
+# more tips to go https://www.loggly.com/ultimate-guide/using-journalctl/?_ga=2.105914827.912215606.1677205102-1305855358.1677205102
+journalctl -n 50 --since "1 hour ago"
