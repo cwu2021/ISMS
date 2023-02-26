@@ -7,3 +7,7 @@ pfexec pkg image-update -v
 pkg info kernel
 pkg search jdk
 pkg install openjdk11
+# https://openindiana.org/pipermail/openindiana-discuss/2020-October/022962.html
+# https://www.zdnet.com/article/what-is-openindiana-and-why-does-it-matter/
+pkg update
+pkg install build-essential
