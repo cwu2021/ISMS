@@ -154,3 +154,8 @@ When you’re choosing a VPN to use with Truth Social, you need to look for spec
 - The ability to access the U.S. and Canadian markets – Fortunately, all of our VPN options can do this. Protecting yourself isn’t helpful if you can’t access the U.S. and Canadian markets to be able to get the app.
 #### Proxy and VPN defined https://nordvpn.com/zh-tw/blog/vpn-vs-proxy/
 - A VPN and a proxy are online services that hide your IP address by rerouting your internet traffic through a remote server. But a proxy works only with a single app or service, while a VPN secures all your internet traffic and encrypts it for extra security and privacy.
+#### Surfshark no longer offers Shadowsocks
+https://surfshark.com/blog/surfshark-will-stop-supporting-shadowsocks
+ - Socks5 VPN: What It Is & Why PIA Is the Best
+<br> https://www.privateinternetaccess.com/blog/socks5-vpn/
+<br> https://canonical.com/blog/setup-your-own-vpn-server
