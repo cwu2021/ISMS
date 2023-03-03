@@ -159,3 +159,4 @@ https://surfshark.com/blog/surfshark-will-stop-supporting-shadowsocks
  - Socks5 VPN: What It Is & Why PIA Is the Best
 <br> https://www.privateinternetaccess.com/blog/socks5-vpn/
 <br> https://canonical.com/blog/setup-your-own-vpn-server
+<br> https://github.com/shadowsocks/shadowsocks-libev/issues/2324
