@@ -19,3 +19,6 @@ echo "`date` sync ended..." >> sync.log
 
 # report by mail via crontab. mailx package required.
 #00 09  *  *  7 tail sync.log | mail -s "sync weekly" -S smtp=ip.of.mta webmaster@your.domain
+
+# SFTP forwarding if required
+# https://www.linuxjournal.com/content/sftp-port-forwarding-enabling-suppressed-functionality
