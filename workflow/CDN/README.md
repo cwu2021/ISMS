@@ -7,6 +7,10 @@ Cloudflare managed lists do it, but I’m afraid its only available to enterpris
 - https://www.zdnet.com/article/this-vpn-service-used-by-cyber-criminals-to-deliver-ransomware-has-just-been-taken-down-by-police/
 # AWS Local Zones Expansion: Taipei and Delhi
 https://aws.amazon.com/blogs/aws/aws-local-zones-expansion-taipei-and-delhi/
+## Enable, disable, or change billing for a project | Google Cloud
+https://cloud.google.com/billing/docs/how-to/modify-project
+## Account members · Cloudflare Fundamentals docs
+https://developers.cloudflare.com/fundamentals/account-and-billing/members/
 # Metaverse: AR/VR/AI/NFT/IoT
  - NFT ftom 2012. boost on 2021.
  - ref: snow crash , ready player one.
