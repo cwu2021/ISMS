@@ -9,6 +9,9 @@ There are two categories of random numbers — “true” random numbers and pse
 ## Detect anomalies in metrics data
  - https://www.admin-magazine.com/Archive/2022/70/Detect-anomalies-in-metrics-data/(offset)/6
  - podman pull quay.io/aicoe/prometheus-anomaly-detector:latest
+## SWOT analysis: Strengths, Weaknesses, Opportunities, Threats
+ - http://infomotions.com/musings/oss-swot/
+ - https://www.managertoday.com.tw/glossary/view/15?
 # Act
 ## SIR model
 流行病簡化模型 R0 = P(接觸)xP(傳播)/P(痊癒)，三項分別是人群接觸機率，疫病傳播機率，以及疫病痊癒率。如果各國想恢復正常生活，必須R0<1才能疫情趨緩，愈小愈好。
