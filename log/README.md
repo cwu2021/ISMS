@@ -19,6 +19,8 @@ The clocks of all relevant information processing systems within an organization
 
 ## How UptimeRobot grew from 0 to 600,000 users
 https://www.kosmotime.com/0-to-600000/
+### 7 Best Uptime Robot Alternatives in 2023
+https://betterstack.com/community/comparisons/uptime-robot-alternatives/
 
 ## Windows Event log
 Event ID 95: uncorrectable medium error<br>
