@@ -17,6 +17,9 @@ System administrator and system operator activities shall be logged and the logs
 <i>Control</i><br>
 The clocks of all relevant information processing systems within an organization or security domain shall be synchronised to a single reference time source.
 
+## How UptimeRobot grew from 0 to 600,000 users
+https://www.kosmotime.com/0-to-600000/
+
 ## Windows Event log
 Event ID 95: uncorrectable medium error<br>
 https://ithelp.ithome.com.tw/m/questions/10194900 <br>
