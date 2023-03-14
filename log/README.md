@@ -21,6 +21,9 @@ The clocks of all relevant information processing systems within an organization
 https://www.kosmotime.com/0-to-600000/
 ### 7 Best Uptime Robot Alternatives in 2023
 https://betterstack.com/community/comparisons/uptime-robot-alternatives/
+### ping multiple hosts
+ - https://github.com/famzah/ping-multi
+ - https://github.com/laixintao/pingtop/blob/master/pingtop/__init__.py
 
 ## Windows Event log
 Event ID 95: uncorrectable medium error<br>
