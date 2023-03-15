@@ -11,6 +11,9 @@ https://github.com/P3TERX/GeoLite.mmdb
  - support.somedomain.com : social CRM tagged from social platforms.
 ## Detect attacks on your network with Maltrail
 https://www.linux-magazine.com/Issues/2022/258/Maltrail
+## blocked site listing of GFW
+https://www.google.com/search?q=why+cnn+not+blocked+by+gfw&source=hp&ei=EywRZJKZMNTR-Qbu_rb4Bw&iflsig=AK50M_UAAAAAZBE6I0rTj_4hwl1z75qTNZNd-okpv93c&ved=0ahUKEwjS7sO28Nz9AhXUaN4KHW6_DX8Q4dUDCAo&uact=5&oq=why+cnn+not+blocked+by+gfw&gs_lcp=Cgdnd3Mtd2l6EANQAFgAYKoEaABwAHgAgAFniAFnkgEDMC4xmAEAoAECoAEB&sclient=gws-wiz
+
 # Block spammers/abusive IPs with Pf-badhost in OpenBSD. A 'must have' security tool!
 <i>https://undeadly.org/cgi?action=article;sid=20210119113425</i><br>
 You can also configure cron to send an email containing the output from each pf-badhost run, which includes statistics such as number of blocked/added/removed IP addresses as well as list totals for each IP address family. Here's an example pf-badhost statistics report from one of my servers: 620,584,460 IPs! crazy thing!
