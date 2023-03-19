@@ -9,6 +9,7 @@ There are two categories of random numbers — “true” random numbers and pse
 ## Detect anomalies in metrics data
  - https://www.admin-magazine.com/Archive/2022/70/Detect-anomalies-in-metrics-data/(offset)/6
  - podman pull quay.io/aicoe/prometheus-anomaly-detector:latest
+ - via ruby https://github.com/arbox/data-science-with-ruby
 ## SWOT analysis: Strengths, Weaknesses, Opportunities, Threats
  - http://infomotions.com/musings/oss-swot/
  - https://www.managertoday.com.tw/glossary/view/15?
