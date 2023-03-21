@@ -1,4 +1,5 @@
 #!/bin/bash
+# https://docs.docker.com/engine/install/centos/
 : '
 https://projectatomic.io/blog/2015/07/docker-centos-6-and-you/
 Red Hat themselves only support Docker on RHEL7 (as stated by https://access.redhat.com/solutions/1378023, and confirmed by several people)
