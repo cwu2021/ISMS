@@ -1,3 +1,12 @@
+# WeTransfer alternatives to consider:
+ - sendspace
+ - Oroson
+ - Google Drive
+ - Dropbox
+ - FileTransfer.io
+ - Send Anywhere
+ - Smash
+ - OneDrive
 # How to block all VPNs, Proxys and host IPs?
 Cloudflare managed lists do it, but I’m afraid its only available to enterprise customers.
 - https://community.cloudflare.com/t/how-to-block-all-vpns-proxys-and-host-ips/303070
