@@ -4,6 +4,8 @@ https://github.com/mjhea0/python-ruby <br>
  - Perl: system operation
  - Python: numerical analysis
  - Ruby: business automation
+### GitHub - ro31337/rubyisforfun
+https://github.com/ro31337/rubyisforfun
 ### How I developed a faster Ruby interpreter
 https://developers.redhat.com/articles/2022/11/22/how-i-developed-faster-ruby-interpreter?sc_cid=7013a0000034cefAAA
 ### brew.sh to install Homebrew. It’s all Git and Ruby underneath
