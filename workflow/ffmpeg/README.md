@@ -7,6 +7,7 @@ $ ffmpeg -re -format_code Hi59 -f decklink -i 'DeckLink Studio 4K' -map 0 -flags
 # Encode/VFX – FFmpeg
  - https://trac.ffmpeg.org/wiki/Encode/VFX
  - https://www.lighterra.com/papers/videoencodingh264/
+ - HLS "Error when loading first segment" https://github.com/ytdl-org/youtube-dl/issues/28175
 ## Apple Prores
 https://www.apple.com/tw/final-cut-pro/docs/Apple_ProRes_White_Paper.pdf
 ## Building a video converter with Rails 6 and FFmpeg
