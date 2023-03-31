@@ -11,6 +11,7 @@
  - https://developers.google.com/drive/api/guides/limits
  - https://stackoverflow.com/questions/66913349/google-drive-api-extremely-slow
  - https://stackoverflow.com/questions/40530714/google-drive-api-response-is-very-slow
+ - Google Drive for desktop https://support.google.com/a/answer/7577057?hl=en
 # How to block all VPNs, Proxys and host IPs?
 Cloudflare managed lists do it, but I’m afraid its only available to enterprise customers.
 - https://community.cloudflare.com/t/how-to-block-all-vpns-proxys-and-host-ips/303070
