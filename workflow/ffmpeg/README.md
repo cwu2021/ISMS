@@ -10,6 +10,9 @@ $ ffmpeg -re -format_code Hi59 -f decklink -i 'DeckLink Studio 4K' -map 0 -flags
  - HLS "Error when loading first segment" https://github.com/ytdl-org/youtube-dl/issues/28175
 ## Apple Prores
 https://www.apple.com/tw/final-cut-pro/docs/Apple_ProRes_White_Paper.pdf
+## Disable Chrome's page translation on the commandline
+--disable-features=Translate
+<br> https://superuser.com/questions/1237561/disable-chromes-page-translation-on-the-commandline
 ## Building a video converter with Rails 6 and FFmpeg
 https://dev.to/davidcolbyatx/building-a-video-converter-with-rails-6-and-ffmpeg-5e88
 ## Simple yet powerful wrapper around the ffmpeg 
