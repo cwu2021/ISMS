@@ -11,6 +11,7 @@ There are two categories of random numbers — “true” random numbers and pse
  - podman pull quay.io/aicoe/prometheus-anomaly-detector:latest
  - via ruby https://github.com/arbox/data-science-with-ruby
  - wtfutil/wtf: The personal information dashboard for your terminal https://github.com/wtfutil/wtf
+ - reload TMUX configuration https://superuser.com/questions/580992/how-do-i-reload-tmux-configuration
 ## SWOT analysis: Strengths, Weaknesses, Opportunities, Threats
  - http://infomotions.com/musings/oss-swot/
  - https://www.managertoday.com.tw/glossary/view/15?
