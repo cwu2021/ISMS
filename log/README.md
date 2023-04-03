@@ -23,6 +23,9 @@ https://www.kosmotime.com/0-to-600000/
 https://github.com/christ0ph3r/uptime-cli
 ### 7 Best Uptime Robot Alternatives in 2023
 https://betterstack.com/community/comparisons/uptime-robot-alternatives/
+<br>https://radar.cloudflare.com/domains/domain/gab.com
+<br>https://www.wired.com/story/how-right-wing-social-media-site-gab-got-back-online/
+
 ### ping multiple hosts
  - https://github.com/famzah/ping-multi
  - https://github.com/laixintao/pingtop/blob/master/pingtop/__init__.py
