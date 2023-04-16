@@ -20,6 +20,7 @@ https://github.com/topics/deeplearning-demo <br>
 https://www.ibm.com/tw-en/topics/blockchain-ai
  - Eliza, a chatbot therapist https://web.njit.edu/~ronkowit/eliza.html
  - 微軟計畫以ChatGPT強化Bing搜尋功能 https://www.ithome.com.tw/news/155008
+ - 微軟開源 Deep Speed Chat，解鎖千億級ChatGPT https://buzzorange.com/techorange/2023/04/13/deep-speed-chat/
  - https://github.com/openvinotoolkit/open_model_zoo/blob/master/demos/README.md
  - Amadeus Code as music AI https://www.inside.com.tw/article/30388-AI-free-music-AmadeusCode
  - https://mpost.io/top-5-ai-musicaudio-generators-to-create-royalty-free-tracks/
