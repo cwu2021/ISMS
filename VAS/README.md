@@ -25,3 +25,6 @@ This paper introduces PERL as a useful, flexible, and extensible tool for the se
 <i>https://www.giac.org/paper/gsec/3602/practical-perl-security-practitioners/105856</i>
 ### Conclusion
 PERL is one of the more flexible tools that a security practitioner can learn. This paper has given a few examples of the power that PERL provides. PERL's extensibility allows a security practitioner to utilize a significant code base to rapidly solve problems that the security practitioner faces on a regular basis. PERL can help one create a quick solution to a smaller sized security problem, or can scale to a large security application that necessitates object oriented architecture.
+### stress and benchmarking from the command line
+ - sudo apt-get install siege -y
+ - https://www.admin-magazine.com/Archive/2022/72/Load-test-your-website-with-Siege
