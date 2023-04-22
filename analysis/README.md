@@ -15,6 +15,9 @@ There are two categories of random numbers — “true” random numbers and pse
 ## SWOT analysis: Strengths, Weaknesses, Opportunities, Threats
  - http://infomotions.com/musings/oss-swot/
  - https://www.managertoday.com.tw/glossary/view/15?
+## 五個常見的用戶增長框架：AARRR、RARRA、Growth Loops、HEART、AIDA 
+ - https://medium.com/3pm-lab/growth-101-introduction-to-5-popular-growth-frameworks-aarrr-rarra-growthloops-heart-aida-13296ba7dcbc
+
 # Act
 ## SIR model
 流行病簡化模型 R0 = P(接觸)xP(傳播)/P(痊癒)，三項分別是人群接觸機率，疫病傳播機率，以及疫病痊癒率。如果各國想恢復正常生活，必須R0<1才能疫情趨緩，愈小愈好。
