@@ -17,6 +17,7 @@ There are two categories of random numbers — “true” random numbers and pse
  - https://www.managertoday.com.tw/glossary/view/15?
 ## 五個常見的用戶增長框架：AARRR、RARRA、Growth Loops、HEART、AIDA 
  - https://medium.com/3pm-lab/growth-101-introduction-to-5-popular-growth-frameworks-aarrr-rarra-growthloops-heart-aida-13296ba7dcbc
+ - Revenue Retention is the Key to Scalable Growth in 2023 | CustomerThink
 
 # Act
 ## SIR model
