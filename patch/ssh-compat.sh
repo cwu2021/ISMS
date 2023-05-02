@@ -3,6 +3,9 @@
 # backward compatibility for older server < 8.8.
 vi ~/.ssh/config
 # PubKeyAcceptedKeyTypes=+ssh-dss
+# ssh - Sign_and_send_pubkey: no mutual signature supported
+# https://stackoverflow.com/questions/73795935/sign-and-send-pubkey-no-mutual-signature-supported
+# PubKeyAcceptedKeyTypes=+ssh-rsa
 # HostKeyAlgorithms +ssh-rsa
 ssh -V
 uname -a
