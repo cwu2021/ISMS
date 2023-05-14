@@ -88,6 +88,10 @@ What do you want to do?
 <i># This config item must be copied to the client config file as well.</i><br>
 cipher AES-128-CBC   # AES <br>
 https://community.openvpn.net/openvpn/wiki/CipherNegotiation
+#### OpenVPN-2.5.7 configure: error: lzo enabled but missing
+https://forums.freebsd.org/threads/openvpn-2-5-7-configure-error-lzo-enabled-but-missing.87045/ <br>
+cd /usr/include && ln -s ../local/include/lzo . <br>
+cd /usr/lib && ln -s ../local/lib/liblzo2.* . <br>
 #### Is a TCP port needed or can I open only 1194 for UDP
 <i>https://forums.openvpn.net/viewtopic.php?f=24&t=29289</i><br>
 By default the OpenVPN Connect client installer file comes prebundled with a server-locked profile. There is no option setting to change this.
