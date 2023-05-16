@@ -89,6 +89,7 @@ What do you want to do?
 cipher AES-128-CBC   # AES <br>
 https://community.openvpn.net/openvpn/wiki/CipherNegotiation
 #### OpenVPN-2.5.7 configure: error: lzo enabled but missing
+<i> GnuPG Public Key https://openvpn.net/community-resources/sig/ </i><br>
 https://forums.freebsd.org/threads/openvpn-2-5-7-configure-error-lzo-enabled-but-missing.87045/ <br>
 cd /usr/include && ln -s ../local/include/lzo . <br>
 cd /usr/lib && ln -s ../local/lib/liblzo2.* . <br>
