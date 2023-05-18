@@ -15,6 +15,7 @@ https://askubuntu.com/questions/88108/samba-share-read-only-for-guests-read-writ
  - https://www.cyberciti.biz/faq/linux-unix-running-sudo-command-without-a-password/
 ### Lockout users 
  - usermod -L $USERNAME
+ - usermod -U # https://www.learnitguide.net/2016/08/how-to-lock-and-unlock-user-account-in.html
  - usermod --expiredate 1 $USERNAME
 ## SELinux as additional protection
  - setenforce Permissive | Enforcing
