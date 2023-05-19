@@ -23,6 +23,7 @@ https://manpages.ubuntu.com/manpages/impish/man3/Unix::Syslog.3pm.html
 ## Why Perl?
  - Ubiquity	Scales up	Compatibility	Shell scripts	Extensible
  - https://two-wrongs.com/why-perl
+ - https://github.polettix.it/ETOOBUSY/2023/04/29/why-perl/
 ## Coding trends
  - https://insights.stackoverflow.com/trends?tags=zend-framework%2Creact-native%2Cwordpress
  - https://madnight.github.io/githut/#/pull_requests/2022/3
