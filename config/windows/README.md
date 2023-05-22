@@ -32,6 +32,8 @@ Windows Registry Editor Version 5.00
 ## Microsoft shares mitigation for Windows KrbRelayUp LPE attacks
  - https://www.bleepingcomputer.com/news/security/microsoft-shares-mitigation-for-windows-krbrelayup-lpe-attacks/
  - https://www.ithome.com.tw/news/151458
+# HxTsr.exe error
+ - Hidden Executable To Sync Remote Servers for Outlook  https://www.minitool.com/news/hxtsr-exe.html
 #  BSOD REGISTRY_ERROR 
 https://answers.microsoft.com/en-us/windows/forum/all/bsod-registryerror/53c43269-e2d4-4440-a230-cce80038bc30 <br>
 If you receiver a Blue Screen with a error message REGISTRY_ERROR bug, that indicates that a severe registry error has occurred. In other words something has gone wrong with the registry. This error may indicate that the registry encountered an I/O error while trying to read one of its files. This can be caused by hardware problems or file system corruption.
