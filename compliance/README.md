@@ -27,3 +27,7 @@ https://www.ftc.gov.tw/upload/9-1081112.pdf
 - 留意最高級用語
 - 廣告代理，媒體，薦證者責任
 - 查證義務，資料正確
+### 陸資OTT禁來台 
+- 愛奇藝條款9/3上路 https://www.cna.com.tw/news/firstnews/202008185008.aspx
+- NCC將線上串流影音納入管理 https://www.cool3c.com/article/177796
+
