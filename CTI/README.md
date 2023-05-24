@@ -6,3 +6,5 @@ https://www.ithome.com.tw/news/147193
 ## Cyber Threat Intelligence
 ### 勒索軟體Conti開始利用Log4Shell漏洞，攻擊VMware vCenter
 https://www.ithome.com.tw/news/148583
+### 手機真的在監聽嗎？在公共場合充電可能被駭？前Apple技術人員破解手機迷思 GQ Taiwan
+https://youtu.be/QidAal-Olq8
