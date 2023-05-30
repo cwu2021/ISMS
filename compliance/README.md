@@ -8,6 +8,8 @@ All relevant legislative statutory, regulatory, contractual requirements and the
 Man knows no Master save creating Heaven,
 Or those whom Choice and Common Good ordain.
  ~ Thomson.
+## Run, don't walk. Remember, either you're running for food, or running from being food. 
+https://opinion.cw.com.tw/blog/profile/441/article/13679
 ## Mac OS X (now macOS) has been certified as Unix by The Open Group, starting with 10.5
 https://unix.stackexchange.com/questions/1489/is-mac-os-x-unix
 ## GDPR
