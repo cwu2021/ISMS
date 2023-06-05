@@ -6,6 +6,10 @@ https://lab.lmnixon.org/cgi-sys/suspendedpage.cgi <br>
 https://github.com/lutangar/cities.json <br>
 https://github.com/maxmind/GeoIP2-python <br>
 https://github.com/P3TERX/GeoLite.mmdb
+## 數據看2022台灣旅遊產業（四）：觀察社群趨勢，討論度最高與關鍵字熱搜的是什麼？
+ - https://www.thenewslens.com/article/179958
+ - Google Trends："旅遊"、"機票"關鍵字
+ - https://lndata-taiwan.medium.com/%E7%96%AB%E5%BE%8C%E6%97%85%E9%81%8A%E8%B3%87%E8%A8%8A%E7%80%8F%E8%A6%BD%E8%88%87%E7%A4%BE%E7%BE%A4%E8%B6%A8%E5%8B%A2-5f85b96608a8
 ## somedomain.com footprinting.
  - eg, EC2 @Japan, cloudflare, godaddy via nslookup, whois, dig.
  - support.somedomain.com : social CRM tagged from social platforms.
