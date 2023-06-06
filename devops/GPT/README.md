@@ -1,5 +1,6 @@
 ## PerlGPT supported by Perl Foundation
 https://news.perlfoundation.org/post/perlgpt
+- Transformer presented by Google researchers in 2017, then GPT-1 was announced in 2018.
 ## prompthero/openjourney – Run with an API on Replicate
 https://replicate.com/prompthero/openjourney
 ## 用Python爬取PTT熱門新聞做成文字雲
