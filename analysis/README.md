@@ -6,6 +6,11 @@ The Japanese 25-yr Reanalysis (JRA-25) (Onogi et al. 2007) and National Centers 
 ## How Computers Generate Random Numbers
 There are two categories of random numbers — “true” random numbers and pseudorandom numbers — and the difference is important for the security of encryption systems.
  - https://www.howtogeek.com/183051/htg-explains-how-computers-generate-random-numbers/
+## quantity thinking 
+ - Niching up
+ - reinventing capitalism in the age of big data
+ - how charts work
+ - income statement,  balance sheet,  cash flow
 ## Detect anomalies in metrics data
  - https://www.admin-magazine.com/Archive/2022/70/Detect-anomalies-in-metrics-data/(offset)/6
  - podman pull quay.io/aicoe/prometheus-anomaly-detector:latest
