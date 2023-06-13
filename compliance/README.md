@@ -31,6 +31,10 @@ https://www.ftc.gov.tw/upload/9-1081112.pdf
 - 留意最高級用語
 - 廣告代理，媒體，薦證者責任
 - 查證義務，資料正確
+### 侵害著作權的刑事責任
+ - https://www.lhu.edu.tw/e_paper/103/lunghwa_paper_103016/special_column.htm
+ - 侵害他人著作權，除了有民事責任之外，若是屬於故意侵害的情形，也可能會屬於犯罪行為而有刑事責任。許多
+ - 許多人常常聽到「以刑逼民」的說法，就是指著作權人透過刑事訴訟的程序，使侵權人因為害怕遭受刑事追訴而可能需要坐牢或至少會留下前科，在無可選擇下以非常不利的條件與權利人達成和解。
 ### 陸資OTT禁來台 
 - 愛奇藝條款9/3上路 https://www.cna.com.tw/news/firstnews/202008185008.aspx
 - NCC將線上串流影音納入管理 https://www.cool3c.com/article/177796
