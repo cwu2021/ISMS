@@ -4,6 +4,9 @@ https://github.com/mjhea0/python-ruby <br>
  - Perl: system operation
  - Python: numerical analysis
  - Ruby: business automation
+### Jupyter Notebook操作介紹
+ - https://ithelp.ithome.com.tw/articles/10192614
+ - https://github.com/roberthsu2003/__112_python_flask__
 ### GitHub - ro31337/rubyisforfun
 https://github.com/ro31337/rubyisforfun
 ### How I developed a faster Ruby interpreter
