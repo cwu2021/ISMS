@@ -7,6 +7,7 @@ The Japanese 25-yr Reanalysis (JRA-25) (Onogi et al. 2007) and National Centers 
 There are two categories of random numbers — “true” random numbers and pseudorandom numbers — and the difference is important for the security of encryption systems.
  - https://www.howtogeek.com/183051/htg-explains-how-computers-generate-random-numbers/
 ## quantity thinking 
+ - 什麼是 ETL？ https://cloud.google.com/learn/what-is-etl?hl=zh-tw
  - Niching up
  - reinventing capitalism in the age of big data
  - how charts work
