@@ -33,4 +33,8 @@ sudo apt-get install mailutils <br>
 echo "test message" | mailx -s 'test subject' myemail@mydomain.com
  - sudo apt install mtr
  - mtr -r | mail -s 'mtr report' myemail@mydomain.com
+### smtpd remove all queue
+ - https://github.com/OpenSMTPD/OpenSMTPD/issues/793
+ - smtpctl show queue
+ - smtpctl remove all
 
