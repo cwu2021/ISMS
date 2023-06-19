@@ -1,5 +1,7 @@
-# 博客來-東京大學資料科學家養成全書：使用Python動手學習資料分析
+# 東京大學資料科學家養成全書：使用Python動手學習資料分析
  - https://www.books.com.tw/products/0010859473
+## STP行銷策略之Python商業應用實戰
+ - https://www.books.com.tw/products/0010870187
 
 【Chapter 1  本書的概要與Python的基礎】
 
