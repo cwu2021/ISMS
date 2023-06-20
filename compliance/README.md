@@ -17,6 +17,13 @@ https://unix.stackexchange.com/questions/1489/is-mac-os-x-unix
 An alternative to Paypal has never been more important now that the ADL will be combing through your financial transactions and ruining people’s lives for financially supporting people and organizations they don’t like. This week Paypal caught tremendous backlash after it was announced that their new terms of service had a clause that would fine users $2500 for “misinformation.” Paypal later claimed that this was a “mistake” and changed course. 
 ## ESG (Environmental / Social / Governance)
  - ERP Comparison Odoo vs SAP  https://www.odoo.com/page/compare-odoo-vs-sap
+## 天下雜誌 數位轉型報告
+ - 2023
+https://www.cw.com.tw/digital-transformation-report/2023/
+ - 2019
+https://web.cw.com.tw/media-digital-transformation-2019/
+ - 2018
+https://topic.cw.com.tw/media-digital-transformation/2018/
 ## NCC
 ### 影音授權與廣電法規
 授權電視台等大眾傳媒的客戶影片公播，須以「商業廣告」的標準來製作與審查。也就是說，只要叫做電視託播，無論我們播還是別人播，製作端都要以電視廣告標準為之。無論此影片是叫產品介紹片之類的通俗名稱，在電視台的編審與後續播出流程中，就應正名為「某某廣告」，以利電視作業辨識。包括廣告結案，也需要從名稱加以分辨。
