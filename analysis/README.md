@@ -4,6 +4,23 @@ Twenty-two cases from 1988/89 to 2000/01 were chosen for ERA-40 data composite, 
 
 The Japanese 25-yr Reanalysis (JRA-25) (Onogi et al. 2007) and National Centers for Environmental Prediction–National Center for Atmospheric Research (NCEP–NCAR) reanalysis I (Kalnay et al. 1996), as well as Quick Scatterometer (QuikSCAT) surface wind from satellite retrieval (Dunbar et al. 2006), were also used to verify the composite results of the 3D wind structure and 10-m wind retrieved from ERA-40 reanalysis data. The comparison reveals similar patterns among these datasets (not shown). It follows that the topographic effect revealed in the ERA-40 is also present in other reanalysis and datasets.
  - NASA Datapour https://gpm.nasa.gov/data-access/data-products
+## Dark Data《暗數據》
+ - https://www.morvenhsu.com/?p=665
+ - DD-T1 : Data We Know Are Missing
+ - DD-T2 : Data We Don't know Are Missing
+ - DD-T3 : Choosing Just Some Cases
+ - DD-T4 : Self-Selection 
+ - DD-T5 : Missing What Matters
+ - DD-T6 : Data Which Might Have Been
+ - DD-T7 : Changes with Time
+ - DD-T8 : Definitions of Data
+ - DD-T9 : Summaries of Data
+ - DD-T10 : Measurement Error and Uncertainty
+ - DD-T11 : Feedback and Gaming
+ - DD-T12 : Information Asymmetry
+ - DD-T13 : Intentionally Darkened Data
+ - DD-T14 : Fabricated and Synthetic Data
+ - DD-T15 : Extrapolating beyond Your Data
 ## How Computers Generate Random Numbers
 There are two categories of random numbers — “true” random numbers and pseudorandom numbers — and the difference is important for the security of encryption systems.
  - https://www.howtogeek.com/183051/htg-explains-how-computers-generate-random-numbers/
