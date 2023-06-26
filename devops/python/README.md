@@ -276,3 +276,10 @@ A-1-1 關於Anaconda
 A-1-2 下載Anaconda的套件
 A-1-3 安裝Anaconda
 A-1-4 安裝pandas-datareader與Plotly
+
+p.453 免費的資料分析教材
+ - https://www.kdnuggets.com/2015/09/free-data-science-books.html
+ - https://www.learndatasci.com/free-data-science-books/
+ - https://id.fnshr.info/2013/08/11/online-stat-books/
+ - https://id.fnshr.info/2016/08/15/online-stat-books-2/
+ - https://weblab.t.u-tokyo.ac.jp/gci%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E8%82%B2%E6%88%90%E8%AC%9B%E5%BA%A7%E3%83%BB%E6%BC%94%E7%BF%92%E3%82%B3%E3%83%B3%E3%83%86/
