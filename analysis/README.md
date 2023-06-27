@@ -5,7 +5,11 @@ Twenty-two cases from 1988/89 to 2000/01 were chosen for ERA-40 data composite, 
 The Japanese 25-yr Reanalysis (JRA-25) (Onogi et al. 2007) and National Centers for Environmental Prediction–National Center for Atmospheric Research (NCEP–NCAR) reanalysis I (Kalnay et al. 1996), as well as Quick Scatterometer (QuikSCAT) surface wind from satellite retrieval (Dunbar et al. 2006), were also used to verify the composite results of the 3D wind structure and 10-m wind retrieved from ERA-40 reanalysis data. The comparison reveals similar patterns among these datasets (not shown). It follows that the topographic effect revealed in the ERA-40 is also present in other reanalysis and datasets.
  - NASA Datapour https://gpm.nasa.gov/data-access/data-products
  - Data Science Methodologies: Cross-Industry Standard Process for Data Mining (CRISP-DM), etc.
-<br>https://medium.com/@aj.ramirez23/3-most-popular-data-science-metho-e61f6600b83f
+<br> https://medium.com/@aj.ramirez23/3-most-popular-data-science-metho-e61f6600b83f
+ - 什麼是資料科學？
+<br> https://www.oracle.com/tw/what-is-data-science/
+<br> https://aws.amazon.com/tw/what-is/data-science/
+<br> https://www.ptt.cc/bbs/graduate/M.1600354232.A.EDB.html
 
 ## Dark Data《暗數據》
  - https://www.morvenhsu.com/?p=665
