@@ -6,6 +6,8 @@ Information about technical vulnerabilities of information systems being used sh
 ## Vulnerability Assessment Scanner
 ### AFP vulnerability of samba
 $ nmap -v -PN -p 548 192.168.* | grep -B 4 open
+### Discover vulnerabilities with Google Tsunami
+ - https://www.admin-magazine.com/Archive/2023/74/Discover-vulnerabilities-with-Google-Tsunami
 ### WPScan WordPress security scanner.
 <i> https://github.com/wpscanteam/wpscan </i>
  - apt install ruby rubygems ruby2.5-dev
