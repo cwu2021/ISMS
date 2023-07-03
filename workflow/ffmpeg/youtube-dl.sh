@@ -5,3 +5,8 @@ sudo apt install python3-pip
 pip3 install --upgrade youtube-dl
 # twitch video also supported.
 youtube-dl https://www.twitch.tv/videos/1297909154
+# youtube-dl didn't update from 2021
+# https://blog.maki0419.com/2022/01/youtube-download-ytdlp-ffmpeg.html
+# https://github.com/yt-dlp/yt-dlp
+sudo pip3 install yt-dlp
+yt-dlp https://youtu.be/FevWtQlOoPI
