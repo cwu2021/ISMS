@@ -66,3 +66,7 @@ alert tcp any 6667 -> any any (msg:"C&C Server sent download command";content:"!
 $ grep Initial /var/log/daemon
 ### user login
 $ last |less
+
+## Why Is My Car's Check Engine Light On?
+ - Believe it or not, one of the most common causes of a sudden check engine light is a gas cap that simply wasn't tightened enough. Be sure to turn it until it clicks!
+<br> https://www.captoyota.com/service/information/why-is-my-check-engine-light-on.htm
