@@ -26,7 +26,8 @@ https://www.ibm.com/tw-en/topics/blockchain-ai
  - https://mpost.io/top-5-ai-musicaudio-generators-to-create-royalty-free-tracks/
  - Google launches ChatGPT rival called Bard - BBC News https://www.bbc.com/news/technology-64546299
  - ChatGPT prompt curation https://github.com/f/awesome-chatgpt-prompts
- - 格斗之王！AI写出来的AI竟然这么强！https://youtu.be/B7bYZ5ZFbl0 
+ - 格斗之王！AI写出来的AI竟然这么强！https://youtu.be/B7bYZ5ZFbl0
+ - 災防數據與機器學習整合應用開發 https://www.itdr.tw/results/2357913791
 # CAD和EDA工程師基本須知
 關於CAD(Computer Aided Design)和EDA(Electronic Design Automation)工程師職缺，兩者可以說是一樣的東西。 主要是針對IC設計產業做輔助設計的程式開發，職缺相關科系為電機、電子、資工為主。 
 ## A.14 Development
