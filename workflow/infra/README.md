@@ -169,3 +169,16 @@ https://surfshark.com/blog/surfshark-will-stop-supporting-shadowsocks
 <br> https://www.privateinternetaccess.com/blog/socks5-vpn/
 <br> https://canonical.com/blog/setup-your-own-vpn-server
 <br> https://github.com/shadowsocks/shadowsocks-libev/issues/2324
+#### VPN and regional blocking
+Fw: [討論] 資安報告：全球近三成VPN龍頭公司為中資
+<br> https://www.ptt.cc/bbs/MobileComm/M.1563559280.A.21B.html
+<br> [閒聊] 關於付費VPN的選擇
+<br> https://www.ptt.cc/bbs/KanColle/M.1604075481.A.58F.html
+<br> [討論] 業配很大強調跨區看片的VPN 算詐騙嗎
+<br> https://www.ptt.cc/bbs/MobileComm/M.1678172683.A.035.html
+<br> Re: [討論] 上海 astrill 掛了
+<br> https://www.ptt.cc/bbs/WorkinChina/M.1458264651.A.E70.html
+<br> [攻略] 給求職中、新上任提督的導航文 2代
+<br> https://www.ptt.cc/man/KanColle/DDA/D2DB/M.1491329690.A.F26.html
+<br> [問題] 日本遊戲鎖區的用意到底是什麼？
+<br> https://disp.cc/b/ACG/aQ6U
