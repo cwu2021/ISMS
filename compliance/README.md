@@ -24,6 +24,7 @@ https://unix.stackexchange.com/questions/1489/is-mac-os-x-unix
 An alternative to Paypal has never been more important now that the ADL will be combing through your financial transactions and ruining people’s lives for financially supporting people and organizations they don’t like. This week Paypal caught tremendous backlash after it was announced that their new terms of service had a clause that would fine users $2500 for “misinformation.” Paypal later claimed that this was a “mistake” and changed course. 
 ## ESG (Environmental / Social / Governance)
  - ERP Comparison Odoo vs SAP  https://www.odoo.com/page/compare-odoo-vs-sap
+ - What WSIS is and why WSIS+20 matters https://auda.org.au/blog/what-wsis-and-why-wsis20-matters
 ## 天下雜誌 數位轉型報告
  - 2023
 https://www.cw.com.tw/digital-transformation-report/2023/
