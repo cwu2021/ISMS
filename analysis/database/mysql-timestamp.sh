@@ -7,5 +7,6 @@ use MyDatabase;
 update phpbb_users set user_level=1 where username='myadmin';
 SELECT * FROM table WHERE TheNameOfTimestampColumn > '2009-01-28 21:00:00';
 SELECT * FROM Customers WHERE CustomerName LIKE 'a%';
+SELECT * FROM log where start >= "2023-03-17 00:00:00" and start <= "2023-03-18 00:00:00" order by start;
 EOF
 mysql -p < mysql-timestamp.sql > myoutput.txt
