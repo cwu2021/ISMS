@@ -23,6 +23,10 @@ https://manpages.ubuntu.com/manpages/impish/man3/Unix::Syslog.3pm.html
  - Weekly MetaCPAN report on Perl Weekly https://perlweekly.com/metacpan.html
  - stackoverflow perl report https://niceperl.blogspot.com/2022/10/dlvii-stackoverflow-perl-report.html
  - CPAN modules released last week https://niceperl.blogspot.com/2022/10/cdxvi-16-great-cpan-modules-released.html
+ - https://dev.to/thibaultduponchelle/open-letter-to-tim-oreilly-to-free-the-perl-camel-k3i
+ - https://www.i-programmer.info/news/222-perl/16431-perl-5380-released-an-appeal-to-new-blood.html
+ - perl v5.38 installation https://gist.github.com/manwar/868aeb07ef4b445b55f726b02a79544d
+ - https://github.com/manwar/perl-cool-snippets
 ## Why Perl?
  - Ubiquity	Scales up	Compatibility	Shell scripts	Extensible
  - https://two-wrongs.com/why-perl
