@@ -8,3 +8,4 @@ ifup vmbr2
 vma extract  
 # get conf and disk images. then move to ZFS. cmd via GUI is : 
 /usr/bin/qemu-img convert -p -n -t none -f raw -O raw /vic1/pve/images/202/vm-202-disk-0.raw zeroinit:/dev/zvol/vic1/vmdisk/vm-202-disk-0
+# PCT can easily increase disk size by clicking resize without stopping.
