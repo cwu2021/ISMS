@@ -1,0 +1,63 @@
+% https://latex-beamer.com/tutorials/beamer-themes/
+% Inbuilt themes in beamer
+%\documentclass{beamer}
+% https://www.csie.ntu.edu.tw/~tzhuan/www/resources/ntu/
+\documentclass[a4paper, 12pt]{article}
+\usepackage{CJKutf8}
+\usepackage{array}
+\usepackage{graphicx}
+
+\begin{document}
+\begin{CJK}{UTF8}{bsmi}
+
+% http://www.cs.nthu.edu.tw/~cherung/teaching/2009cs5321/link/latex.pdf
+% https://en.wikipedia.org/wiki/SWOT_analysis
+\title{我的文章} 
+\author{我的作者}
+\maketitle
+% https://latex-tutorial.com/changing-font-size/
+\begin{large}
+% https://www.overleaf.com/articles/extensive-latex-guide/vdgrdqdwjhtk
+文章這裡開始。
+\section{第一部分}
+\begin{itemize}
+ \item 第一點
+ \item 第二點
+ \item 第三點
+\end{itemize}
+
+\section{第二部分}
+第二部分觀點在這。
+
+% cwTEX book p.126
+\begin{center}
+ \begin{tabular}{lccc}
+ \hline
+%  & item1& item2& item3\\[-2pt]
+ 項目& 數字\\
+ \hline
+ 第一項&	4,494\\
+ 第二項& 	1,570\\
+ 第三項&	1,536\\
+ 第四項&	1,486\\
+ 第五項&	788\\
+ \hline
+\end{tabular}\end{center}
+
+% cwTEX book p.175
+\begin{figure}
+ \begin{center}
+  \includegraphics{test.png}
+  \caption{我的圖說}
+ \end{center}
+\end{figure}
+
+\section{第三部分}
+第三部分陳述在這。
+
+\section{第四部分}
+第四部分陳述在這。
+
+\end{large}
+\end{CJK}
+\end{document}
