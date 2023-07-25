@@ -27,6 +27,7 @@ https://manpages.ubuntu.com/manpages/impish/man3/Unix::Syslog.3pm.html
  - https://www.i-programmer.info/news/222-perl/16431-perl-5380-released-an-appeal-to-new-blood.html
  - perl v5.38 installation https://gist.github.com/manwar/868aeb07ef4b445b55f726b02a79544d
  - https://github.com/manwar/perl-cool-snippets
+ - perl is still a great choice https://foo.zone/gemfeed/2022-05-27-perl-is-still-a-great-choice.html
 ## Why Perl?
  - Ubiquity	Scales up	Compatibility	Shell scripts	Extensible
  - https://two-wrongs.com/why-perl
