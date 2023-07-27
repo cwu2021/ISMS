@@ -2,6 +2,10 @@
  - https://www.books.com.tw/products/0010870187
 # 東京大學資料科學家養成全書：使用Python動手學習資料分析
  - https://www.books.com.tw/products/0010859473
+ - https://books.google.com.tw/books?id=WdrrDwAAQBAJ&hl=zh-TW&source=gbs_book_other_versions
+ - https://github.com/kensaku-okada/MatsuoLabDataScienceFundamental/tree/master
+ - https://github.com/agotoh/ds
+ - https://hackmd.io/@arthurzllu/ByC0nhVkr
 
 【Chapter 1  本書的概要與Python的基礎】
 
