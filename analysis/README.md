@@ -55,6 +55,7 @@ There are two categories of random numbers — “true” random numbers and pse
  - automatic payment https://www.paypal.com/us/cshelp/article/what-is-an-automatic-payment-and-how-do-i-update-or-cancel-one-help240
  - AIDA => Segmentation->AIDA->Pool https://www.monetize.school/2022/02/are-you-still-using-the-last-century-marketing-theory-AIDA-marketing-funnel.html
  - (A)AARRR with additional Brand Awareness: 雖然是Segment但也是Brand，只是許多人將Brand當作一個名詞，但其實Brand應該是動詞且是精心規劃的行動。
+ - Growth Hacking (2010) and Hook model (2014) were both derived from AIDA (1989). Marketing Funnel was first used in 1898 by Elias St. Elmo Lewis. (p.223, UX Strategy, 2nd edition)
 
 # Act
 ## SIR model
