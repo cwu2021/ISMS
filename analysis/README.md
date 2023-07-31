@@ -53,6 +53,7 @@ There are two categories of random numbers — “true” random numbers and pse
  - Revenue Retention is the Key to Scalable Growth in 2023 | CustomerThink
  - OKR 跟 KPI 差在哪 https://www.managertoday.com.tw/articles/view/55927
  - automatic payment https://www.paypal.com/us/cshelp/article/what-is-an-automatic-payment-and-how-do-i-update-or-cancel-one-help240
+ - AIDA => Segmentation->AIDA->Pool https://www.monetize.school/2022/02/are-you-still-using-the-last-century-marketing-theory-AIDA-marketing-funnel.html
 
 # Act
 ## SIR model
