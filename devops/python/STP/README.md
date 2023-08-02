@@ -1,5 +1,6 @@
 # STP行銷策略之Python商業應用實戰
  - https://www.books.com.tw/products/0010870187
+ - Market Segmentation Essay (Wendell Smith 1956) https://www.bartleby.com/essay/Wendell-Smith-Market-Segmentation-F3CSQ9USVJ 
 ## ch1-3: STP data sources:
  - external: survey, big data (via digital platforms)
  - internal: CRM, browsing, interview
