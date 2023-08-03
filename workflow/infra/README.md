@@ -103,9 +103,10 @@ By default the OpenVPN Connect client installer file comes prebundled with a ser
 An IKEv1 server (isakmpd(8)) is also available and, coupled with npppd(8), it allows you to build an IKEv1/L2TP VPN where IKEv2 can't be deployed.
 
 Native WireGuard support is also available via the wg(4) device. As the manual explains, it can be configured the same way as all other network interfaces in OpenBSD. 
-#### MFA for AWS
+#### MFA for AWS , VIP
  - https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_lost-or-broken.html
  - using another MFA device registered
+ - https://www.techtarget.com/searchsecurity/feature/Multifactor-authentication-products-Symantec-Validation-and-ID-Protection-Service
 #### 2FA VPNs https://marc.info/?l=openbsd-misc&m=166794348111746&w=2
 Thought I'd follow up on this with my thoughts after considering the
 various suggestions (thanks all).
