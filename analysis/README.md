@@ -56,6 +56,22 @@ There are two categories of random numbers — “true” random numbers and pse
  - AIDA => Segmentation->AIDA->Pool https://www.monetize.school/2022/02/are-you-still-using-the-last-century-marketing-theory-AIDA-marketing-funnel.html
  - (A)AARRR with additional Brand Awareness: 雖然是Segment但也是Brand，只是許多人將Brand當作一個名詞，但其實Brand應該是動詞且是精心規劃的行動。
  - Growth Hacking (2010) and Hook model (2014) were both derived from AIDA (1989). Marketing Funnel was first used in 1898 by Elias St. Elmo Lewis. (p.223, UX Strategy, 2nd edition)
+### 12種商務開發 (or 9 ways for Awareness) https://abusensei.com/business-development-strategy/  
+線上開發方法：
+    電話陌生開發
+    官網SEO操作
+    廣告投放（Google, Facebook ）
+    電子郵件（EDM行銷）
+    Facebook 社團
+    Facebook 粉絲專頁
+    LINE 社群
+    LinkedIn
+    聯盟行銷
+
+線下開發方法：
+    銷售講座
+    商會組織：人脈引薦的最佳方式
+    經銷商合作
 ### 計算廣告曝光成本用CPM / 看點擊率用CTR / 計算點擊成本用CPC
  - https://blog.gogopartners.com/cpm-cpc-ctr
 
