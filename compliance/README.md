@@ -15,13 +15,18 @@ https://unix.stackexchange.com/questions/1489/is-mac-os-x-unix
 ## GPL of RHEL
  - I'm done with Red Hat (Enterprise Linux) https://www.jeffgeerling.com/blog/2023/im-done-red-hat-enterprise-linux
  - Keeping Open Source Open | Rocky Linux https://rockylinux.org/news/keeping-open-source-open/
- - AlmaLinux OS - Forever-Free Enterprise-Grade Operating System https://almalinux.org/blog/impact-of-rhel-changes/
+ - Impact to AlmaLinux OS https://almalinux.org/blog/impact-of-rhel-changes/
  - Rocky Linux Repositories https://wiki.rockylinux.org/rocky/repo/
  - GPLv2, Red Hat, and You https://www.jeffgeerling.com/blog/2023/gplv2-red-hat-and-you
  - Re: [情報] 紅帽不再公開RHEL原始碼，但仍維持開源 https://www.ptt.cc/bbs/PC_Shopping/M.1688051388.A.279.html
  - Oracle: https://www.oracle.com/news/announcement/blog/keep-linux-open-and-free-2023-07-10/
  - SuSE: https://www.suse.com/news/SUSE-Preserves-Choice-in-Enterprise-Linux/
- - AlmaLinux OS - Forever-Free Enterprise-Grade Operating System https://almalinux.org/blog/future-of-almalinux/
+ - Future of AlmaLinux OS https://almalinux.org/blog/future-of-almalinux/
+ - OpenQA for 1:1 ABI https://almalinux.org/blog/almalinux-os-brings-openqa-to-rhel/
+ - RHEL responses https://www.redhat.com/en/blog/new-offering-red-hat-enterprise-linux-7-third-party-linux-migration-aws
+ - https://www.redhat.com/en/blog/centos-linux-going-end-life-what-does-mean-me
+ - https://www.redhat.com/en/blog/migrating-centos-linux-red-hat-enterprise-linux-simplifying-transition
+ - https://www.redhat.com/en/blog/centos-linux-vs-rhel
 ## GDPR
 ### The Paypal Alternative https://news.gab.com/2022/10/gabpay-the-paypal-alternative/
 An alternative to Paypal has never been more important now that the ADL will be combing through your financial transactions and ruining people’s lives for financially supporting people and organizations they don’t like. This week Paypal caught tremendous backlash after it was announced that their new terms of service had a clause that would fine users $2500 for “misinformation.” Paypal later claimed that this was a “mistake” and changed course. 
