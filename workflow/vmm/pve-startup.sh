@@ -1,5 +1,17 @@
 #!/bin/bash
 
+# check HW logs after unexpected reboot on dell servers.
+racadm getsel
+
+# check if pve repo site changed.
+nslookup download.proxmox.com
+
+# check if ZFS scrub should be unscheduled.
+# https://forum.proxmox.com/threads/replication-runner-syslog.35600/
+systemctl edit --full pvesr.timer
+systemctl daemon-reload
+# https://www.cyberciti.biz/faq/how-to-check-zfs-file-system-storage-pool-on-linux-unix/
+
 #若你不需要 HA 的機制，那你可執行底下兩個指令來關閉 HA 的功能，來減少寫入:
 pve-ha-lrm stop
 pve-ha-crm stop
