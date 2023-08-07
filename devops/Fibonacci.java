@@ -1,3 +1,5 @@
+/* OpenJDK versus Oracle JDK
+https://www.redhat.com/en/topics/application-modernization/openjdk-vs-oracle-jdk */
 // https://www.programiz.com/java-programming/examples/fibonacci-series
 // https://github.com/trending/java
 // apt install openjdk-11-jre-headless
