@@ -56,7 +56,7 @@ There are two categories of random numbers — “true” random numbers and pse
  - AIDA => Segmentation->AIDA->Pool https://www.monetize.school/2022/02/are-you-still-using-the-last-century-marketing-theory-AIDA-marketing-funnel.html
  - (A)AARRR with additional Brand Awareness: 雖然是Segment但也是Brand，只是許多人將Brand當作一個名詞，但其實Brand應該是動詞且是精心規劃的行動。
  - Growth Hacking (2010) and Hook model (2014) were both derived from AIDA (1989). Marketing Funnel was first used in 1898 by Elias St. Elmo Lewis. (p.223, UX Strategy, 2nd edition)
- - 鉤癮效應 https://medium.com/@serena841205/%E9%89%A4%E7%99%AE%E6%95%88%E6%87%89-%E5%89%B5%E9%80%A0%E7%BF%92%E6%85%A3%E6%96%B0%E5%95%86%E6%A9%9F-ddb22edfc067
+ - 鉤癮效應: 觸發（Trigger）：引起使用者興趣。行動（Action）：預期會有獎賞而做出的行為。變動獎賞（variable reward）：活化大腦關於渴求及慾望的部位。投入（investment）：使用者將時間、心力、社會資本等用於此產品或服務上。 https://medium.com/@serena841205/%E9%89%A4%E7%99%AE%E6%95%88%E6%87%89-%E5%89%B5%E9%80%A0%E7%BF%92%E6%85%A3%E6%96%B0%E5%95%86%E6%A9%9F-ddb22edfc067
 ### 12種商務開發 (or 9 ways for Awareness) https://abusensei.com/business-development-strategy/  
 線上開發方法：
     電話陌生開發
