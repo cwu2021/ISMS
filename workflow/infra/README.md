@@ -107,6 +107,7 @@ Native WireGuard support is also available via the wg(4) device. As the manual e
  - https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_lost-or-broken.html
  - using another MFA device registered
  - https://www.techtarget.com/searchsecurity/feature/Multifactor-authentication-products-Symantec-Validation-and-ID-Protection-Service
+ - Security best practices for administrator accounts https://support.google.com/cloudidentity/answer/9011373?hl=en
 #### 2FA VPNs https://marc.info/?l=openbsd-misc&m=166794348111746&w=2
 Thought I'd follow up on this with my thoughts after considering the
 various suggestions (thanks all).
