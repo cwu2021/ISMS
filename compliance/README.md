@@ -28,6 +28,7 @@ https://unix.stackexchange.com/questions/1489/is-mac-os-x-unix
  - https://www.redhat.com/en/blog/migrating-centos-linux-red-hat-enterprise-linux-simplifying-transition
  - https://www.redhat.com/en/blog/centos-linux-vs-rhel
  - OpenELA of Oracle, SuSE https://openela.org/news/hello_world/
+ - BSL（Business Source License）https://www.ithome.com.tw/news/158228
 ## GDPR
 ### The Paypal Alternative https://news.gab.com/2022/10/gabpay-the-paypal-alternative/
 An alternative to Paypal has never been more important now that the ADL will be combing through your financial transactions and ruining people’s lives for financially supporting people and organizations they don’t like. This week Paypal caught tremendous backlash after it was announced that their new terms of service had a clause that would fine users $2500 for “misinformation.” Paypal later claimed that this was a “mistake” and changed course. 
