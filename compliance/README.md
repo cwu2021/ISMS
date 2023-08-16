@@ -35,6 +35,7 @@ An alternative to Paypal has never been more important now that the ADL will be 
 ## ESG (Environmental / Social / Governance)
  - ERP Comparison Odoo vs SAP  https://www.odoo.com/page/compare-odoo-vs-sap
  - What WSIS is and why WSIS+20 matters https://auda.org.au/blog/what-wsis-and-why-wsis20-matters
+ - 暖化不一定會讓颱風更具有破壞潛力 https://pansci.asia/archives/82932
 ## 天下雜誌 數位轉型報告
  - 2023
 https://www.cw.com.tw/digital-transformation-report/2023/
