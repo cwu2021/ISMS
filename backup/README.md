@@ -8,3 +8,5 @@ Specified personale should be assigned for listing and backup of the assets.
 ## Review storage use across your organization
  - https://support.google.com/a/answer/12002268?hl=en
  - In the Admin console, go to (left side) Menu and then Storage. Google Workspace for Nonprofits: 100 TB for all End Users.
+## Cloudflare R2 storage
+ - https://developers.cloudflare.com/r2/pricing/
