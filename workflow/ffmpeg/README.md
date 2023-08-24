@@ -52,3 +52,5 @@ C:\\> ffmpeg.exe -f libndi_newtek -i "NC1IO-RCTV (IN 4)" -vf yadif -c:v libx264 
 ### 如何查 Apple M1 軟體、遊戲相容性？用這方法即可查詢 - 瘋先生
  - https://mrmad.com.tw/apple-silicon-compatible-query
 
+# Transcode Cache
+/var/lib/plexmediaserver/Library/Application Support/Plex Media Server/Cache/PhotoTranscoder 
