@@ -14,6 +14,11 @@ my @modules = $inst->modules();
 print "$_ " for @modules;
 print "Perl version: $]\n";
 print qq(@INC);
+# Current working directory 
+# https://perlmaven.com/current-working-directory#:~:text=On%20Linux%2C%20Apple%20OSX%2C%20and,via%20a%20number%20of%20functions.
+use Cwd qw(cwd);
+my $dir = cwd;
+print "$dir\n";
 # on Big Sur: ruby 2.6.10p210 (2022-04-12 revision 67958) [universal.x86_64-darwin20] 
 print `ruby -v`
 =pod
