@@ -11,7 +11,9 @@ use ExtUtils::Installed;
 my $inst = ExtUtils::Installed->new();
 my @modules = $inst->modules();
 #print "$_\n"for @modules;
-print "$_ " for @modules
+print "$_ " for @modules;
+print "Perl version: $]\n";
+print qq(@INC);
 # on Big Sur: ruby 2.6.10p210 (2022-04-12 revision 67958) [universal.x86_64-darwin20] 
 print `ruby -v`
 =pod
