@@ -15,3 +15,5 @@ use Log::Log4perl qw(:easy);
 use Monitoring::Livestatus;
 # https://metacpan.org/release/NIERLEIN/Monitoring-Livestatus-0.84/source/exampl
 es/test.pl
+# Retrieving status data via Livestatus, including host names, ip, etc.
+# https://docs.checkmk.com/latest/en/livestatus.html
