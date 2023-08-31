@@ -17,3 +17,4 @@ use Monitoring::Livestatus;
 es/test.pl
 # Retrieving status data via Livestatus, including host names, ip, etc.
 # https://docs.checkmk.com/latest/en/livestatus.html
+`lq "GET hosts\nColumns: name address"`
