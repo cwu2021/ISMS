@@ -12,7 +12,7 @@ echo "test alert" | mail -s 'nagios test' youe@email
 apt install vim -y
 vi /etc/nagios3/conf.d/contacts_nagios2.cfg
 # OMD package installation
-# yum install expel-release
+# yum install epel-release
 # yum localinstall check*mk*rpm
 apt install ./check*mk*deb
 # https://docs.checkmk.com/latest/en/introduction_docker.html
