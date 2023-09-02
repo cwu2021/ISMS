@@ -1,4 +1,6 @@
 #!/bin/bash
+# The LXD Project Finds a New Home at Canonical
+# https://news.itsfoss.com/canonical-lxd-project/
 lxc list
 # If this is your first time running LXD on this machine, you should also run: lxd init
 # To start your first instance, try: lxc launch ubuntu:20.04
