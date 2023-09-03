@@ -6,3 +6,7 @@ lxc list
 # To start your first instance, try: lxc launch ubuntu:20.04
 lxc export
 # https://www.team-bob.org/lxd_backup_and_migrate/
+# Canonical's Leading LXD Engineer Quits
+# https://www.omgubuntu.co.uk/2023/07/canonicals-loses-prominent-lxd-engineer
+# Stéphane Graber has left Canonical
+# https://news.ycombinator.com/item?id=36666920
