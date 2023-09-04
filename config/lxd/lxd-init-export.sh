@@ -1,6 +1,12 @@
 #!/bin/bash
 # The LXD Project Finds a New Home at Canonical
 # https://news.itsfoss.com/canonical-lxd-project/
+# https://documentation.ubuntu.com/lxd/en/latest/tutorial/first_steps/
+snap list
+# lxd may be built-in for ubuntu > 23.04
+lxd init --minimal
+lxc launch images:centos/7 first
+# centos images may require cgroup v1.
 lxc list
 # If this is your first time running LXD on this machine, you should also run: lxd init
 # To start your first instance, try: lxc launch ubuntu:20.04
