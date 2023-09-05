@@ -15,3 +15,7 @@ yum update -y kernel
 # reboot
 # yum install -y https://get.docker.com/rpm/1.7.0/centos-6/RPMS/x86_64/docker-engine-1.7.0-1.el6.x86_64.rpm
 # service docker start
+# for SUSE host  
+# https://documentation.suse.com/sles/12-SP5/html/SLES-all/cha-docker-installation.html
+sudo zypper install docker
+sudo systemctl enable docker.service
