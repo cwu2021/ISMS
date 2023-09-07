@@ -7,6 +7,8 @@ snap list
 lxd init --minimal
 lxc launch images:centos/7 first
 # centos images may require cgroup v1.
+# KVM hypervisor: a beginners’ guide | Ubuntu
+# https://ubuntu.com/blog/kvm-hyphervisor
 lxc list
 # If this is your first time running LXD on this machine, you should also run: lxd init
 # To start your first instance, try: lxc launch ubuntu:20.04
