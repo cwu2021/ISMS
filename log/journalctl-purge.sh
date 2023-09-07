@@ -12,3 +12,8 @@ journalctl -ef -t sshguard
 nft list table sshguard
 # more tips to go https://www.loggly.com/ultimate-guide/using-journalctl/?_ga=2.105914827.912215606.1677205102-1305855358.1677205102
 journalctl -n 50 --since "1 hour ago"
+# MySQL replication binlog purge
+ cat > /tmp/purgebin.sql << EOF
+ purge binary logs before '`date +%Y`-`date +%m`-01 23:59:59';
+EOF
+# mysql < /tmp/purgebin.sql
