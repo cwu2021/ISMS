@@ -6,9 +6,12 @@ snap list
 # lxd may be built-in for ubuntu > 23.04
 lxd init --minimal
 lxc launch images:centos/7 first
-# centos images may require cgroup v1.
-head -15 /etc/default/grub for ubuntu 22.04
+head -15 /etc/default/grub
+# LXD 5 requires downgrading to cgroups v1 to run old instances. e.g. centos!
 # GRUB_CMDLINE_LINUX_DEFAULT="systemd.unified_cgroup_hierarchy=false"
+# https://blog.davy.tw/posts/enable-cgroups-v2-in-ubuntu/
+# https://askubuntu.com/questions/1165399/why-maybe-ubiquity-on-default-kernel-command-line
+mount | grep cgroup
 # KVM hypervisor: a beginners’ guide | Ubuntu
 # https://ubuntu.com/blog/kvm-hyphervisor
 lxc list
