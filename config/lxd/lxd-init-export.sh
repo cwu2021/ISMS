@@ -7,6 +7,8 @@ snap list
 lxd init --minimal
 lxc launch images:centos/7 first
 # centos images may require cgroup v1.
+head -15 /etc/default/grub for ubuntu 22.04
+# GRUB_CMDLINE_LINUX_DEFAULT="systemd.unified_cgroup_hierarchy=false"
 # KVM hypervisor: a beginners’ guide | Ubuntu
 # https://ubuntu.com/blog/kvm-hyphervisor
 lxc list
