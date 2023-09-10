@@ -13,3 +13,7 @@ kubectl get pods
 # https://kubernetes.io/docs/tasks/debug-application-cluster/get-shell-running-container/
 kubectl exec --stdin --tty nginx-6799fc88d8-kkxf6 -- /bin/bash
 kubectl get pods
+# Openshift Local from the SRE book for Redhat developers 
+tar xvJf crc*xz
+crc setup
+crc start
