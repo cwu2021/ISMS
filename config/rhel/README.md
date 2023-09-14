@@ -11,3 +11,5 @@
  <br>$ sudo dnf distro-sync
  -  Reboot the system
  -  Verification
+## HCL Super Micro OS Compatibility Chart
+https://www.supermicro.com/support/resources/OS/C741-DP.cfm
