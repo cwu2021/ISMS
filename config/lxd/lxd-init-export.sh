@@ -3,6 +3,9 @@
 # https://news.itsfoss.com/canonical-lxd-project/
 # https://documentation.ubuntu.com/lxd/en/latest/tutorial/first_steps/
 snap list
+# https://www.cyberciti.biz/faq/install-lxd-on-ubuntu-22-04-lts-using-apt-snap/
+snap install lxd --channel=latest/stable
+sudo apt install lxd-installer
 # lxd may be built-in for ubuntu > 23.04
 lxd init --minimal
 lxc launch images:centos/7 first
