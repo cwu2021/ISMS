@@ -4,6 +4,8 @@
 <i>Control</i><br>
 Information about technical vulnerabilities of information systems being used shall be obtained in a timely fashion, the organization's exposure to such vilnerabilities evaluated and appropriate measures taken to address the associated risk.
 ## Vulnerability Assessment Scanner
+### 5款免費、付費弱點掃描工具優缺點分析！
+https://www.digicentre.com.tw/industry_detail?id=127
 ### AFP vulnerability of samba
 $ nmap -v -PN -p 548 192.168.* | grep -B 4 open
 ### Discover vulnerabilities with Google Tsunami
