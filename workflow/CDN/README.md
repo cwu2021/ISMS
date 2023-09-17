@@ -1,3 +1,11 @@
+# 台灣衛星產業趨勢
+目前地球軌道上運作中的衛星約萬餘顆，星鏈佔4200顆 (未來計畫擴充四萬顆)，目前可預見：
+
+1) 低軌衛星商轉須百顆以上，真的很貴，國科會現研究計劃僅2+4顆，而星鏈因堅持獨資可能合作破局，數位部改找英國OneWeb合作 https://www.cna.com.tw/news/afe/202306210377.aspx
+
+2) 只對特定區域提供服務的話，相較低軌衛星，同步衛星只要一顆，現役中新二號(ST-2)役期15年到2026年，在國安需求上，台灣政府比較可能繼續投資同步衛星。
+
+低軌衛星的全球治理 https://youtube.com/live/x40XyGiXbWg?feature=share
 # WeTransfer alternatives to consider:
  - sendspace
  - Oroson
