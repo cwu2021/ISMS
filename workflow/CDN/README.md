@@ -6,6 +6,14 @@
 2) 只對特定區域提供服務的話，相較低軌衛星，同步衛星只要一顆，現役中新二號(ST-2)役期15年到2026年，在國安需求上，台灣政府比較可能繼續投資同步衛星。
 
 低軌衛星的全球治理 https://youtube.com/live/x40XyGiXbWg?feature=share
+
+# Wowza Streaming Engine licensing errors
+<i>https://www.wowza.com/docs/troubleshoot-wowza-streaming-engine-licensing-errors-at-startup</i><br>
+wowzalicense1.wowzamedia.com has address 3.219.52.15
+wowzalicense2.wowzamedia.com has address 52.203.165.12
+wowzalicense3.wowzamedia.com has address 52.203.165.12
+wowzalicense4.wowzamedia.com has address 3.219.52.15
+
 # WeTransfer alternatives to consider:
  - sendspace
  - Oroson
