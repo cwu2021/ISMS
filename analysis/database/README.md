@@ -1,3 +1,6 @@
+## Crouching Table, Hidden Network
+"You were enlightened?" <br>
+"No, I didn't feel the bliss of enlightenment. Instead...I was surrounded by an endless sorrow." ~ the effects of bad data (...or something similar...)
 ## sc: the Venerable Spreadsheet Calculator | Linux Journal
 https://www.linuxjournal.com/article/10699
 ## Ubuntu: Install SQL Server on Linux - SQL Server | Microsoft Learn
