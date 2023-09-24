@@ -24,6 +24,9 @@ In the program dir of Filezilla, is there a folder called 'resources'? You don't
  - autossh -M 20000 -N -i /home/rspi/.ssh/id_rsa ksproxy@37.xxx.yyy.zzz
  - ssh rspi@localhost -p 20000
 
+## Thin client solution based on OpenBSD
+http://undeadly.org/cgi?action=article;sid=20121026064602
+
 ## How can I make VNC faster?
 https://help.realvnc.com/hc/en-us/articles/360002321097-What-can-I-do-to-boost-picture-quality-or-performance-
 https://superuser.com/questions/15337/how-can-i-make-vnc-faster <br>
