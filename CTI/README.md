@@ -5,7 +5,8 @@ https://www.ithome.com.tw/news/147193
 5.7	威脅情資 5.7　	Threat intelligence
 ## Cyber Threat Intelligence
 ### AlienVault - Open Threat Exchange
-https://otx.alienvault.com/
+https://otx.alienvault.com/ <br>
+OSSIM OTX as CTI.
 ### 勒索軟體Conti開始利用Log4Shell漏洞，攻擊VMware vCenter
 https://www.ithome.com.tw/news/148583
 ### 手機真的在監聽嗎？在公共場合充電可能被駭？前Apple技術人員破解手機迷思 GQ Taiwan
