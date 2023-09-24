@@ -2,6 +2,8 @@
 https://www.ithome.com.tw/news/149520
 ## ISO/IEC 27001：2022改版秘辛
 https://www.cc.ntu.edu.tw/chinese/epaper/home/20230320_006407.html
+## 一篇看懂所有關於ISO27001:2022 與ISO27002:2022 改版資訊問與答。 - 驪鑫 ISO輔導
+https://www.isolution.com.tw/iso27001-revision/
 # IEC 62443 OT SEC
 ## 什麼是 SBOM (軟體物料清單)？
 https://www.aisol.com.tw/index.php?action=solution&cid=23&id=197
