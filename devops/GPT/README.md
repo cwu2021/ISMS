@@ -1,6 +1,7 @@
 ## PerlGPT supported by Perl Foundation
 https://news.perlfoundation.org/post/perlgpt
 - Transformer presented by Google researchers in 2017, then GPT-1 was announced in 2018.
+- 1000億完全建置。1750億參數，而台積電用100億參數做 Private GPT ～ 知識力專家社群創辦人 曲建仲博士
 ## prompthero/openjourney – Run with an API on Replicate
 https://replicate.com/prompthero/openjourney
 ## 用Python爬取PTT熱門新聞做成文字雲
