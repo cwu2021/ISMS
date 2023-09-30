@@ -9,6 +9,9 @@ https://www.isolution.com.tw/iso27001-revision/
 https://www.aisol.com.tw/index.php?action=solution&cid=23&id=197
 ### SCA, SBOM, Vulnerability Management, SAST, or DAST Tools
 https://www.mayhem.security/blog/sca-sbom-vulnerability-management-sast-or-dast-tools-which-is-best-for-your-team
+## CIS 基準介紹 – AWS
+https://aws.amazon.com/tw/what-is/cis-benchmarks/ <br>
+很好笑的是，規範都有，但基本都很難做到，特別是雲服務 CSP ，專業稽核員可能飛A國家訪談人員再帶到B國家看機房，然後沒查全。資料刪除的實務也難做全。
 # 《數位中介服務法》草案
 <i> https://www.ithome.com.tw/voice/152495 </i><br>
 NCC在6月底終於公布了《數位中介服務法》草案（簡稱中介法），這是臺灣第一份數位中介服務的專法，凡是經手了各種使用者的數位資料、聲音、影像、文字的中間服務業者，就得負起守門人的責任。這就幾乎涵蓋了臺灣網路產業、電信產業，只是要提供連線服務、快速存取服務或是資訊儲存服務的業者，就得負擔起一定程度的義務，來把關所經手處理的資料。
