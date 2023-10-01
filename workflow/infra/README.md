@@ -23,6 +23,7 @@ In the program dir of Filezilla, is there a folder called 'resources'? You don't
  - apt install autossh
  - autossh -M 20000 -N -i /home/rspi/.ssh/id_rsa ksproxy@37.xxx.yyy.zzz
  - ssh rspi@localhost -p 20000
+ - building old SSH may require older SSL library.
 
 ## Thin client solution based on OpenBSD
 http://undeadly.org/cgi?action=article;sid=20121026064602
