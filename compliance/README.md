@@ -74,3 +74,4 @@ https://www.ftc.gov.tw/upload/9-1081112.pdf
  - 精省打造新世代機房 https://www.netadmin.com.tw/netadmin/zh-tw/viewpoint/2729C2D398714840977BF5B4EBB9DAC5
  - U.S. Viewing Time for OTT - WSJ: YouTube (9%), Netflix (8%)... https://www.wsj.com/articles/television-accounts-for-less-than-half-of-u-s-viewing-time-for-the-first-time-158a1fc
  - 毛利率、淨利率、營業利益率，怎麼計算？ https://www.managertoday.com.tw/articles/view/55137
+ - 品牌，你為什麼該選擇用電視與電視數位平台的管道，來做廣告宣傳呢？ https://www.marketersgo.com/marketing-strategies-tactics/202207/television-advertisement/
