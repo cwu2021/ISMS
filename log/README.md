@@ -44,6 +44,7 @@ https://nxlog.co/documentation/nxlog-user-guide/eventlog-eventids.html
  - https://www.reddit.com/r/Splunk/comments/sa9ep3/free_version/
  - https://ithelp.ithome.com.tw/m/articles/10222725
  - https://www.elastic.co/guide/en/beats/winlogbeat/current/winlogbeat-installation-configuration.html
+ - Cisco Plans to Acquire Splunk https://www.admin-magazine.com/News/Cisco-Plans-to-Acquire-Splunk
 ## Perl for System Administration
  - https://docstore.mik.ua/orelly/perl/sysadmin/ch07_06.htm
 ### System Monitoring with Perl 
