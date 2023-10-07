@@ -9,6 +9,8 @@
 
 估2021年到2030年每年將發射逾1,700顆衛星 https://www.ithome.com.tw/news/151509
 
+Live World Map of Satellite Positions https://in-the-sky.org/satmap_worldmap.php
+
 # Wowza Streaming Engine licensing errors
 <i>https://www.wowza.com/docs/troubleshoot-wowza-streaming-engine-licensing-errors-at-startup</i><br>
 wowzalicense1.wowzamedia.com has address 3.219.52.15
