@@ -3,6 +3,8 @@
 ## A.12.5.3 of ISO/IEC 27001:2005
 <i>Control</i><br>
 Modifications to software packages shall be discouraged, limited to necessary changes and all changes shall be strictly controlled.
+## Updates including drivers and hotfixes from the Windows Update Catalog
+https://learn.microsoft.com/en-us/troubleshoot/windows-client/deployment/download-updates-drivers-hotfixes-windows-update-catalog
 ## Beware of "Software Transformed" vendors and "New Features" updates. 
 ### Verify updates carefully and apply after one week observation.
 - 7.0.1-42218 Update 1 01-12 recalled.
