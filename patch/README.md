@@ -5,6 +5,8 @@
 Modifications to software packages shall be discouraged, limited to necessary changes and all changes shall be strictly controlled.
 ## Updates including drivers and hotfixes from the Windows Update Catalog
 https://learn.microsoft.com/en-us/troubleshoot/windows-client/deployment/download-updates-drivers-hotfixes-windows-update-catalog
+### 2023 年 9 月 26 日 KB5030649 Windows 10 版本 22H2 .NET Framework 3.5 和 4.8.1 的累積更新
+https://support.microsoft.com/zh-tw/topic/2023-年-9-月-26-日kb5030649-windows-10-版本-22h2-的-net-framework-3-5-和-4-8-1-累積更新預覽-5b4ecdd8-f632-47ca-b313-41993bec91de
 ## Beware of "Software Transformed" vendors and "New Features" updates. 
 ### Verify updates carefully and apply after one week observation.
 - 7.0.1-42218 Update 1 01-12 recalled.
