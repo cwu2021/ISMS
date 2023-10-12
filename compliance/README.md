@@ -12,6 +12,10 @@ Or those whom Choice and Common Good ordain.
 https://opinion.cw.com.tw/blog/profile/441/article/13679
 ## Mac OS X (now macOS) has been certified as Unix by The Open Group, starting with 10.5
 https://unix.stackexchange.com/questions/1489/is-mac-os-x-unix
+### Apple Open Source
+https://opensource.apple.com/releases/
+### Apple security releases
+https://support.apple.com/en-us/HT201222
 ## GPL of RHEL
  - I'm done with Red Hat (Enterprise Linux) https://www.jeffgeerling.com/blog/2023/im-done-red-hat-enterprise-linux
  - Keeping Open Source Open | Rocky Linux https://rockylinux.org/news/keeping-open-source-open/
