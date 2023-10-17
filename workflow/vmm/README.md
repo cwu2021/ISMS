@@ -12,6 +12,10 @@ https://www.reddit.com/r/openbsd/comments/yew0ri/keep_getting_a_fatal_protection
  - I mounted the VDI on the AHCI SATA controller and it worked.
  - I also chose the ICH9 Chipset and enabled Nested VT-x/AMD-V.
  - rdate correctly to make pkg work.
+### bad system call (core dumped)
+https://www.mail-archive.com/search?l=misc@openbsd.org&q=subject:%22%5C-current%22&o=newest&f=1 <br>
+...it's very likely that you're
+running into a problem from some old binary or cached build somewhere.
 ## NIC/networking with temporal correlation removed, which also simplified vm networking. unused services disabled. keep observing.
  - VM can also consider migrating between Hosts as physical RAM changing. Host rebooting may be RAM related.
 ## Emulators
