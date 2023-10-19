@@ -42,6 +42,11 @@ An alternative to Paypal has never been more important now that the ADL will be 
  - ERP Comparison Odoo vs SAP  https://www.odoo.com/page/compare-odoo-vs-sap
  - What WSIS is and why WSIS+20 matters https://auda.org.au/blog/what-wsis-and-why-wsis20-matters
  - 暖化不一定會讓颱風更具有破壞潛力 https://pansci.asia/archives/82932
+### ESG for broadcasters 
+ - 影視產業近期開始積極關注ESG在台灣的發展。產製成本的提高與產製流程的轉型，為主要面臨的課題與挑戰。
+ - 乾淨能源的取得，碳中和製造的影視設備，以及政府相關補助，是否能完全契合影視內容實務操作的需要，尚須更多驗證。
+ - 更優惠的電動汽機車的補助措施，在出外景或新聞採訪的車輛更新方面，可起到有效的鼓勵作用。
+ - 政府可積極協助國內更多綠色機房的建置，以及影視設備廠商達到碳中和標準，並加以適當的採購補貼，讓影視產製更能無痛轉型。
 ## 天下雜誌 數位轉型報告
  - 2023
 https://www.cw.com.tw/digital-transformation-report/2023/
