@@ -4,6 +4,8 @@
 <i>Control</i><br>
 Information about technical vulnerabilities of information systems being used shall be obtained in a timely fashion, the organization's exposure to such vilnerabilities evaluated and appropriate measures taken to address the associated risk.
 ## Vulnerability Assessment Scanner
+### 個資的善良管理人report sample，反正買愈多就有愈多
+https://developers.cloudflare.com/ddos-protection/reference/reports/
 ### 5款免費、付費弱點掃描工具優缺點分析！
 https://www.digicentre.com.tw/industry_detail?id=127
 ### AFP vulnerability of samba
