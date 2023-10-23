@@ -1,6 +1,7 @@
 # Zero Trust Model
 ## ACL can help achieve its 'less priviledge' policy.
 \# chkconfig iptables --list
+## PPTP VPN Protocol in 2023 https://www.cyberghostvpn.com/en_US/privacyhub/pptp-vpn/
 ## Share A Folder Between Ubuntu/Linux and Windows
 https://www.debugpoint.com/guide-how-share-folder-between-ubuntu-linux-windows/ <br>
 https://askubuntu.com/questions/88108/samba-share-read-only-for-guests-read-write-for-authenticated-users <br>
