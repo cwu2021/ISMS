@@ -11,6 +11,8 @@
 
 Live World Map of Satellite Positions https://in-the-sky.org/satmap_worldmap.php
 
+GNSR 獵風者衛星 https://www.tasa.org.tw/inprogress.php?c=20012001
+
 ## 衛星電話好用嗎?
 https://www.ptt.cc/bbs/Gossiping/M.1391950477.A.F7C.html <br>
 衛星電話其實在GSM普遍以前，就已經遍布全世界，幾乎可以說是最早的行動電話，只是大多使用在海事作業上。目前，台灣人會使用的衛星電話大概是有三個系統
