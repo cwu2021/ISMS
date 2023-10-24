@@ -54,6 +54,19 @@ https://www.cw.com.tw/digital-transformation-report/2023/
 https://web.cw.com.tw/media-digital-transformation-2019/
  - 2018
 https://topic.cw.com.tw/media-digital-transformation/2018/
+ - nDX 2023 grant
+
+影響力獎助類
+天下集團 (親子天下＋康健雜誌) 的「媒體數位轉型分群分眾客製化回饋之AI語意資料庫開發計畫」
+
+標準獎助類
+財團法人報導者文化基金會的「健全非營利媒體生態系：以「支持方案」建立永續營運模式，以「新聞元件」深化公共分享價值」
+
+基本獎助類
+• 遠見天下文化出版股份有限公司 的「遠見天下文化集團《未來少年》《未來兒童》數位轉型方案」
+• 財團法人台北市科學出版事業基金會的「《科學月刊》內容數位管理與使用者數位閱讀研究計畫」
+• 透視數據有限公司的EmpathyGPT同理心幕僚
+• 醫智健康科技股份有限公司 (與NowNews合作) 的「AI-Enhanced NEWS Delivery」
 ## 國發會
 ### 出生率及死亡率趨勢
 https://pop-proj.ndc.gov.tw/chart.aspx?c=1&uid=61&pid=60
