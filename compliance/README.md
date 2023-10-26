@@ -93,6 +93,8 @@ https://www.ftc.gov.tw/upload/9-1081112.pdf
 ### 陸資OTT禁來台 
 - 愛奇藝條款9/3上路 https://www.cna.com.tw/news/firstnews/202008185008.aspx
 - NCC將線上串流影音納入管理 https://www.cool3c.com/article/177796
+- 中共延長貿易壁壘調查 學者籲立法防產業遭脅迫
+https://www.epochtimes.com/b5/23/10/12/n14093967.htm
 ### 數位轉型
  - 以往的廣告營收模式隨著cable大環境逐年衰落 ( https://www.ncc.gov.tw/chinese/news_detail.aspx?site_content_sn=5326&cate=0&keyword=&is_history=0&pages=0&sn_f=48934 ) ，電視台須積極進行數位轉型，方可期待以訂閱模式  ( https://www.macromicro.me/charts/33561/big-tech-sub-revenue ) 改善公司經營情況。
  - 精省打造新世代機房 https://www.netadmin.com.tw/netadmin/zh-tw/viewpoint/2729C2D398714840977BF5B4EBB9DAC5
