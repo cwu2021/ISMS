@@ -1,5 +1,7 @@
 # Install WireGuard VPN Server on OpenBSD 7.0
 # https://www.vultr.com/docs/install-wireguard-vpn-server-on-openbsd-7-0/
+# Simple Wireguard setup as VPN server and multiple clients
+# https://gist.github.com/etiennetremel/a90d898103b0d3e450bc53d428a47e91
 pkg_add wireguard-tools
 sysctl net.inet.ip.forwarding=1
 echo "net.inet.ip.forwarding=1" >> /etc/sysctl.conf
