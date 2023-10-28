@@ -17,6 +17,10 @@ https://tacc.cwb.gov.tw/v2/
  - iPhone 14 Will Have Satellite Connectivity. How Exactly It Will Work <br>
 https://www.universetoday.com/157474/iphone-14-will-have-satellite-connectivity-how-exactly-it-will-work/
 Globalstar is operating a constellation of 48 satellites in LEO at 1414 km altitude. They are placed in eight orbital planes of six satellites, each with an inclination of 52°. This means they can provide service on Earth from 70° North latitude to 70° South latitude. Meaning the iPhone 14 satellite connectivity won’t work in polar regions.<br>
+## 電話裝太多支，響一聲就會自動斷掉? 
+ - 一般不用給電的便宜話機,是直接吃電話LINE給的電,平常LINE約12V,當響鈴時是高於45Vrms
+<br> https://m.mobile01.com/topicdetail.php?f=168&t=3258900
+<br> https://my.cht.com.tw/Trouble
 # Dynamic routing of friends' networks at home using BGP privately : building Intranets.
 http://blog.jpauli.tech/dynamic-routing-of-friends-networks-at-home-using-bgp-privately/
 # Why BGP is used over OSPF?
