@@ -107,6 +107,7 @@ modprobe wireguard && echo module wireguard +p > /sys/kernel/debug/dynamic_debug
 # It's inspired by a stone engraving of the mythological ancient greek python, which I saw while visiting a museum in Delphi. The WireGuard logo then kind of morphed to be more dragon-like than snake-like, but they're nonetheless closely related creatures. 
 
 # Setup WireGuard on Ubuntu 22.04
+# https://www.digitalocean.com/community/tutorials/how-to-set-up-wireguard-on-ubuntu-22-04
 # https://www.digitalocean.com/community/tutorials/how-to-set-up-wireguard-on-ubuntu-20-04
 sudo apt update
 sudo apt install wireguard
