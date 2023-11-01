@@ -75,6 +75,7 @@ There are two categories of random numbers — “true” random numbers and pse
     經銷商合作
 ### 計算廣告曝光成本用CPM / 看點擊率用CTR / 計算點擊成本用CPC
  - https://blog.gogopartners.com/cpm-cpc-ctr
+ - 0.47-1.61%，這樣0.5%是偏低 https://farryhsu.com/how-to-evaluate-ctr-and-ad-perfromance/
 
 # Act
 ## SIR model
