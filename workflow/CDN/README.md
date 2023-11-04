@@ -16,6 +16,7 @@ GNSR 獵風者衛星 https://www.tasa.org.tw/inprogress.php?c=20012001
 ## 中共反衛星雷射武器發展 - 國防安全研究院
  - https://indsr.org.tw/respublicationcon?uid=12&resid=696&pid=2442
  - https://www.mjib.gov.tw/FileUploads/eBooks/2b6bdbc8433349e28ae4cd4380d25dc7/Section_file/6c61f1587deb4f6b8e28d1f0194d0230.pdf
+### DJI drone programmable http://www.linux-magazine.com/Issues/2023/277/DJI-Ryze-Tello
 ## 衛星電話好用嗎?
 https://www.ptt.cc/bbs/Gossiping/M.1391950477.A.F7C.html <br>
 衛星電話其實在GSM普遍以前，就已經遍布全世界，幾乎可以說是最早的行動電話，只是大多使用在海事作業上。目前，台灣人會使用的衛星電話大概是有三個系統
