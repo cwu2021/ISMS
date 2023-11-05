@@ -4,6 +4,8 @@
  - MTR: A Network Diagnostic Tool https://linuxhint.com/mtr-a-diagnostic-tool/
  <br> $ mtr -r 1.1.1.1 | awk '{print $1,$3,$4,$5,$6,$7,$8,$9}'
  <br> https://stackoverflow.com/questions/61521927/how-to-awk-multiple-columns-in-bash
+ - IDC 700Gbps backbone
+是方完善的700G跨國骨幹建置遍布全球各區，提供更便捷、高效、多選擇、備援的雲端與網路匯集環境，今年除了加強「三環三線」網路布建、推出SD-WAN（軟體定義廣域網路）、與國際合作夥伴打造的全球Bare Metal Cloud裸機雲服務也即將上線，能更快速、有效的替企業解決跨境連線的問題，且享有更高階的雲端應用服務效能和網路安全性，支援客戶全球化的營運布局。
 # 5G Technology
  - Test your 5G, 4G and WiFi connection with our top 12 apps | 5Gradar <br>
 https://www.5gradar.com/features/test-your-5g-connection-with-our-top-apps<br>
