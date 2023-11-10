@@ -10,7 +10,7 @@ The Japanese 25-yr Reanalysis (JRA-25) (Onogi et al. 2007) and National Centers 
 <br> https://www.oracle.com/tw/what-is-data-science/
 <br> https://aws.amazon.com/tw/what-is/data-science/
 <br> https://www.ptt.cc/bbs/graduate/M.1600354232.A.EDB.html
-
+ - Thou Shalt Expect Omnipotence from Data Scientists ~ Bad Data Handbook
 ## Dark Data《暗數據》
  - https://www.morvenhsu.com/?p=665
  - DD-T1 : Data We Know Are Missing
