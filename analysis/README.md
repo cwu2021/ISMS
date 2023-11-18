@@ -77,8 +77,8 @@ There are two categories of random numbers — “true” random numbers and pse
  - https://blog.gogopartners.com/cpm-cpc-ctr
  - 0.47-1.61%，這樣0.5%是偏低 https://farryhsu.com/how-to-evaluate-ctr-and-ad-perfromance/
  - YouTube廣告費用怎麼算？2種出價方式一次搞懂｜PRO360達人網 https://www.pro360.com.tw/price/youtube_ads
- - 電視廣告費用以及效益 https://blog.xinmedia.com/article/201485
-
+ - 電視廣告費用以及效益 https://blog.xinmedia.com/article/201485 <br>
+https://www.ageinmedia.com/Blog/bloginfo/37
 # Act
 ## SIR model
 流行病簡化模型 R0 = P(接觸)xP(傳播)/P(痊癒)，三項分別是人群接觸機率，疫病傳播機率，以及疫病痊癒率。如果各國想恢復正常生活，必須R0<1才能疫情趨緩，愈小愈好。
