@@ -34,6 +34,7 @@ https://manpages.ubuntu.com/manpages/impish/man3/Unix::Syslog.3pm.html
  - https://github.polettix.it/ETOOBUSY/2023/04/29/why-perl/
  - Perl Code Profiling Tools https://marketsplash.com/tutorials/perl/perl-code-profiling-tools/
  - Running mod_perl with Mojolicious in Docker https://rawley.xyz/docker-mod-perl.html
+ - Understanding the Basics of Perl for Text Processing with AI Features https://medium.com/@staneyjoseph.in/understanding-the-basics-of-perl-for-text-processing-with-ai-features-673e55728db9
 ## Coding trends
  - https://insights.stackoverflow.com/trends?tags=zend-framework%2Creact-native%2Cwordpress
  - https://madnight.github.io/githut/#/pull_requests/2022/3
