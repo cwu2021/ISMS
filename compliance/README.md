@@ -101,6 +101,7 @@ https://www.ftc.gov.tw/upload/9-1081112.pdf
  - https://www.lhu.edu.tw/e_paper/103/lunghwa_paper_103016/special_column.htm
  - 侵害他人著作權，除了有民事責任之外，若是屬於故意侵害的情形，也可能會屬於犯罪行為而有刑事責任。許多
  - 許多人常常聽到「以刑逼民」的說法，就是指著作權人透過刑事訴訟的程序，使侵權人因為害怕遭受刑事追訴而可能需要坐牢或至少會留下前科，在無可選擇下以非常不利的條件與權利人達成和解。
+ - 2023律師費用一覽表！($5000/hr) https://lawhsinyi.com/blog/關於律師費用？律師費用怎麼算呢/
 ### 根據《外國人侵權法》針對思科提出的所有索賠指控
  - https://big5.minghui.org/mh/articles/2023/7/8/462777.html
 ### 陸資OTT禁來台 
