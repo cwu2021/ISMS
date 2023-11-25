@@ -50,6 +50,8 @@ http://guides.rubygems.org/command-reference/#gem-list
 ### Drier walts 
 750W-1000W-1200W <br>
 $350-390 --> or $600!
+### refrigerator checks
+如果有冰箱型號，可以查查集水盤在哪
 ### Thus for Random Reboot PC issue:
  - start with the PSU: stable and enough walts.
  - overheating 
