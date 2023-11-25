@@ -22,3 +22,11 @@ echo "`date` sync ended..." >> sync.log
 
 # SFTP forwarding if required
 # https://www.linuxjournal.com/content/sftp-port-forwarding-enabling-suppressed-functionality
+
+# Migrating a Linux system to virtual machine with rsync
+# https://letitknow.wordpress.com/2012/12/31/migrating-a-linux-system-to-virtual-machine-with-rsync/
+# boot it with a live cd
+export RSYNC_PASSWORD=&ltrsync_password>\
+rsync -vrtlpogDSH --progress --delete --exclude=/sys --exclude=/proc \
+--delete-excluded <rsync_user>@<source_ip>::root/ /mnt/;\
+mkdir /mnt/proc;mkdir /mnt/sys
