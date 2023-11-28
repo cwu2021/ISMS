@@ -46,6 +46,8 @@ C:\\> ffmpeg.exe -f libndi_newtek -i "NC1IO-RCTV (IN 4)" -vf yadif -c:v libx264 
  - https://www.rickmakes.com/installing-ffmpeg-on-macos-big-sur-on-intel/
 <br> $ curl https://url.of.asc | gpg --import
 <br> $ gpg --verify veracrypt-1.24-Update7-Ubuntu-20.04-amd64.deb.sig veracrypt-1.24-Update7-Ubuntu-20.04-amd64.deb
+<br> $ gpg --recv-keys 70202E8ED17B372A6D04467B4E7BEC998E920EE1
+<br> $ gpg --verify ffmpeg-112813-gfb52070848.zip.sig
  - https://www.linuxbabe.com/security/verify-pgp-signature-software-downloads-linux
 ### Amazon EC2 Mac Instances - Amazon Web Services
  - https://aws.amazon.com/ec2/instance-types/mac/
