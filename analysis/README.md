@@ -73,6 +73,8 @@ There are two categories of random numbers — “true” random numbers and pse
     銷售講座
     商會組織：人脈引薦的最佳方式
     經銷商合作
+### 2024 年繼續瘋短影音，社群趨勢還有這些
+https://plog.tw/2023/11/28/short-video-trend/
 ### 計算廣告曝光成本用CPM / 看點擊率用CTR / 計算點擊成本用CPC
  - https://blog.gogopartners.com/cpm-cpc-ctr
  - 0.47-1.61%，這樣0.5%是偏低 https://farryhsu.com/how-to-evaluate-ctr-and-ad-perfromance/
