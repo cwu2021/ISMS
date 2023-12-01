@@ -52,6 +52,11 @@ http://guides.rubygems.org/command-reference/#gem-list
 $350-390 --> or $600!
 ### refrigerator checks
 如果有冰箱型號，可以查查集水盤在哪
+### cable STB debugging
+ - Set top box indicators
+yellow lights of PWR (power?), DS (down streaming?), US (up streaming?), ONLINE
+ - normal: all solid lights
+ - abnormal: solid PWR + blinking DS. 
 ### Thus for Random Reboot PC issue:
  - start with the PSU: stable and enough walts.
  - overheating 
