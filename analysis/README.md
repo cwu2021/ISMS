@@ -81,6 +81,8 @@ https://plog.tw/2023/11/28/short-video-trend/
  - YouTube廣告費用怎麼算？2種出價方式一次搞懂｜PRO360達人網 https://www.pro360.com.tw/price/youtube_ads
  - 電視廣告費用以及效益 https://blog.xinmedia.com/article/201485 <br>
 https://www.ageinmedia.com/Blog/bloginfo/37
+ - 為什麼你需要電視廣告 https://www.marketersgo.com/marketing-strategies-tactics/202207/television-advertisement/
+ - 新聞業配入門，收視與定價接近非凡或八大家族 https://blog.xinmedia.com/article/201485
 # Act
 ## SIR model
 流行病簡化模型 R0 = P(接觸)xP(傳播)/P(痊癒)，三項分別是人群接觸機率，疫病傳播機率，以及疫病痊癒率。如果各國想恢復正常生活，必須R0<1才能疫情趨緩，愈小愈好。
