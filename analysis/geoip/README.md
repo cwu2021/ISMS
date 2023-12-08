@@ -14,6 +14,7 @@ https://github.com/P3TERX/GeoLite.mmdb
  - Atlas of the invisible
  - better data visualizations 
  - https://www.kobo.com/tw/zh/ebook/xej6w_y0CjW_MMpwFVQjVw 
+ - global atlas map : image search
 ## somedomain.com footprinting.
  - eg, EC2 @Japan, cloudflare, godaddy via nslookup, whois, dig.
  - support.somedomain.com : social CRM tagged from social platforms.
