@@ -27,6 +27,10 @@ Globalstar is operating a constellation of 48 satellites in LEO at 1414 km altit
  - 一般不用給電的便宜話機,是直接吃電話LINE給的電,平常LINE約12V,當響鈴時是高於45Vrms
 <br> https://m.mobile01.com/topicdetail.php?f=168&t=3258900
 <br> https://my.cht.com.tw/Trouble
+# modern DSL issue
+ - LCP keepalive timeout mentioned in ../infra/openbsd-pppoe.sh
+ - long dialup time for edimax/HN . Windows 11 光世代連線錯誤691
+<br> https://answers.microsoft.com/zh-hant/windows/forum/all/windows-10/e94f1054-c06e-47c8-887a-6b68560901d0
 # Dynamic routing of friends' networks at home using BGP privately : building Intranets.
 http://blog.jpauli.tech/dynamic-routing-of-friends-networks-at-home-using-bgp-privately/
 # Why BGP is used over OSPF?
