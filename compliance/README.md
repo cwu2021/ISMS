@@ -74,6 +74,7 @@ https://pop-proj.ndc.gov.tw/chart.aspx?c=1&uid=61&pid=60
  - 萬曆十五年 https://www.haodoo.net/?M=book&P=234
 #### 詩 / 書 / 禮 / 樂
 ##### 易 / 春秋
+ - 隋書 - 维基文库 https://zh.wikisource.org/wiki/隋書
 #### 儒 / 釋 / 道為主
 ##### 刑 / 名 / 法術為用
 #### 吏戶禮兵刑工 (六部)
