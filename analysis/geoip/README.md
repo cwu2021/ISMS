@@ -15,6 +15,7 @@ https://github.com/P3TERX/GeoLite.mmdb
  - better data visualizations 
  - https://www.kobo.com/tw/zh/ebook/xej6w_y0CjW_MMpwFVQjVw 
  - global atlas visualization : image search
+ - 庫德族 - 維基百科 https://zh.wikipedia.org/zh-tw/库尔德人
 ## somedomain.com footprinting.
  - eg, EC2 @Japan, cloudflare, godaddy via nslookup, whois, dig.
  - support.somedomain.com : social CRM tagged from social platforms.
