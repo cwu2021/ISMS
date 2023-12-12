@@ -26,6 +26,22 @@ echo "`date` sync ended..." >> sync.log
 # Migrating a Linux system to virtual machine with rsync
 # https://letitknow.wordpress.com/2012/12/31/migrating-a-linux-system-to-virtual-machine-with-rsync/
 # boot it with a live cd
+sudo parted /dev/sda print
+:'
+Model: ATA VBOX HARDDISK (scsi)
+Disk /dev/sda: 34.4GB
+Sector size (logical/physical): 512B/512B
+Partition Table: gpt
+Disk Flags:
+Number Start End Size File system Name Flags
+ 1 1049kB 2097kB 1049kB bios_grub
+ 2 2097kB 2150MB 2147MB ext4
+ 3 2150MB 34.4GB 32.2GB
+'
+# https://hugh712.gitbooks.io/grub/content/bios-installation.html
+# https://unix.stackexchange.com/questions/542132/how-to-avoid-naming-of-partitions-with-parted
+# (parted) mkpart "" 1049k 2097k
+
 export RSYNC_PASSWORD=&ltrsync_password>\
 rsync -vrtlpogDSH --progress --delete --exclude=/sys --exclude=/proc \
 --delete-excluded <rsync_user>@<source_ip>::root/ /mnt/;\
