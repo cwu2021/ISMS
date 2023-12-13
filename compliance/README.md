@@ -70,6 +70,8 @@ https://topic.cw.com.tw/media-digital-transformation/2018/
 ## 國發會
 ### 出生率及死亡率趨勢
 https://pop-proj.ndc.gov.tw/chart.aspx?c=1&uid=61&pid=60
+### 台灣的國防戰略思維
+https://indsr.org.tw/uploads/indsr/files/202204/49ab9696-30f3-4797-8fdf-95903cfa56b8.pdf
 ### org of Ming Dynasty and ancient China
  - 萬曆十五年 https://www.haodoo.net/?M=book&P=234
 #### 詩 / 書 / 禮 / 樂
