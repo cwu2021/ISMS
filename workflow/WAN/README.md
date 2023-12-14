@@ -30,6 +30,7 @@ Globalstar is operating a constellation of 48 satellites in LEO at 1414 km altit
 # modern DSL issue
  - LCP keepalive timeout mentioned in ../infra/openbsd-pppoe.sh
  - long dialup time for edimax/HN . Windows 11 光世代連線錯誤691
+ - Thus dialup directly via modem then NAT clients with dhcp may be best practice.
 <br> https://answers.microsoft.com/zh-hant/windows/forum/all/windows-10/e94f1054-c06e-47c8-887a-6b68560901d0
 # Dynamic routing of friends' networks at home using BGP privately : building Intranets.
 http://blog.jpauli.tech/dynamic-routing-of-friends-networks-at-home-using-bgp-privately/
