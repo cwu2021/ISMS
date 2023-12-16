@@ -113,6 +113,7 @@ https://www.ftc.gov.tw/upload/9-1081112.pdf
 https://www.shengwui.com.tw/prod/46eba0e1dc69459d9bd5029a701ee037
 ### 陸資OTT禁來台 
 - 愛奇藝條款9/3上路 https://www.cna.com.tw/news/firstnews/202008185008.aspx
+- 愛奇藝離台兩年，中華電信的MOD也跟著萎縮？ https://tw.news.yahoo.com/%E7%8E%8B%E5%85%B6-%E6%84%9B%E5%A5%87%E8%97%9D%E9%9B%A2%E5%8F%B0%E5%85%A9%E5%B9%B4-%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1%E7%9A%84mod%E4%B9%9F%E8%B7%9F%E8%91%97%E8%90%8E%E7%B8%AE-043800033.html
 - NCC將線上串流影音納入管理 https://www.cool3c.com/article/177796
 - 中共延長貿易壁壘調查 學者籲立法防產業遭脅迫
 https://www.epochtimes.com/b5/23/10/12/n14093967.htm
