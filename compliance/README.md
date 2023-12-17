@@ -14,6 +14,9 @@ https://opinion.cw.com.tw/blog/profile/441/article/13679
 https://unix.stackexchange.com/questions/1489/is-mac-os-x-unix
 ### Apple Open Source
 https://opensource.apple.com/releases/
+### Darling is a runtime environment for macOS applications.
+https://github.com/darlinghq/darling <br>
+https://docs.darlinghq.org/build-instructions.html
 ### Apple security releases
 https://support.apple.com/en-us/HT201222
 ## GPL of RHEL
