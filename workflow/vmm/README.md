@@ -26,6 +26,7 @@ running into a problem from some old binary or cached build somewhere.
 - Love: install IRIX from IRIX, Linux, or Windows 
 <br> https://www.osnews.com/story/135816/love-install-irix-from-irix-linux-or-windows/
  - darling for darwin, current 11.7 Big Sur. neofetch, htop via brew works fine, as well as built-in binaries.
+ - open source alternatives to Minecraft https://opensource.com/alternatives/minecraft
 ### neofetch distros
  - ./neofetch --ascii_distro IRIX
  - ./neofetch --ascii_distro android
