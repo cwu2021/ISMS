@@ -53,6 +53,9 @@ wowzalicense4.wowzamedia.com has address 3.219.52.15
  - Google Drive for desktop https://support.google.com/a/answer/7577057?hl=en
  - Google API client ID https://developers.google.com/identity/gsi/web/guides/get-google-api-clientid?hl=en
  - Google Drive設定檔案上傳數量，一天即撤回決定 https://www.ithome.com.tw/news/156249
+# 在 OpenWRT 上架設 Open vSwitch (OVS), VLAN
+ - https://openwrt-nctu.gitbook.io/project/experiment-sdn/ovs-on-openwrt
+ - https://openwrt.org/docs/guide-user/network/vlan/switch_configuration
 # How to block all VPNs, Proxys and host IPs?
 Cloudflare managed lists do it, but I’m afraid its only available to enterprise customers.
 - https://community.cloudflare.com/t/how-to-block-all-vpns-proxys-and-host-ips/303070
