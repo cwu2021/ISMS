@@ -50,6 +50,9 @@ http://guides.rubygems.org/command-reference/#gem-list
 ### Drier walts 
 750W-1000W-1200W <br>
 $350-390 --> or $600!
+### power adapter debugging
+ - eg. 19V/3.42A @--(-@ of +- in/out. smaller amp rewuires battery aid.
+ - two/three pin cable from monitor,camera,mac.
 ### refrigerator checks
 如果有冰箱型號，可以查查集水盤在哪
 ### cable STB debugging
