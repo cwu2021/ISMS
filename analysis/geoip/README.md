@@ -16,6 +16,9 @@ https://github.com/P3TERX/GeoLite.mmdb
  - https://www.kobo.com/tw/zh/ebook/xej6w_y0CjW_MMpwFVQjVw 
  - global atlas visualization : image search
  - 庫德族 - 維基百科 https://zh.wikipedia.org/zh-tw/库尔德人
+## 依NCC官方資料來進行估算：有線廣播電視訂戶數(依集團) 
+https://www.ncc.gov.tw/chinese/news.aspx?site_content_sn=2989
+小結：每家用戶數都衰退，衰退率前三依序是新彰(-13.98%)，澎湖(-3.12%)，三大(-2.22%)。而以衰退率*月費來試算，北都/天外天/聯維三家都有降價的合理性。另外看每戶價格，寶福一戶四塊多，比其他平均一塊多要高。澎湖收視戶相比去年同季少了約3-4%，如果是兩年約的話，兩年收視戶衰退約5-6%，每個月抓-3%也是合理的：用線性衰退算 （-6%x24月/2)/24=-3%。還有可以砍的是單一收視戶價值。目前一戶約1.5塊，但現在觀眾看電視的時數減少了，每砍0.1塊，每月少約$1500，這樣砍是比較兇。
 ## somedomain.com footprinting.
  - eg, EC2 @Japan, cloudflare, godaddy via nslookup, whois, dig.
  - support.somedomain.com : social CRM tagged from social platforms.
