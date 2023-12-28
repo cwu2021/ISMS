@@ -55,6 +55,8 @@ https://nxlog.co/documentation/nxlog-user-guide/eventlog-eventids.html
  - https://perldoc.perl.org/Sys::Syslog
 ### Log Management: installing and using multitail.
  - https://www.admin-magazine.com/HPC/Articles/Log-Management
+### System Log Management Using Logrotate
+ - https://www.linuxjournal.com/content/understanding-system-log-management-using-logrotate
 ## IDS
 https://github.com/John-Lin/snort-base/tree/master/mysnortrules/rules <br>
 alert icmp any any -> any any (msg:"Pinging...";sid:1000004;) <br>
