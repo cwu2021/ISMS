@@ -35,6 +35,8 @@ Windows Registry Editor Version 5.00
 ## Netdom query Active Directory
  - netdom query /d:Northamerica DC
  - https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc835089(v=ws.11)
+### Automate Active Directory management with the Python PyAD library
+ - https://admin-magazine.us2.list-manage.com/track/click?u=1c76cb37f73773b4962ae429b&id=e628a2fb70&e=4554e8a0f9
 ## Microsoft shares mitigation for Windows KrbRelayUp LPE attacks
  - https://www.bleepingcomputer.com/news/security/microsoft-shares-mitigation-for-windows-krbrelayup-lpe-attacks/
  - https://www.ithome.com.tw/news/151458
