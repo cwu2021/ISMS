@@ -56,3 +56,6 @@ C:\\> ffmpeg.exe -f libndi_newtek -i "NC1IO-RCTV (IN 4)" -vf yadif -c:v libx264 
 
 # Transcode Cache
 /var/lib/plexmediaserver/Library/Application Support/Plex Media Server/Cache/PhotoTranscoder 
+
+# HLS loader plugin for download
+ - https://www.hlsloader.com/
