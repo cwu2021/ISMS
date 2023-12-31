@@ -7,3 +7,11 @@ sudo pvresize /dev/vda3
 # https://blog.moa.tw/2018/12/ubuntu-1804-root-lvm-volume.html
 sudo lvresize -A n -l +100%FREE /dev/ubuntu-vg/ubuntu-lv
 sudo resize2fs /dev/ubuntu-vg/ubuntu-lv
+# LVM creation before full rsync
+# https://www.redhat.com/sysadmin/create-physical-volume
+pvcreate /dev/sda3
+pvs
+# https://www.redhat.com/sysadmin/create-volume-group
+vgcreate ubuntu-vg /dev/sda3
+# https://www.linuxquestions.org/questions/linux-hardware-18/lvcreate-with-max-size-available-749253/
+lvcreate -n ubuntu-lv -l 100%FREE ubuntu-vg
