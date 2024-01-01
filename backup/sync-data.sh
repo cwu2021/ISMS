@@ -42,7 +42,25 @@ Number Start End Size File system Name Flags
 # https://unix.stackexchange.com/questions/542132/how-to-avoid-naming-of-partitions-with-parted
 # (parted) mkpart "" 1049k 2097k
 
-export RSYNC_PASSWORD=&ltrsync_password>\
+export RSYNC_PASSWORD=<rsync_password>
 rsync -vrtlpogDSH --progress --delete --exclude=/sys --exclude=/proc \
---delete-excluded <rsync_user>@<source_ip>::root/ /mnt/;\
+--delete-excluded <rsync_user>@<source_ip>::root/ /mnt/
+rsync -vrtlpogDSH --progress --delete --exclude=/sys --exclude=/proc \
+--delete-excluded <rsync_user>@<source_ip>::root/boot /mnt2/
 mkdir /mnt/proc;mkdir /mnt/sys
+
+swapon
+# NAME TYPE SIZE USED PRIO
+# /swap.img file 1.9G 0B -2
+vi /mnt/etc/fstab
+# https://superuser.com/questions/903112/grub2-install-this-gpt-partition-label-contains-no-bios-boot-partition
+parted /dev/sda
+# set 1 boot off
+# set 1 bios_grub on
+# q
+chroot /mnt
+grub-install --recheck /dev/sda
+update-grub
+
+# https://forums.debian.net/viewtopic.php?t=139585
+fallocate -l 2G /swap.img
