@@ -73,6 +73,8 @@ There are two categories of random numbers — “true” random numbers and pse
     銷售講座
     商會組織：人脈引薦的最佳方式
     經銷商合作
+ - 史上最齊全 SEO 自學筆記 | RE:LAB https://relab.cc/blog/seo%E8%81%96%E7%B6%93/?fbclid=IwAR1h-mfSCA1aS5FXd6N_0Hqtp7kz2Fv_OP_Tay6iHbgQm3wRu7UZCIPzwRY
+<br> https://developers.google.com/search/docs/fundamentals/creating-helpful-content?hl=zh-tw
 ### 2024 年繼續瘋短影音，社群趨勢還有這些
 https://plog.tw/2023/11/28/short-video-trend/
 ### 計算廣告曝光成本用CPM / 看點擊率用CTR / 計算點擊成本用CPC
