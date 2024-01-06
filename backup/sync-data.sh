@@ -42,6 +42,27 @@ Number Start End Size File system Name Flags
 # https://unix.stackexchange.com/questions/542132/how-to-avoid-naming-of-partitions-with-parted
 # (parted) mkpart "" 1049k 2097k
 
+# https://letitknow.wordpress.com/2012/12/31/migrating-a-linux-system-to-virtual-machine-with-rsync/
+cat > /etc/rsyncd.conf << EOF
+motd file = /etc/rsyncd.motd
+log file = /var/log/rsyncd.log
+pid file = /var/run/rsyncd.pid
+lock file = /var/run/rsync.lock
+
+[root]
+    path = /
+    comment = root
+    uid = root
+    gid = root
+    read only = yes
+    list = yes
+    auth users = user
+    secrets file = /etc/rsyncd.scrt
+EOF
+cat > /etc/rsyncd.scrt << EOF
+user:<rsync_password>
+EOF
+
 export RSYNC_PASSWORD=<rsync_password>
 rsync -vrtlpogDSH --progress --delete --exclude=/sys --exclude=/proc \
 --delete-excluded <rsync_user>@<source_ip>::root/ /mnt/
