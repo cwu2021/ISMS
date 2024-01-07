@@ -115,6 +115,8 @@ https://www.ftc.gov.tw/upload/9-1081112.pdf
  - 2023律師費用一覽表！($5000/hr) https://lawhsinyi.com/blog/關於律師費用？律師費用怎麼算呢/
 ### 根據《外國人侵權法》針對思科提出的所有索賠指控
  - https://big5.minghui.org/mh/articles/2023/7/8/462777.html
+### 流動性(Liquidity)是什麼意思 | IG官網
+https://www.ig.com/cn/glossary-trading-terms/liquidity-definition
 ### 公司如何辦理清算
 https://www.shengwui.com.tw/prod/46eba0e1dc69459d9bd5029a701ee037
 ### 陸資OTT禁來台 
