@@ -101,6 +101,7 @@ cd /usr/lib && ln -s ../local/lib/liblzo2.* . <br>
 <i>https://forums.openvpn.net/viewtopic.php?f=24&t=29289</i><br>
 By default the OpenVPN Connect client installer file comes prebundled with a server-locked profile. There is no option setting to change this.
 #### IKEv2 OpenBSD VPN
+- L2TP on iPhone https://www.dlinktw.com.tw/techsupport/FAQView.aspx?f=FDy1hSRKIRFIS5t0rzf9RQ%3D%3D
 <i>https://www.openbsd.org/faq/faq17.html</i><br>
  The ikectl(8) utility also allows you to maintain a simple X.509 certificate authority (CA) for IKEv2 peers.
 
