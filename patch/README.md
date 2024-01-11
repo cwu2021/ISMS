@@ -28,3 +28,8 @@ The process of restarting, applying updates, and then restarting again is called
 
 Offline Updates is there to protect you. Computers have become way more complex in the past twenty years. Back in the day, it was possible to apply updates without too much worry since the system itself was smaller and less interconnected. Multitasking was also in its infancy, so users were not actually using the computer and updating it at the same time.
 
+## remove DSA support in OpenSSH
+2024/01 - this announcement
+2024/03 (estimated) - DSA compile-time optional, enabled by default
+2024/06 (estimated) - DSA compile-time optional, *disabled* by default
+2025/01 (estimated) - DSA is removed from OpenSSH
