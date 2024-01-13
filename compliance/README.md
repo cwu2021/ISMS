@@ -119,7 +119,7 @@ https://www.ftc.gov.tw/upload/9-1081112.pdf
 https://www.ig.com/cn/glossary-trading-terms/liquidity-definition
 ### 公司如何辦理清算
 https://www.shengwui.com.tw/prod/46eba0e1dc69459d9bd5029a701ee037
-## 遇上減薪怎麼辦？法律程序、最低月薪、補助津貼一次弄懂
+### 遇上減薪怎麼辦？法律程序、最低月薪、補助津貼一次弄懂
 https://www.cheers.com.tw/article/article.action?id=5099915
 ### 陸資OTT禁來台 
 - 愛奇藝條款9/3上路 https://www.cna.com.tw/news/firstnews/202008185008.aspx
