@@ -14,3 +14,9 @@ echo "`date` Let's go!!" >> loop.log
 # sync push via sftp during busy hours, consuming larger internal bandwidth but faster.
 # sync push and pull from cloud during normal hours as regular SOP.
 done
+
+# https://forum.rclone.org/t/how-to-calculate-size-of-selected-directories/15057
+rclone size
+# https://rclone.org/commands/rclone_size/
+rclone lsd
+https://rclone.org/commands/rclone_lsd/
