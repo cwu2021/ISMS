@@ -56,6 +56,7 @@ wowzalicense4.wowzamedia.com has address 3.219.52.15
 # 在 OpenWRT 上架設 Open vSwitch (OVS), VLAN
  - https://openwrt-nctu.gitbook.io/project/experiment-sdn/ovs-on-openwrt
  - https://openwrt.org/docs/guide-user/network/vlan/switch_configuration
+ - HPE aquires Juniper https://www.ithome.com.tw/news/160784
 # How to block all VPNs, Proxys and host IPs?
 Cloudflare managed lists do it, but I’m afraid its only available to enterprise customers.
 - https://community.cloudflare.com/t/how-to-block-all-vpns-proxys-and-host-ips/303070
