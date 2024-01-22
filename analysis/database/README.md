@@ -3,5 +3,8 @@
 "No, I didn't feel the bliss of enlightenment. Instead...I was surrounded by an endless sorrow." ~ the effects of bad data (...or something similar...)
 ## sc: the Venerable Spreadsheet Calculator | Linux Journal
 https://www.linuxjournal.com/article/10699
+## Excel 必懂公式 5. COUNTIF 用法
+ - https://www.managertoday.com.tw/articles/view/51429
+ - https://www.calculator.net/sample-size-calculator.html
 ## Ubuntu: Install SQL Server on Linux - SQL Server | Microsoft Learn
 https://learn.microsoft.com/en-us/sql/linux/quickstart-install-connect-ubuntu
