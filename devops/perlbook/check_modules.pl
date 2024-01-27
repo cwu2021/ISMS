@@ -14,6 +14,11 @@ my @modules = $inst->modules();
 print "$_ " for @modules;
 print "Perl version: $]\n";
 print qq(@INC);
+# check path for Perl and Ruby
+`perl -e 'print for @INC'`
+# https://stackoverflow.com/questions/19072070/how-to-find-where-gem-files-are-installed
+`sudo apt install ruby-rubygems`
+`gem environment`
 # Current working directory 
 # https://perlmaven.com/current-working-directory#:~:text=On%20Linux%2C%20Apple%20OSX%2C%20and,via%20a%20number%20of%20functions.
 use Cwd qw(cwd);
