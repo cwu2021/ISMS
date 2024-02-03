@@ -4,6 +4,8 @@ https://www.ithome.com.tw/news/147193
 ## 新增11項控制要求，自動化工具執行成關鍵
 5.7	威脅情資 5.7　	Threat intelligence
 ## Cyber Threat Intelligence
+### NICS 漏洞警訊公告
+https://www.nics.nat.gov.tw/Vulnerability-1.htm
 ### AlienVault - Open Threat Exchange
 https://otx.alienvault.com/ <br>
 OSSIM OTX as CTI.
