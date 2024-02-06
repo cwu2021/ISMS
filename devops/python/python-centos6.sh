@@ -10,3 +10,10 @@ cd Python-3.8.18
 ./configure --prefix=/opt
 make
 make install
+
+# [1/3 at 10:29] venv 要用 3.8 來建：
+python3.8 -m venv tutorial-env 
+# https://docs.python.org/zh-tw/3/tutorial/venv.html
+source tutorial-env/bin/activate
+# 這樣切進虛擬環境預設就是跑3.8
+
