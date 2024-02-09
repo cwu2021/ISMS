@@ -14,6 +14,15 @@ https://developers.redhat.com/articles/2022/11/22/how-i-developed-faster-ruby-in
 ### brew.sh to install Homebrew. It’s all Git and Ruby underneath
  - /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
  - brew install rbenv;rbenv install 1.8.7
+ - https://stackoverflow.com/questions/45254149/which-directory-is-the-real-location-that-brew-cask-install-uses
+ - brew info --cask <formula>
+### The MacPorts Guide
+ - https://github.com/macports/macports-guide
+ - https://guide.macports.org/chunked/installing.macports.html
+ - https://ports.macports.org/port/lynx/
+ - sudo port install lynx
+ - https://mac.install.guide/commandlinetools/index.html
+ - Check the version of Xcode Command Line Tools by running `pkgutil --pkg-info=com.apple.pkg.CLTools_Executables` in the terminal application.
 ## What is the difference between module and distribution on CPAN?
 <i>https://stackoverflow.com/questions/10181606/what-is-the-difference-between-module-and-distribution-on-cpan</i><br>
 A distribution will contain one or more modules, documentation, a build script, and also typically a test suite, a file manifest, readme, change log, and license information. Modules bundled together in a distribution are often part of complete class library, or at the very least all related tools divided into intuitively-named packages. Taking, for example, the core IO distribution..
