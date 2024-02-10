@@ -1,4 +1,6 @@
 #!/bin/bash
+# pftop filter with iftop
+iftop -F 1.1.1.1/255.255.255.255
 # Visualize netflow with Skydive
 # https://www.linux-magazine.com/Issues/2022/255/Skydive
 yum install go git make protobuf protobuf-c-compiler \
