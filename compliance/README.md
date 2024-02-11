@@ -79,6 +79,7 @@ https://indsr.org.tw/uploads/indsr/files/202204/49ab9696-30f3-4797-8fdf-95903cfa
 https://tw.news.yahoo.com/%E7%BE%8E%E6%99%BA%E5%BA%AB%E5%85%B5%E6%8E%A8-17%E9%A0%85%E7%A7%91%E6%8A%80%E6%96%B9%E6%A1%88%E5%8F%AF%E5%8A%A0%E5%BC%B7%E4%BF%9D%E8%A1%9B%E5%8F%B0%E7%81%A3-%E4%B8%AD%E5%9C%8B%E6%88%B0%E6%A9%9F%E6%90%8D%E5%A4%B1%E6%9A%B4%E5%A2%9E7%E6%88%90-073114430.html
 ### org of Ming Dynasty and ancient China
  - 萬曆十五年 https://www.haodoo.net/?M=book&P=234
+ - 天干地支： ex. 甲辰.. 10yr 甲寅..丁巳.. https://opinion.cw.com.tw/blog/profile/522/article/11461
 #### 詩 / 書 / 禮 / 樂
 ##### 易 / 春秋
  - 隋書 - 维基文库 https://zh.wikisource.org/wiki/隋書
