@@ -12,3 +12,5 @@ host myip.opendns.com resolver1.opendns.com
 curl ident.me
 # https://unix.stackexchange.com/questions/94604/does-curl-have-a-timeout
 curl --max-time 2 checkip.amazonaws.com
+# 在 Windows 上設定 hosts 檔案：使用像是「記事本」等文字編輯器開啟 hosts 檔案。hosts 檔案位於 \Windows\System32\drivers\etc\hosts
+# https://help.sap.com/docs/SAP_BUSINESSOBJECTS_BUSINESS_INTELLIGENCE_PLATFORM/2e167338c1b24da9b2a94e68efd79c42/4690457a6e041014910aba7db0e91070.html?locale=zh-TW
