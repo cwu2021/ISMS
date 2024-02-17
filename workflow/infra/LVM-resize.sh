@@ -5,6 +5,7 @@ sudo parted /dev/vda resizepart 3 100%
 # https://serverfault.com/questions/378086/how-to-extend-a-linux-pv-partition-online-after-virtual-disk-growth
 sudo pvresize /dev/vda3
 # https://blog.moa.tw/2018/12/ubuntu-1804-root-lvm-volume.html
+# https://access.redhat.com/documentation/zh-tw/red_hat_enterprise_linux/6/html/logical_volume_manager_administration/lv_extend
 sudo lvresize -A n -l +100%FREE /dev/ubuntu-vg/ubuntu-lv
 sudo resize2fs /dev/ubuntu-vg/ubuntu-lv
 # LVM creation before full rsync
