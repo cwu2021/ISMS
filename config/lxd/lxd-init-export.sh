@@ -26,3 +26,9 @@ lxc export
 # https://www.omgubuntu.co.uk/2023/07/canonicals-loses-prominent-lxd-engineer
 # Stéphane Graber has left Canonical
 # https://news.ycombinator.com/item?id=36666920
+systemctl restart snap.lxd.daemon 
+systemctl restart lxd
+# will restart all containers.
+# https://discuss.linuxcontainers.org/t/snap-lxd-how-to-restart-lxd-without-restarting-containers/5259/5
+systemctl reload snap.lxd.daemon 
+# only restarts the daemon/API.
