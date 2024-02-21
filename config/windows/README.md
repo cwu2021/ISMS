@@ -1,6 +1,8 @@
 # Windows 11 release information ( 22H2 ~)
 https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information <br>
 https://blogs.windows.com/windows-insider/2023/10/04/announcing-windows-11-insider-preview-build-23560-dev-channel/
+## Remote Desktop access
+setting -> system -> remote desktop
 # Windows 11 Security Features
 Application whitelisting can be implemented on Windows using AppLocker and Smart App Control in Windows 11.
 
