@@ -4,3 +4,5 @@ systemctl status snap.lxd.daemon
 # If /dev/loop* are created by snaps, just remove the snaps that created them, using snap remove <name_of_snap> . You can get a list of your installed snaps by running snap list .2019年12月11日
 # https://askubuntu.com/questions/1195388/how-to-remove-dev-loops
 snap remove lxd
+# use snap to follow the latest lxd. lxd or docker may not work properly on older distro like xenial.
+snap install lxd
