@@ -3,6 +3,7 @@ https://learn.microsoft.com/en-us/windows/release-health/windows11-release-infor
 https://blogs.windows.com/windows-insider/2023/10/04/announcing-windows-11-insider-preview-build-23560-dev-channel/
 ## Remote Desktop access
 setting -> system -> remote desktop
+ - power plan set to high to prevent sleep
 # Windows 11 Security Features
 Application whitelisting can be implemented on Windows using AppLocker and Smart App Control in Windows 11.
 
