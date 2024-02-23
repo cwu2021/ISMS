@@ -3,6 +3,7 @@ https://forum.proxmox.com/threads/lxd-to-proxmox.68501/
 ### docker and kvm in LXD
  - lxc launch images:ubuntu docker -c security.nesting=true https://discuss.linuxcontainers.org/t/error-when-running-docker-images-in-a-lxc-container/12945/5
  - kvm via SPICE https://discuss.linuxcontainers.org/t/lxd-windows-install-on-remote-server-lxc-console-vmname-type-vga-how-to-see-gui/11800/4
+ - do NOT install docker via snap along with lxd! networking err may occur.
 ### screen -d -m not working in lxc container. 
 run ffmpeg and kill directly via cron.
 ## NAT Gateway with ubuntu 22.04 LXD host
