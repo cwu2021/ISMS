@@ -2,8 +2,8 @@
 # https://ubuntu.com/blog/lxd-virtual-machines-an-overview
 lxc launch ubuntu:22.04 ubuntu --vm
 lxc shell ubuntu
-# LXD vga console with virt or spice installed
-lxc console ubuntu --vga
+# LXD vga console with virt or spice installed. virt may be better.
+lxc console ubuntu --type=vga
 # https://tobhe.de/stuff/lxd-openbsd.html
 lxc init openbsd --empty --vm -c limits.cpu=4 -c limits.memory=4GiB -c migration.stateful=true -c security.secureboot=false
 lxc config device override openbsd root size=20GiB size.state=4GiB
