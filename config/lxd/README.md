@@ -8,6 +8,8 @@ https://images.linuxcontainers.org
  - do NOT install docker via snap along with lxd! networking err may occur.
 ### screen -d -m not working in lxc container. 
 run ffmpeg and kill directly via cron.
+### From LXD to Kubernetes
+https://faun.pub/containerization-part-2-from-lxd-to-kubernetes-6d595035fbc9
 ## NAT Gateway with ubuntu 22.04 LXD host
 ufw status <br>
 ipv4.forward in /etc/sysctl.conf <br>
