@@ -19,6 +19,8 @@ https://github.com/darlinghq/darling <br>
 https://docs.darlinghq.org/build-instructions.html
 ### Apple security releases
 https://support.apple.com/en-us/HT201222
+### OpenBSD: Users' Views
+https://www.openbsd.org/testimonials.html
 ## GPL of RHEL
  - I'm done with Red Hat (Enterprise Linux) https://www.jeffgeerling.com/blog/2023/im-done-red-hat-enterprise-linux
  - Keeping Open Source Open | Rocky Linux https://rockylinux.org/news/keeping-open-source-open/
