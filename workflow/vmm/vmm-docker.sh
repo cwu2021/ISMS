@@ -1,5 +1,7 @@
 #!/bin/ksh
 # https://www.tumfatig.net/2022/running-docker-host-openbsd-vmd/
+# https://medium.com/@dave_voutila/docker-on-openbsd-6-1-current-c620513b8110
+
 vmctl create -s 64G docker.qcow2
 # vmctl: qcow2 imagefile created
 cat >> /etc/vm.conf << EPF
