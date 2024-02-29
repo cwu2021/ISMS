@@ -21,6 +21,8 @@ https://docs.darlinghq.org/build-instructions.html
 https://support.apple.com/en-us/HT201222
 ### OpenBSD: Users' Views
 https://www.openbsd.org/testimonials.html
+### Usage share of operating systems
+https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#:~:text=For%20smartphones%20and%20other%20mobile,and%20desktop%20Linux%20at%203.77%25
 ## GPL of RHEL
  - I'm done with Red Hat (Enterprise Linux) https://www.jeffgeerling.com/blog/2023/im-done-red-hat-enterprise-linux
  - Keeping Open Source Open | Rocky Linux https://rockylinux.org/news/keeping-open-source-open/
