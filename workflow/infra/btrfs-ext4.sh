@@ -1,4 +1,7 @@
 #!/bin/bash
+# linux - How to Free Inode Usage? - Stack Overflow
+# https://stackoverflow.com/questions/653096/how-to-free-inode-usage
+df -i
 # ext4 cannot do data scrubing. btrfs may be needed for extra protection features. but QNAP has different opinion.
 # https://www.synology.com/zh-tw/dsm/Btrfs
 # https://www.qnap.com/solution/qnap-ext4/zh-tw/
