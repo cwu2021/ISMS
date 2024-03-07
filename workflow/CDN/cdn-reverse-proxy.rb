@@ -17,3 +17,14 @@
       redirect_back_or_default(home_path)
     end
   end
+
+# Restoring original visitor IPs via CLoudflare
+# https://developers.cloudflare.com/support/troubleshooting/restoring-visitor-ips/restoring-original-visitor-ips/
+# mod_cloudflare is not needed for Nginx. Use the ngx_http_realip_module NGINX module and the configuration parameters described in the Web server instructions instead.
+# https://nginx.org/en/docs/http/ngx_http_realip_module.html
+# set_real_ip_from 192.0.2.1 (example IP address)
+# (repeat for all Cloudflare IPs listed at https://www.cloudflare.com/ips/)
+# #use any of the following two
+# real_ip_header CF-Connecting-IP;
+# #real_ip_header X-Forwarded-For;
+
