@@ -18,3 +18,5 @@ es/test.pl
 # Retrieving status data via Livestatus, including host names, ip, etc.
 # https://docs.checkmk.com/latest/en/livestatus.html
 `lq "GET hosts\nColumns: name address"`
+# Checkmk on the command line
+# https://docs.checkmk.com/latest/en/cmk_commandline.html
