@@ -4,3 +4,6 @@
 apt update
 apt upgrade
 apt autoremove
+# apt key expired for old repo
+date --set 2008-01-01
+apt-get update
