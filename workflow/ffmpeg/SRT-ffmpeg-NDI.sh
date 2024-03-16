@@ -11,7 +11,22 @@ make && make install
 # (ffmpeg compilation)
 export LD_LIBRARY_PATH=/usr/local/lib/
 cd ../ffmpeg-src
-./configure --enable-libsrt ...
+sudo apt install libx264-dev
+./configure --enable-gpl --enable-libx264 --enable-libsrt
+sudo ln -s /usr/local/lib/libsrt.so.1.5 /usr/lib
+
+# https://github.com/Haivision/srt?tab=readme-ov-file
+# https://srtlab.github.io/srt-cookbook/apps/ffmpeg.html
+# srt live server for low latency https://github.com/Edward-Wu/srt-live-server
+
+ffmpeg -f lavfi -re -i smptebars=duration=60:size=1280x720:rate=30 -f lavfi -re -i sine=frequency=1000:duration=60:sample_rate=44100 -pix_fmt yuv420p -c:v libx264 -b:v 1000k -g 30 -keyint_min 120 -profile:v baseline -preset veryfast -f mpegts "srt://127.0.0.1:4200?mode=listener"
+ffmpeg -re -i intro_201605.3M.mp4 -pix_fmt yuv420p -c:v libx264 -b:v 1000k -g 30 -keyint_min 120 -profile:v baseline -preset veryfast -f mpegts "srt://127.0.0.1:4200?mode=listener"
+ffmpeg -y -t 00:00:10 -i srt://127.0.0.1:4200 -c:v copy -c:a copy test.mp4
+
+# transmission via udp/tcp pass out nat-to for port mapping is required.
+nc  -u <dest> 10001 < /dev/random
+# https://superuser.com/questions/124672/how-to-generate-udp-packet
+
 # (NDI example)
 ./configure --enable-nonfree --enable-libndi_newtek --extra-cflags="-I/usr/include/ndi/" --extra-ldflags="-L/usr/include/ndi/" --enable-libx264 --enable-gpl
 
