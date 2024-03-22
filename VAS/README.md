@@ -3,6 +3,9 @@
 ## A.12.6.1 of ISO/IEC 27001:2005
 <i>Control</i><br>
 Information about technical vulnerabilities of information systems being used shall be obtained in a timely fashion, the organization's exposure to such vilnerabilities evaluated and appropriate measures taken to address the associated risk.
+## IDS: snortML
+ - You will need to create your own model file for doing the detection itself. There is a blog post about the new feature and how to create a model using tools in the repository.
+ - https://blog.snort.org/2024/0
 ## Vulnerability Assessment Scanner
 ### 個資的善良管理人report sample，反正買愈多就有愈多
 https://developers.cloudflare.com/ddos-protection/reference/reports/
