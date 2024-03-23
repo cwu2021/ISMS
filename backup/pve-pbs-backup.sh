@@ -4,6 +4,10 @@
 qm unlock 102
 # openvz backup of pve 3.x utilizes rsync and requires a short STOP of container! BEWARE.
 
+# Immediate backup on pve 4.4.
+# INFO: starting new backup job: 
+vzdump 100 --storage pve --mode snapshot --remove 0 --node mynode --compress lzo
+
 # https://forum.proxmox.com/threads/proxmox-backup-server-on-lxc-with-external-nas.79489/
 # Download Debian 10 (Buster) template
 # Install a minimal Container (2 GB RAM, 8 GB HD) and then choose the container/Options/Features and then enable NFS.
