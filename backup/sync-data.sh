@@ -17,6 +17,8 @@ rsync -rltpDvz posix/ fat/
 done
 echo "`date` sync ended..." >> sync.log
 
+# calculate size of sync directories https://forum.rclone.org/t/how-to-calculate-size-of-selected-directories/15057
+
 # report by mail via crontab. mailx package required.
 #00 09  *  *  7 tail sync.log | mail -s "sync weekly" -S smtp=ip.of.mta webmaster@your.domain
 
