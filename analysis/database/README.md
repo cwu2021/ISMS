@@ -24,6 +24,7 @@ https://www.rosehosting.com/blog/how-to-install-vtiger-crm-on-ubuntu-22-04/
 <br> https://help.vtiger.com/article/146957259-Automate-Outgoing-Emails-in-Email-Settings?catid=2&subid=18
 <br> https://discussions.vtiger.com/discussion/182689/the-scary-mail-could-not-be-sent-to-the-admin-user-please-check-the-admin-emailid-server-settings
 <br> https://www.vtexperts.com/mail-could-not-be-sent-to-the-admin-user-please-check-the-admin-emailidserver-settings/
+ - Render blocking of js detected by Chrome developer tools, verified by lynx, which could be the resolution of slow page loading. RSS loaded well via lynx with full internet access.
 
 ## Ubuntu: Install SQL Server on Linux - SQL Server | Microsoft Learn
 https://learn.microsoft.com/en-us/sql/linux/quickstart-install-connect-ubuntu
