@@ -44,6 +44,8 @@ SIP ALG是使網路封包由公有網路進入私有網路的NAT穿透技術。�
 # DDoS integrated defense
 About NT$ 3500-4000 per month, provided by ISP.
 # Starlink Technology and Protocol
+<i>https://dashboard.satnogs.org/d/UXoGX0OGk/iss-monitor?orgId=1&refresh=1m</i><br>
+ISS Monitor - Grafana
 <i>https://www.starlink.com/technology</i><br>
 Most satellite internet services come from single geostationary satellites that orbit the planet at 35,786 km. As a result, the round trip data time between the user and satellite—also known as latency—is high, making it nearly impossible to support streaming, online gaming, video calls or other high data rate activities.
 
