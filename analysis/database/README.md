@@ -25,6 +25,7 @@ https://www.rosehosting.com/blog/how-to-install-vtiger-crm-on-ubuntu-22-04/
 <br> https://discussions.vtiger.com/discussion/182689/the-scary-mail-could-not-be-sent-to-the-admin-user-please-check-the-admin-emailid-server-settings
 <br> https://www.vtexperts.com/mail-could-not-be-sent-to-the-admin-user-please-check-the-admin-emailidserver-settings/
  - Render blocking of js detected by Chrome developer tools, verified by lynx. RSS loaded well via lynx with full internet access. Slow log of php-fm showed 3 php files related with ExtensionStore >10s each.
+ - connection to https://marketplace.vtiger.com is required!
 
 ## Ubuntu: Install SQL Server on Linux - SQL Server | Microsoft Learn
 https://learn.microsoft.com/en-us/sql/linux/quickstart-install-connect-ubuntu
