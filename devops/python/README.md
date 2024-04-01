@@ -4,6 +4,9 @@ https://zh.wikipedia.org/zh-tw/%E8%81%9A%E7%B1%BB%E5%88%86%E6%9E%90
 https://chwang12341.medium.com/machine-learning-%E9%97%9C%E8%81%AF%E5%88%86%E6%9E%90-apriori%E6%BC%94%E7%AE%97%E6%B3%95-%E8%A9%B3%E7%B4%B0%E8%A7%A3%E8%AA%AA%E5%95%A4%E9%85%92%E8%88%87%E5%B0%BF%E5%B8%83%E7%9A%84%E8%83%8C%E5%BE%8C%E5%8E%9F%E7%90%86-python%E5%AF%A6%E4%BD%9C-scikit-learn%E4%B8%80%E6%AD%A5%E4%B8%80%E6%AD%A5%E6%95%99%E5%AD%B8-76b7778f8f34
 ### support vector machine, SVM
 https://zh.wikipedia.org/zh-tw/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA
+### pandas to create a pie chart from csv file using python
+https://stackoverflow.com/questions/56294597/how-to-create-a-pie-chart-from-csv-file-using-python
+
 # 東京大學資料科學家養成全書：使用Python動手學習資料分析
  - https://www.books.com.tw/products/0010859473
  - https://books.google.com.tw/books?id=WdrrDwAAQBAJ&hl=zh-TW&source=gbs_book_other_versions
