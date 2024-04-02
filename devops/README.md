@@ -36,6 +36,7 @@ https://www.ibm.com/tw-en/topics/blockchain-ai
 
 # CAD和EDA工程師基本須知
 關於CAD(Computer Aided Design)和EDA(Electronic Design Automation)工程師職缺，兩者可以說是一樣的東西。 主要是針對IC設計產業做輔助設計的程式開發，職缺相關科系為電機、電子、資工為主。 
+ -  IC Design Tool https://github.com/markemer/EDA-Cadence
 ## A.14 Development
 # Cloudflare Web3 docs
 https://developers.cloudflare.com/web3/
