@@ -12,3 +12,6 @@ cat DigiCertCA.cer >> mysite.pen
 # https://unix.stackexchange.com/questions/32001/what-is-m-and-how-do-i-get-rid-of-it
 dos2unix mysite.pem
 # check validation via https://www.ssllabs.com/ssltest/index.html
+#  www.shellhacks.com/openssl-check-ssl-certificate-expiration-date/
+url=gnupg.org
+echo | openssl s_client -servername ${url} -connect ${url}:443 | openssl x509 -noout -dates
