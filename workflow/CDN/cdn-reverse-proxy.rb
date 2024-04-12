@@ -1,3 +1,4 @@
+# https://misc.openbsd.narkive.com/YlUt2LPL/using-relayd-as-a-reverse-proxy-for-multiple-local-servers
 # https://medium.com/@davidgurevich_11928/cloudfront-as-a-reverse-proxy-fb6a8dcbed96
 # 6. Set allowed HTTP methods. Methods can be restricted but I allow all.
 # 7. Configure caching based on request headers. You can configure caching of content by CloudFront to improve performance. I want to forward all requests to my application server, so I select All. This seems confusing, but CloudFront does not cache if All is selected.
