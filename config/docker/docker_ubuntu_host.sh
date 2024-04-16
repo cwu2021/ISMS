@@ -1,6 +1,8 @@
 #!/bin/bash
 # https://docs.docker.com/engine/install/ubuntu/
 sudo apt-get remove docker docker-engine docker.io containerd runc
+# delete interface docker0 https://stackoverflow.com/questions/40082608/how-to-delete-interface-docker0
+sudo ip link delete docker0
 sudo apt-get update
 sudo apt-get install \
   ca-certificates \
