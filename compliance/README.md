@@ -92,6 +92,7 @@ https://rueylin0119.pixnet.net/blog/post/301637945-%e9%ab%98%e4%b8%ad%e5%9c%8b%e
 <br> https://zh.wikisource.org/wiki/%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8/%E5%8F%B2%E9%83%A8#%E6%AD%A3%E5%8F%B2%E9%A1%9E
 #### 儒 / 釋 / 道為主
 ##### 刑 / 名 / 法術為用
+ - 從諸葛亮六出祁山觀天下大勢 https://www.secretchina.com/news/b5/2023/02/26/1029834.html
 #### 吏戶禮兵刑工 (六部)
 ##### 駕帖 (六科)
 #### 廠衛 (大內 / 禁軍)
