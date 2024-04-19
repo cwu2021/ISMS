@@ -1,3 +1,5 @@
+# manual wireGuard connection with Surfshark
+# https://support.surfshark.com/hc/en-us/articles/6586553044498-How-to-set-up-a-manual-WireGuard-connection-on-Windows
 # Install WireGuard VPN Server on OpenBSD 7.0
 # https://www.vultr.com/docs/install-wireguard-vpn-server-on-openbsd-7-0/
 # Simple Wireguard setup as VPN server and multiple clients
