@@ -28,6 +28,7 @@ running into a problem from some old binary or cached build somewhere.
  - darling for darwin, current 11.7 Big Sur. neofetch, htop via brew works fine, as well as built-in binaries.
  - open source alternatives to Minecraft https://opensource.com/alternatives/minecraft
  - Microsoft OS/2 2.0 on ESXi https://williamlam.com/2024/03/pre-release-microsoft-os-2-2-0-on-esxi.html
+ - NFC hack: 臺大電機教授示範無線竄改悠遊卡金額 https://www.ithome.com.tw/news/63075
 ### neofetch distros
  - ./neofetch --ascii_distro IRIX
  - ./neofetch --ascii_distro android
