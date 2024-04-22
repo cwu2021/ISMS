@@ -1,4 +1,6 @@
 #!/bin/bash
+# Steps to import qemu VM in LXD
+# https://discuss.linuxcontainers.org/t/steps-to-import-qemu-vm-in-lxd/13299
 # syslog > modified cpu set for lxc
 pct list
 # https://forum.proxmox.com/threads/syslog-modified-cpu-set-for-lxc.52979/
