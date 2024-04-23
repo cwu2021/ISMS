@@ -117,6 +117,7 @@ https://www.ftc.gov.tw/upload/9-1081112.pdf
  - 責任制(監督/監視,etc)勞基法規範有哪些 https://laws010.com/blog/labor-dispute/exempt-employee/exempt-employee-01
 ### 盡職調查(due diligence)是什麼?包含什麼內容呢? 
  - https://www.wiseteam.tw/3045225773-2623427402213202024123460/due-diligence
+ - 你知道什麼是 DD 嗎？併購方或是被併購方都要懂的盡職調查！ - INSIDE https://www.inside.com.tw/article/11733-due-diligence
 ### 侵害著作權的刑事責任
  - https://www.lhu.edu.tw/e_paper/103/lunghwa_paper_103016/special_column.htm
  - 侵害他人著作權，除了有民事責任之外，若是屬於故意侵害的情形，也可能會屬於犯罪行為而有刑事責任。許多
