@@ -6,6 +6,7 @@ https://images.linuxcontainers.org
  - lxc launch images:ubuntu docker -c security.nesting=true https://discuss.linuxcontainers.org/t/error-when-running-docker-images-in-a-lxc-container/12945/5
  - kvm via SPICE https://discuss.linuxcontainers.org/t/lxd-windows-install-on-remote-server-lxc-console-vmname-type-vga-how-to-see-gui/11800/4
  - do NOT install docker via snap along with lxd! networking err may occur.
+ - network DHCP for FreeBSD : rc.conf: ..="DHCP" https://forums.freebsd.org/threads/setting-network-interface-to-dhcp.1797/ 
 ### screen -d -m not working in lxc container. 
 run ffmpeg and kill directly via cron.
 ### From LXD to Kubernetes
