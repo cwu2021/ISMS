@@ -1,5 +1,5 @@
 # Wowza: video analytics
- - https://www.wowza.com/video-analytics
+https://www.wowza.com/video-analytics
 # Recording video
 ## https://trac.ffmpeg.org/wiki/Capture/Blackmagic
 $ ffmpeg -list_devices true -f dshow -i dummy <br>
