@@ -16,3 +16,5 @@ pvs
 vgcreate ubuntu-vg /dev/sda3
 # https://www.linuxquestions.org/questions/linux-hardware-18/lvcreate-with-max-size-available-749253/
 lvcreate -n ubuntu-lv -l 100%FREE ubuntu-vg
+# How to add an extra second hard drive on Linux LVM and increase the size of storage - nixCraft
+# https://www.cyberciti.biz/faq/howto-add-disk-to-lvm-volume-on-linux-to-increase-size-of-pool/
