@@ -1,4 +1,6 @@
 # mips to riscv after 2021 https://en.wikipedia.org/wiki/MIPS_architecture
+# Apple Airport is netbsd on MIPS; Darwin userland also runs netbsd.
+# Freebsd supports MIPS until 13.
 # https://openwrt.org/docs/techref/hardware/soc/soc.mediatek
 uname -a
 cat /proc/cpuinfo
