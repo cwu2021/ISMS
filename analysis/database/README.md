@@ -6,6 +6,8 @@ https://www.linuxjournal.com/article/10699
 ## Excel 必懂公式 5. COUNTIF 用法
 https://www.managertoday.com.tw/articles/view/51429
 <br> https://www.calculator.net/sample-size-calculator.html
+## Excel-判斷字元的全型和半型個數(LEN,LENB)
+https://isvincent.pixnet.net/blog/post/44708110-excel-%E5%88%A4%E6%96%B7%E5%AD%97%E5%85%83%E7%9A%84%E5%85%A8%E5%9E%8B%E5%92%8C%E5%8D%8A%E5%9E%8B%E5%80%8B%E6%95%B8(l
 ## HowTo Install Redmine on Ubuntu step by step
 https://www.rosehosting.com/blog/install-redmine-on-ubuntu-20-04/
 <br> https://www.redmine.org/projects/redmine/wiki/howto_install_redmine_on_ubuntu_step_by_step
