@@ -1,4 +1,6 @@
 #1/bin/ksh
+# Some OpenBSD features that aren't widely known
+# https://dataswamp.org/~solene/2024-02-20-rarely-known-openbsd-features.html
 # https://www.openbsd.org/faq/faq6.html#Bridge
 cat /etc/hostname.bridge0 << EOF
 add vether0
