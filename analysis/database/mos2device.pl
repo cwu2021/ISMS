@@ -1,4 +1,5 @@
 # rewrite from c# to perl by copilot
+# apt install libxml-simple-perl
 use strict;
 use warnings;
 use IO::Socket::INET;
