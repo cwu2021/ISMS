@@ -18,3 +18,5 @@
  - docker commit test01 test02
  - docker run -p 8080:8080 -td test02
 <br> https://stackoverflow.com/questions/19335444/how-do-i-assign-a-port-mapping-to-an-existing-docker-container
+# Docker and Kubernetes: How They Work Together
+https://www.docker.com/blog/docker-and-kubernetes/
