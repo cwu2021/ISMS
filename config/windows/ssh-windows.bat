@@ -3,7 +3,7 @@ REM putty + vcxsrv to run X on Windows
 REM https://stu98832.github.io/2022/08/13/linux-desktop-on-windows/
 REM https://unix.stackexchange.com/questions/227889/cygwin-on-windows-cant-open-display
 REM https://docs.cse.lehigh.edu/xforwarding/xforwarding-win/
-https://dywang.csie.cyut.edu.tw/dywang/linuxserver/node9.html
+REM https://dywang.csie.cyut.edu.tw/dywang/linuxserver/node9.html
 REM https://www.cyberciti.biz/faq/how-to-fix-x11-forwarding-request-failed-on-channel-0/
 REM https://unix.stackexchange.com/questions/112217/ssh-xforwarding-fails-xauth-bad-display-name
 REM https://x.cygwin.com/docs/ug/setup.html
