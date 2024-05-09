@@ -1,3 +1,5 @@
+# 2023 VPN 風險報告-針對382名IT專業人員的調查，揭示現今 VPN 管理的複雜性以及網路攻擊問題 - 羽昇國際
+# https://www.wingwill.com.tw/zh-tw/%e6%9c%80%e6%96%b0%e6%b6%88%e6%81%af/%e7%94%a2%e5%93%81%e8%b3%87%e8%a8%8a/zscaler-2023-vpn-risk-report/
 # manual wireGuard connection with Surfshark
 # https://support.surfshark.com/hc/en-us/articles/6586553044498-How-to-set-up-a-manual-WireGuard-connection-on-Windows
 # Install WireGuard VPN Server on OpenBSD 7.0
