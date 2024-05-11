@@ -10,3 +10,6 @@ WHERE #{type} = true
 SQL
 
 File.open("log.txt", "w") { |f| f.write "#{Time.now} - User logged in\n" }
+
+# Multiline Strings in Ruby. The Ruby programming language lets you…
+# https://modernlearner.ghost.io/ghost/#/editor/post/5f8d7b1c8424d10039898df7
