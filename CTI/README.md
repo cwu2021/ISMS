@@ -13,7 +13,8 @@ OSSIM OTX as CTI.
 https://www.ithome.com.tw/news/148583
 ### 手機真的在監聽嗎？在公共場合充電可能被駭？前Apple技術人員破解手機迷思 GQ Taiwan
 https://youtu.be/QidAal-Olq8
-
+### The Mystery of ‘Jia Tan,’ the XZ Backdoor Mastermind | WIRED
+https://www.wired.com/story/jia-tan-xz-backdoor/
 ## Cybersecurity Framework 
 ### 透過NIST網路安全框架實現SaaS管理策略
 https://www.twcert.org.tw/newepaper/cp-64-7705-76efa-3.html
