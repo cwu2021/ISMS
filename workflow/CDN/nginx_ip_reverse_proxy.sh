@@ -1,4 +1,5 @@
 !/bin/bash
+# Reveal real IP for Nginx behind a reverse proxy | inDev. Journal
 # https://frankindev.com/2020/12/25/nginx-real-ip-behind-reverse-proxy/
 
 set -e
