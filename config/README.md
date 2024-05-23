@@ -58,6 +58,9 @@ $350-390 --> or $600!
  - two/three pin cable from monitor,camera,mac.
 ### refrigerator checks
 如果有冰箱型號，可以查查集水盤在哪
+### 資訊設備的耗電量與費用 » 科一電腦
+6-9A *110V
+https://cck.tw/electricity-used-by-network-equipment 
 ### cable STB debugging
  - Set top box indicators
 yellow lights of PWR (power?), DS (down streaming?), US (up streaming?), ONLINE
