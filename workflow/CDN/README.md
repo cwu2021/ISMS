@@ -57,6 +57,8 @@ wowzalicense4.wowzamedia.com has address 3.219.52.15
  - https://openwrt-nctu.gitbook.io/project/experiment-sdn/ovs-on-openwrt
  - https://openwrt.org/docs/guide-user/network/vlan/switch_configuration
  - HPE aquires Juniper https://www.ithome.com.tw/news/160784
+# Building a defense against DDoS attacks
+https://www.admin-magazine.com/Archive/2024/79/Building-a-defense-against-DDoS-attacks
 # How to block all VPNs, Proxys and host IPs?
 Cloudflare managed lists do it, but I’m afraid its only available to enterprise customers.
 - https://community.cloudflare.com/t/how-to-block-all-vpns-proxys-and-host-ips/303070
