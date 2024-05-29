@@ -11,3 +11,5 @@ hdparm -tT /dev/sda
 cat /proc/mdstat
 mdadm /dev/md0 --remove /dev/sdb
 mdadm /dev/md0 --add /dev/sdb
+# re-add a drive when RAID is in degraded mode
+# https://serverfault.com/questions/821966/how-to-re-add-a-drive-when-raid-is-in-degraded-mode
