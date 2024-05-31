@@ -1,3 +1,5 @@
+# So Long Neofetch and Thanks for the Info
+# https://www.linux-magazine.com/Online/News/So-Long-Neofetch-and-Thanks-for-the-Info
 # OSes in neofetch
 ./neofetch --help
 # https://www.reddit.com/r/Windows11/comments/of65s9/custom_neofetch_logo_for_windows_11_by_me/?rdt=56339
