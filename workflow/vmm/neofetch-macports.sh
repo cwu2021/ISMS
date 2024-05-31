@@ -1,4 +1,4 @@
-# So Long Neofetch and Thanks for the Info
+# So Long Neofetch and Thanks for the Info.
 # https://www.linux-magazine.com/Online/News/So-Long-Neofetch-and-Thanks-for-the-Info
 # OSes in neofetch
 ./neofetch --help
