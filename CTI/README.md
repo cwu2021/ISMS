@@ -18,3 +18,5 @@ https://www.wired.com/story/jia-tan-xz-backdoor/
 ## Cybersecurity Framework 
 ### 透過NIST網路安全框架實現SaaS管理策略
 https://www.twcert.org.tw/newepaper/cp-64-7705-76efa-3.html
+### CYBERSEC 2024 臺灣資安大會
+https://cybersec.ithome.com.tw/2024/slide
