@@ -37,3 +37,4 @@ https://www.hackster.io/news/the-new-nintendo-game-watch-is-certainly-some-hardw
  - ./neofetch --ascii_distro IRIX
  - ./neofetch --ascii_distro android
  - a history of the tty https://computer.rip/2024-02-25-a-history-of-the-tty.html
+ - textbunny https://www2.b3ta.com/_bunny/texbunny.gif
