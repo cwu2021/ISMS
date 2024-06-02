@@ -6,4 +6,4 @@
 apt install asciio
 # (with remote X server)
 apt install mdp
-# (with github sample.md
+# text based presenttaion with mdp (with github sample.md)
