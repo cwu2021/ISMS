@@ -15,3 +15,5 @@ dos2unix mysite.pem
 #  www.shellhacks.com/openssl-check-ssl-certificate-expiration-date/
 url=gnupg.org
 echo | openssl s_client -servername ${url} -connect ${url}:443 | openssl x509 -noout -dates
+# nginx - Is it necessary to regenerate the 'dhparam.pem' file 
+# https://stackoverflow.com/questions/74561514/is-it-necessary-to-regenerate-the-dhparam-pem-file-every-time-i-renew-my-certi
