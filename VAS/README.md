@@ -7,6 +7,8 @@ Information about technical vulnerabilities of information systems being used sh
  - You will need to create your own model file for doing the detection itself. There is a blog post about the new feature and how to create a model using tools in the repository.
  - https://blog.snort.org/2024/0
 ## Vulnerability Assessment Scanner
+### Runtime Integrity services provide assurance that a system is uncorrupted.
+https://www.admin-magazine.com/Archive/2024/81/Detecting-system-compromise
 ### 個資的善良管理人report sample，反正買愈多就有愈多
 https://developers.cloudflare.com/ddos-protection/reference/reports/
 ### 5款免費、付費弱點掃描工具優缺點分析！
