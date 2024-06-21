@@ -138,6 +138,8 @@ https://www.ig.com/cn/glossary-trading-terms/liquidity-definition
 https://www.shengwui.com.tw/prod/46eba0e1dc69459d9bd5029a701ee037
 ### 遇上減薪怎麼辦？法律程序、最低月薪、補助津貼一次弄懂
 https://www.cheers.com.tw/article/article.action?id=5099915
+### PUA意思是什麼？跟情緒勒索有關？遇到PUA該怎麼辦？
+https://tw.news.yahoo.com/pua%E6%84%8F%E6%80%9D-pua%E6%98%AF%E4%BB%80%E9%BA%BC-pua%E4%BB%80%E9%BA%BC%E6%84%8F%E6%80%9D-pua%E7%B2%BE%E7%A5%9E%E6%8E%A7%E5%88%B6-pua%E6%83%85%E7%B7%92%E5%8B%92%E7%B4%A2-pua%E8%A9%B1%E8%A1%93-pua%E8%BC%94%E5%A4%A7-pua-%E7%BE%A4%E7%B5%84-055815152.html
 ### 外商公司真的好嗎？一次帶你搞懂外商公司與台商差異！ 
 https://roo.cash/blog/job-foreign-company/
  - Merge & Acquisition https://www.businessweekly.com.tw/careers/blog/14186
