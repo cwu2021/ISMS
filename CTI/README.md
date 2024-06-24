@@ -16,6 +16,7 @@ https://youtu.be/QidAal-Olq8
 ### The Mystery of ‘Jia Tan,’ the XZ Backdoor Mastermind | WIRED
 https://www.wired.com/story/jia-tan-xz-backdoor/
 ## Cybersecurity Framework 
+### Threat modeling - O'Reilly
 ### 透過NIST網路安全框架實現SaaS管理策略
 https://www.twcert.org.tw/newepaper/cp-64-7705-76efa-3.html
 ### 謀定而後動，善用資安框架是上上策 | iThome
