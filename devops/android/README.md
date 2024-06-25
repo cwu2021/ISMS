@@ -8,6 +8,8 @@
 - 135*109*149mm/955g wifi 2.4/5GHz
 - https://en.wikipedia.org/wiki/Android_TV
 The ADT-2 development kit device was released before the release of Android TV 9.0.
+### 微型投影機的對決之 - 沒比較沒傷害BenQ GV30 pk Warpple LS5 - Mobile01
+https://www.mobile01.com/topicdetail.php?f=180&t=6740709
 # React vs Angular vs Vue
 React Native is a React JS-based framework to design mobile apps. Moreover, with reusable components, you can develop native mobile applications.
  - https://radixweb.com/blog/react-vs-react-native
