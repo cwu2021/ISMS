@@ -4,6 +4,8 @@ https://news.perlfoundation.org/post/perlgpt
 - 1000億完全建置。1750億參數，而台積電用100億參數做 Private GPT ～ 知識力專家社群創辦人 曲建仲博士
 - chatgpt: 200-1200萬USD for training, 8億 for Initial deployment and 5萬/daily operation. 1000 億 for finalized deployment. 1000萬 per unit. training time with GPU 3090/4090 for a simple topic may be within one month.
 - What are LLMs, Large Language Models used in generative AI? https://www.computerworld.com/article/1627101/what-are-large-language-models-and-how-are-they-used-in-generative-ai.html
+- AI skillset is currently limited, checked with LLMs.
+https://www.admin-magazine.com/Archive/2024/80/Chatbots-put-to-the-scripting-test
 - Apple Intelligence at WWDC 2024: macOS Sequoia on M1 >2020 , iOS 18 , Calculator on iPad , visionOS .
 - 開源AI模型Gemma https://www.ithome.com.tw/news/161409
 ## 黑化的ChatGPT：WormGPT資安危害及攻擊手法
