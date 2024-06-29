@@ -153,6 +153,8 @@ https://www.epochtimes.com/b5/23/10/12/n14093967.htm
  - 以往的廣告營收模式隨著cable大環境逐年衰落 ( https://www.ncc.gov.tw/chinese/news_detail.aspx?site_content_sn=5326&cate=0&keyword=&is_history=0&pages=0&sn_f=48934 ) ，電視台須積極進行數位轉型，方可期待以訂閱模式  ( https://www.macromicro.me/charts/33561/big-tech-sub-revenue ) 改善公司經營情況。
  - 精省打造新世代機房 https://www.netadmin.com.tw/netadmin/zh-tw/viewpoint/2729C2D398714840977BF5B4EBB9DAC5
  - U.S. Viewing Time for OTT - WSJ: YouTube (9%), Netflix (8%)... https://www.wsj.com/articles/television-accounts-for-less-than-half-of-u-s-viewing-time-for-the-first-time-158a1fc
+ - 串流媒體的現況與挑戰
+https://www.facebook.com/share/p/mnv5hhD4ZmmzeoHe/?mibextid=CTbP7E
  - 毛利率、淨利率、營業利益率，怎麼計算？ https://www.managertoday.com.tw/articles/view/55137
  - 品牌，你為什麼該選擇用電視與電視數位平台的管道，來做廣告宣傳呢？ https://www.marketersgo.com/marketing-strategies-tactics/202207/television-advertisement/
  - 傳統新聞媒體(45.96%)的電視(42.20%)仍是台灣民眾獲得新聞的首要來源(+5.51%)。而以搜尋引擎或新聞入口網站、社群媒體、即時通訊、YouTube等數位平台作為獲得新聞的主要來源佔42.81%(-9.65%)。 https://report.twnic.tw/2023/
