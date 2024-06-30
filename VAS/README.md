@@ -39,3 +39,5 @@ PERL is one of the more flexible tools that a security practitioner can learn. T
 ### stress and benchmarking from the command line
  - sudo apt-get install siege -y
  - https://www.admin-magazine.com/Archive/2022/72/Load-test-your-website-with-Siege
+### Jail and Monitor Your Applications
+strace and firejail http://www.linux-magazine.com/Issues/2024/281/strace-and-Firejail
