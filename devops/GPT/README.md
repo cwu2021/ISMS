@@ -6,6 +6,8 @@ https://news.perlfoundation.org/post/perlgpt
 - What are LLMs, Large Language Models used in generative AI? https://www.computerworld.com/article/1627101/what-are-large-language-models-and-how-are-they-used-in-generative-ai.html
 - AI skillset is currently limited, checked with LLMs.
 https://www.admin-magazine.com/Archive/2024/80/Chatbots-put-to-the-scripting-test
+- Detecting and disrupting AI
+http://www.linux-magazine.com/Online/Features/Deepfake-Sleuth
 - Apple Intelligence at WWDC 2024: macOS Sequoia on M1 >2020 , iOS 18 , Calculator on iPad , visionOS .
 - 開源AI模型Gemma https://www.ithome.com.tw/news/161409
 ## 黑化的ChatGPT：WormGPT資安危害及攻擊手法
