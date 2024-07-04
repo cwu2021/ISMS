@@ -9,3 +9,5 @@ whois 104.18.22.126
 # Address:        101 Townsend Street
 # City:           San Francisco
 # StateProv:      CA
+# DNS records quick scan
+# https://developers.cloudflare.com/dns/zone-setups/reference/dns-quick-scan
