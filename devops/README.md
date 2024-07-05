@@ -51,6 +51,8 @@ Gives you read and write access to the Ethereum network without installing any s
 # Relayd and Httpd Mastery
 <i>https://www.amazon.com/Relayd-Httpd-Mastery-Michael-Lucas/dp/1642350087</i><br>
 httpd as web server proper partitioned for files in chroot and sql, while relayd, pf, CARP as load balancers/failover. Good design sample to check which features are included or not, e.g. Perlrex.
+# Relational, NoSQL, Mongo vs Raven.
+Raven DB 是 c#寫的nosql，不是最常見的mongodb。小規模是夠用了，mysql這種relational db小規模用了也沒問題，nosql的吞吐能力不會比relational db差。但nosql門檻確實不同於relational db。 https://www.taashee.com/revolutionizing-data-management-7-cutting-edge-features-of-ravendb-you-cant-ignore/ ranking score的比較：mongodb得分400＋，而ravendb在4左右，Popularity差距是很大。當然很少人用不代表不厲害，有些技術用的人少是因為難用但很厲害。 Raven DB只能說是不普及，有維護隱憂。 https://db-engines.com/en/ranking_trend/system/RavenDB
 # FCM push notification delay
  - Push Notifications Statistics (2023) https://www.businessofapps.com/marketplace/push-notifications/research/push-notifications-statistics/ iOS push notification reaction rate – 3.4%
 <br><i>https://gist.github.com/gdeglin/98aeda28035b45cef04bb6c2cb41a4aa</i><br>
