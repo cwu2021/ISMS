@@ -9,6 +9,8 @@ https://www.nics.nat.gov.tw/Vulnerability-1.htm
 ### AlienVault - Open Threat Exchange
 https://otx.alienvault.com/ <br>
 OSSIM OTX as CTI.
+### OpenSSH 9.8 fixes for two security problems, including race condition in sshd(8).
+https://www.openssh.com/
 ### 中國駭客組織RedJuliett近半年鎖定臺灣75個組織發動攻擊，目標主要是高科技產業，但外交經濟、社會運動團體也遭鎖定 | iThome
 https://www.ithome.com.tw/news/163641
 ### 勒索軟體Conti開始利用Log4Shell漏洞，攻擊VMware vCenter
