@@ -5,8 +5,13 @@
 
 service firewall stop
 # fw3_config_set for ip list blocking. geoip for country blocking.
+opkg update
 opkg install htop
-
+# OpenWRT opkg for speedtest and temper.py. neofetch can run directly via bash.
+opkg list-installed
+opkg list | grep speedtest
+opkg install dmidecode
+opkg install python3-pyserial
 # https://stackoverflow.com/questions/947897/block-comments-in-a-shell-script
 : <<'END'
 Cisco SF300-48 replaced with EOS(72)
