@@ -1,5 +1,6 @@
 # Internet Speed Test
  - https://speed.cloudflare.com/
+ - speedtest-cli https://askubuntu.com/questions/104755/how-to-check-internet-speed-via-terminal
  - https://check-host.net/
  - MTR: A Network Diagnostic Tool https://linuxhint.com/mtr-a-diagnostic-tool/
  <br> $ mtr -r 1.1.1.1 | awk '{print $1,$3,$4,$5,$6,$7,$8,$9}'
