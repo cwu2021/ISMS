@@ -6,6 +6,9 @@
  <br> https://stackoverflow.com/questions/61521927/how-to-awk-multiple-columns-in-bash
  - IDC 700Gbps backbone
 是方完善的700G跨國骨幹建置遍布全球各區，提供更便捷、高效、多選擇、備援的雲端與網路匯集環境，今年除了加強「三環三線」網路布建、推出SD-WAN（軟體定義廣域網路）、與國際合作夥伴打造的全球Bare Metal Cloud裸機雲服務也即將上線，能更快速、有效的替企業解決跨境連線的問題，且享有更高階的雲端應用服務效能和網路安全性，支援客戶全球化的營運布局。
+ - Hinet 光世代無備援機制，電路規劃與環路保護；頻寬使用次優先權，且國內接取有集縮設計。
+https://fttb.hinet.net/compare.html 
+
 # AWS Public IPv4 Address Charge: $0.005/hr
  - https://aws.amazon.com/tw/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/
  - https://aws.amazon.com/tw/about-aws/whats-new/2023/07/aws-public-ip-insights-vpc-ip-address-manager/
