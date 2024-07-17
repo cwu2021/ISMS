@@ -17,6 +17,8 @@ https://blog.neithnet.com/?p=4351
 https://replicate.com/prompthero/openjourney
 ## 用Python爬取PTT熱門新聞做成文字雲
 https://vocus.cc/article/62b2b69efd89780001117a7a
+### Why We Created Julia
+https://julialang.org/blog/2012/02/why-we-created-julia/
 ## 令人腦殘的程式語言 | iThome
 https://www.ithome.com.tw/voice/110366
 # no login required for chatgpt
