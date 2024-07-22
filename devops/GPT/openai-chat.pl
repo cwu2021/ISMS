@@ -1,3 +1,4 @@
+# IThome OpenAI：OpenAI 分為5級。當安全性左移還不夠時。
 # - perl weekly 2024-07-08
 # https://curtispoe.org/articles/an-openai-chatbot-in-perl.html
 use v5.40.0;
