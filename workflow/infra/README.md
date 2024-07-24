@@ -61,7 +61,9 @@ use more advanced protocol features.
 
 RDP and X protocols transmit drawing instructions instead of patches of pixels. This is why under some conditions they are superior to VNC.
 
-Other proprietary remote access services may use similar techniques but are undocumented. Remote access services do have the benefit of being able to punch through firewalls easier than direct remote access, they are usually easier to configure and have better support for encryption.
+- Microsoft Remote Desktop Beta https://learn.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/remote-desktop-mac
+
+- Other proprietary remote access services may use similar techniques but are undocumented. Remote access services do have the benefit of being able to punch through firewalls easier than direct remote access, they are usually easier to configure and have better support for encryption.
 
 I've used VNC, Remote Desktop, LogMeIn Free, PCAnywhere and remote X. Each has its merits:
 
