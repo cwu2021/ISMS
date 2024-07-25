@@ -43,3 +43,5 @@ PERL is one of the more flexible tools that a security practitioner can learn. T
 strace and firejail http://www.linux-magazine.com/Issues/2024/281/strace-and-Firejail
 ### Quick malware analysis with Linux tools
 trid, exiftool and xlmdeobfuscator https://www.linux-magazine.com/Issues/2024/280/Malware-Analysis
+### Learn about phishing attacks with HiddenEye
+https://www.linux-magazine.com/Issues/2024/280/Phishing-with-HiddenEye
