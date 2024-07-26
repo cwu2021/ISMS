@@ -23,3 +23,7 @@ crosh> vmc list
 termina (8053178368 bytes, min shrinkable size 1048576 bytes, raw)
 Total Size (bytes): 8053178368
 crosh> vmc stop termina
+## Firefox quick keys
+ - ctrl-tab to switch tabs.
+ - tab to proceed, shift-tan for backwards.
+ - window-m then window can then control desktop icons. alt-down for browser menu.
