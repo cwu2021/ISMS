@@ -29,3 +29,4 @@
 # real_ip_header CF-Connecting-IP;
 # #real_ip_header X-Forwarded-For;
 
+# (CDN) -> HA proxy port 443 to 80, in IDC of 18 degrees Celsius, 50% humidity.
