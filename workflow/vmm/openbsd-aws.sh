@@ -7,3 +7,5 @@ pkg_add vmdktool git awscli
 git clone https://github.com/ajacoutot/aws-openbsd.git
 rcctl -f start vmd
 # follow instructions of the repo.
+# Deploy OpenBSD Servers in Seconds Worldwide - Vultr.com
+# https://www.vultr.com/servers/openbsd/
