@@ -1,9 +1,11 @@
 #!/bin/bash
-# VBoxManage convertfromraw ...
+# VBoxManage convert from raw ...
 # c:\program files\oracle\virtualbox\
 # openwrt.org/docs/guide-user/network/network_configuration
 
 service firewall stop
+# OpenWRT access from WAN customized rules
+cat /etc/config/firewall
 # fw3_config_set for ip list blocking. geoip for country blocking.
 opkg update
 opkg install htop
