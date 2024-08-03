@@ -11,3 +11,7 @@ whois 104.18.22.126
 # StateProv:      CA
 # DNS records quick scan
 # https://developers.cloudflare.com/dns/zone-setups/reference/dns-quick-scan
+
+# Identify Operating System and Hops Using TTL Value
+# Linux 64, Mac 64, FreeBSD 64, DragonFlyBSD 64, Cloudflare 64, Solaris 255, NetBSD 255, OpenBSD 255, Windows 128, Google 128. One hop minus 1.
+# https://ostechnix.com/identify-operating-system-ttl-ping/
