@@ -11,3 +11,5 @@ REM KDC Certificate Availability https://docs.microsoft.com/en-us/previous-versi
 REM Key Distribution: KDC, Certification, CA https://sls.weco.net/node/10687
 REM 智慧卡疑難排解 https://docs.microsoft.com/zh-tw/windows/security/identity-protection/smart-cards/smart-card-debugging-information
 REM 有關2003及2008 ad server上KDC的錯誤訊息? https://ithelp.ithome.com.tw/questions/10153686
+REM active directory - ADExplorer search with displayName
+REM https://serverfault.com/questions/451439/adexplorer-how-to-search-with-distinguishedname-contains-condition
