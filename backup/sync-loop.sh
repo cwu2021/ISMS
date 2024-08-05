@@ -20,3 +20,7 @@ rclone size
 # https://rclone.org/commands/rclone_size/
 rclone lsd
 https://rclone.org/commands/rclone_lsd/
+
+#!/bin/bash
+# verbosely and bypass cert check for self signed
+rclone -vv --no-check-certificate ls mys3:
