@@ -31,3 +31,5 @@ https://www.twcert.org.tw/newepaper/cp-64-7705-76efa-3.html
 https://ithome.com.tw/article/163232
 ### CYBERSEC 2024 臺灣資安大會
 https://cybersec.ithome.com.tw/2024/slide
+### 是方電訊成為全台首家取得ISO 27001、27011、27017、27018四重認證的電信網路與雲端服務業者 客戶可享安全完善的服務 更確保重要系統及資料上雲後無後顧之憂 | iThome
+https://www.ithome.com.tw/pr/120921
