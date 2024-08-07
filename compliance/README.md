@@ -113,6 +113,7 @@ https://global.udn.com/global_vision/story/8663/2209040
 ### 媒體立場
 若要主張某節目不代表本台立場，將其定位在類似自媒體的角色，跟其他自媒節目一起排播，在製作上就比較沒有論述切入點問題，當作是一家之言。主要留意史實，事實查核的正確性。
  - 電視常用術語 https://ntua9761.pixnet.net/blog/post/22591642
+ - 中國旺旺領取中國補助152億　陸委會：並未違法，但會關注是否有政治力滲透 https://www.storm.mg/article/1207364
 ### 公平會裁罰案例
 https://www.ftc.gov.tw/upload/9-1081112.pdf
 - 入籍即入學
