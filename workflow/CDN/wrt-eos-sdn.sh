@@ -3,6 +3,7 @@
 # c:\program files\oracle\virtualbox\
 # openwrt.org/docs/guide-user/network/network_configuration
 
+# dart language for OpenWRT Manager app dev
 service firewall stop
 # OpenWRT access from WAN customized rules
 cat /etc/config/firewall
