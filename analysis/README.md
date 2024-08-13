@@ -60,6 +60,8 @@ There are two categories of random numbers — “true” random numbers and pse
  - 鉤癮效應: 觸發（Trigger）：引起使用者興趣。行動（Action）：預期會有獎賞而做出的行為。變動獎賞（variable reward）：活化大腦關於渴求及慾望的部位。投入（investment）：使用者將時間、心力、社會資本等用於此產品或服務上。 https://medium.com/@serena841205/%E9%89%A4%E7%99%AE%E6%95%88%E6%87%89-%E5%89%B5%E9%80%A0%E7%BF%92%E6%85%A3%E6%96%B0%E5%95%86%E6%A9%9F-ddb22edfc067
  - 沒必要的流程，簡掉：致富覺察
 https://www.facebook.com/share/p/PDAUNep6fBzMm1eS/?mibextid=CTbP7E
+ - 績效控跟工作狂的差異 | iThome
+https://www.ithome.com.tw/article/164056
 ### Twitter,Gab,Gettr,Telegram,Mewe,Facebook,IG,TruthS
 ### 12種商務開發 (or 9 ways for Awareness) https://abusensei.com/business-development-strategy/  
 線上開發方法：
