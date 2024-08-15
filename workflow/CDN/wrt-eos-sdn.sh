@@ -15,6 +15,8 @@ opkg list-installed
 opkg list | grep speedtest
 opkg install dmidecode
 opkg install python3-pyserial
+# install package manager on asus router - Unix & Linux Stack Exchange
+# https://unix.stackexchange.com/questions/219605/install-package-manager-on-asus-router
 # https://stackoverflow.com/questions/947897/block-comments-in-a-shell-script
 : <<'END'
 Cisco SF300-48 replaced with EOS(72)
