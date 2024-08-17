@@ -4,6 +4,7 @@ https://blogs.windows.com/windows-insider/2023/10/04/announcing-windows-11-insid
 ## Remote Desktop access
 setting -> system -> remote desktop
  - power plan set to high to prevent sleep
+ - Throttling Network File Transfer Speed on Windows https://woshub.com/limit-network-file-transfer-speed-windows/
 ## Fight Windows ransomware with on-board tools
 https://www.admin-magazine.com/Archive/2024/80/Fight-Windows-ransomware-with-on-board-tools
 # Windows 11 Security Features
