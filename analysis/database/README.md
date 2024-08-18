@@ -8,6 +8,8 @@ https://www.managertoday.com.tw/articles/view/51429
 <br> https://www.calculator.net/sample-size-calculator.html
 ## Excel-判斷字元的全型和半型個數(LEN,LENB)
 https://isvincent.pixnet.net/blog/post/44708110-excel-%E5%88%A4%E6%96%B7%E5%AD%97%E5%85%83%E7%9A%84%E5%85%A8%E5%9E%8B%E5%92%8C%E5%8D%8A%E5%9E%8B%E5%80%8B%E6%95%B8(l
+### ECV Microsoft 365
+https://www.microsoft.com/zh-tw/microsoft-365/business/compare-all-microsoft-365-business-products
 ## Automatically calculate time in a rundown schedule - Google Docs Editors Community
 https://support.google.com/docs/thread/95861824/automatically-calculate-time-in-a-rundown-schedule?hl=en
 ## HowTo Install Redmine on Ubuntu step by step
