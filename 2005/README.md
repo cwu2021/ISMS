@@ -14,3 +14,6 @@ https://www.cc.ntu.edu.tw/chinese/epaper/0030/20140920_3003.html
 7. 強調績效展現，更加強調設定目標，監控績效及訂定量測指標。<br>
 
 27001：2013新版本為了更符合資訊安全的現況及需求，由原先ISO 27001:2005的A.5至A.15（11個領域，39項目標及133項控制措施）變成A.5至A.18（14個領域，35項目標，114項控制措施）控制目標減少了4項，控制措施由原本的133個變成114個。領域變多了，控制目標及控制措施都減少了。且2013年版本新增了兩個領域分別是A.10密碼(Cryptography)領域與A.15供應商關係(Supplier Relationships)領域，並將原本A.10通訊與作業管理(Communications and operations management)領域分成A.12作業安全(Operations Security)與A.13通訊安全(Communications Security)兩個領域
+
+# 電信事業資訊安全管理手冊
+https://www.rootlaw.com.tw/LawArticle.aspx?LawID=A040410001009400-0980812
