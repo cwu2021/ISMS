@@ -2,6 +2,7 @@
 https://community.ui.com/releases/UniFi-Network-Application-8-0-7/7818b9df-4845-4c82-ba3c-1218e61010d4
  - devices need reset for re-adoption.
  - consoles cannot downlinked to each other. direct via wired or wifi is required for WAN config.
+ - direct access design: inf alias with RFC 1918 https://datatracker.ietf.org/doc/html/rfc1918
 
 # nagios-plugins
 https://github.com/nagios-plugins/nagios-plugins
