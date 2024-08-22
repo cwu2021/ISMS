@@ -7,3 +7,5 @@ irssi -n <nickname> irc.libera.chat
 # https://wiki.gentoo.org/wiki/Benefits_of_Gentoo
 # Mastodon - Twitter alternative via Perl to write into Fediverse
 # https://alashazam.wordpress.com/2024/07/09/perl-script-to-write-into-the-fediverse-and-nostr/comment-page-1/#comments
+# Mastodon CLI Client https://www.linux-magazine.com/Issues/2023/269/toot
+toot post --editor vim
