@@ -30,3 +30,4 @@
 # #real_ip_header X-Forwarded-For;
 
 # (CDN) -> HA proxy port 443 to 80, in IDC of 18 degrees Celsius, 50% humidity.
+# Cloudflare and nginx: Too many redirects  https://stackoverflow.com/questions/35143193/cloudflare-and-nginx-too-many-redirects
