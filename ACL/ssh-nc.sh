@@ -12,3 +12,5 @@ IdentityFile your_key_on_local
 # "Too many Authentication Failures" issue.
 IdentitiesOnly=yes
 EOF
+# Dropbear's banner starts with SSH-2.0-dropbear
+# https://serverfault.com/questions/1073403/how-can-i-know-if-the-current-running-ssh-server-is-openssh-or-dropbear
