@@ -27,5 +27,5 @@ cf_ips
 # lxd forward
 # apt install iptables
   /sbin/iptables -t nat -A PREROUTING -p tcp --dport 443 -j DNAT --to instance.ip:443
-# 
-# How can I forward the HTTP and SSH port to my internal server using iptables? - Server Fault https://serverfault.com/questions/564445/how-can-i-forward-the-http-and-ssh-port-to-my-internal-server-using-iptables
+# How can I forward the HTTP and SSH port to my internal server using iptables? - Server Fault
+# https://serverfault.com/questions/564445/how-can-i-forward-the-http-and-ssh-port-to-my-internal-server-using-iptables
