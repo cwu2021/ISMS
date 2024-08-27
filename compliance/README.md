@@ -42,6 +42,7 @@ https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#:~:text=For%20sma
  - BSL（Business Source License）https://www.ithome.com.tw/news/158228
  - OSes from neofetch 
 https://www.reddit.com/r/linuxmasterrace/comments/k2wl8v/i_got_bored_so_here_are_all_neofetch_ascii_logos/?rdt=53232
+ - IIS Cal 數量問題 https://www.mobile01.com/topicdetail.php?f=300&t=4107304
 ## GDPR
 ### The Paypal Alternative https://news.gab.com/2022/10/gabpay-the-paypal-alternative/
 An alternative to Paypal has never been more important now that the ADL will be combing through your financial transactions and ruining people’s lives for financially supporting people and organizations they don’t like. This week Paypal caught tremendous backlash after it was announced that their new terms of service had a clause that would fine users $2500 for “misinformation.” Paypal later claimed that this was a “mistake” and changed course. 
