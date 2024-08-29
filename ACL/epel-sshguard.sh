@@ -12,3 +12,4 @@ systemctl enable rc-local
 #https://www.netadmin.com.tw/netadmin/zh-tw/technology/2FDCEED9F879437BAA6292D509A7C2FC
 iptables -I INPUT -j sshguard
 # the above may need to apply manually on ubuntu or docker hosts, in which iptables may be altered..
+# ssh Brute Force » Linux Magazine http://www.linux-magazine.com/Issues/2024/282/Attacking-SSH
