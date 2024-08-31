@@ -57,6 +57,8 @@ wowzalicense4.wowzamedia.com has address 3.219.52.15
  - https://openwrt-nctu.gitbook.io/project/experiment-sdn/ovs-on-openwrt
  - https://openwrt.org/docs/guide-user/network/vlan/switch_configuration
  - HPE aquires Juniper https://www.ithome.com.tw/news/160784
+ - ubuntu netplan vlan openbsd vlan(4)
+facsiginsa.com manpage ifconfig up
 # Building a defense against DDoS attacks
 https://www.admin-magazine.com/Archive/2024/79/Building-a-defense-against-DDoS-attacks
 # How to block all VPNs, Proxys and host IPs?
