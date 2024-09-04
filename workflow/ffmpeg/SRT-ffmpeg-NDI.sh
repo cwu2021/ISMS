@@ -1,5 +1,6 @@
 # https://medium.com/@eyevinntechnology/using-ffmpeg-and-srt-to-transport-video-signal-to-the-cloud-7160960f846a
 # https://srtlab.github.io/srt-cookbook/apps/ffmpeg/
+# https://stackoverflow.com/questions/62977448/minimal-srt-stream-example-with-ffmpeg
 
 apt-get install libssl-dev tclsh
 git clone https://github.com/Haivision/srt.git
