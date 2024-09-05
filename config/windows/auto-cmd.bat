@@ -10,3 +10,5 @@ REM https://www.quora.com/How-can-I-turn-off-display-in-Windows-from-command-lin
 .\nircmd.exe monitor off
 REM or via scheduled tasks
 schtasks
+REM attributes - How can I add NTFS metadata to any file? - Stack Overflow
+REM https://stackoverflow.com/questions/63701814/how-can-i-add-ntfs-metadata-to-any-file
