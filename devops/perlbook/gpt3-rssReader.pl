@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 # Here is a possible code for an rss reader in Perl running in terminal:
-
+# 不允許的 XML 字元 (其實就三個) https://learn.jamf.com/zh-TW/bundle/technical-articles/page/Entity_Equivalents_for_Disallowed_XML_Characters.html
 use strict;
 use warnings;
 use XML::RSS;
