@@ -12,3 +12,7 @@ block in from <banned>
 # man spamd.conf: blacklisted hosts are diverted to spamd and tarpitted 
 # i.e. they are communicated with very slowly to consume the sender's resources.
 EOF
+# Public DNS Servers in China https://dnschecker.org/public-dns/cn
+# 202.112.35.203  Beijing, Beijing
+# 218.92.205.30   Dafeng, Guangxi
+# 218.93.124.186  Jintan, Guangdong
