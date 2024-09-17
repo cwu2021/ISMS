@@ -4,6 +4,12 @@ cat > /etc/pf.conf << EOF
 block all
 match out on egress nat-to egress
 pass in on egress proto tcp to egress port ssh
+# default deny with bidirection
+# block
+# ping (completeness of rules)
+#pass proto icmp
+pass in proto icmp from any to $int_ip
+pass out proto icmp from $int_ip to any
 # bad ip
 table <banned> persist file "/etc/mail/banned.list"
 block in from <banned>
