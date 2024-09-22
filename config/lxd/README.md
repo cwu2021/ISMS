@@ -1,5 +1,8 @@
 ## LXD to Proxmox | Proxmox Support Forum
-https://forum.proxmox.com/threads/lxd-to-proxmox.68501/ 
+https://forum.proxmox.com/threads/lxd-to-proxmox.68501/
+## nixCraft feed nixCraft » How to backup and restore LXD containers
+nixCraft → Howto → Backup & Recovery → How to backup and restore LXD containers
+Author: Vivek Gite Last updated: July 4, 2023
 ## Image server for Incus and LXC
 https://images.linuxcontainers.org
 ### docker and kvm in LXD
