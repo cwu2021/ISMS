@@ -26,7 +26,9 @@ dump -0u -f - /dev/sda1 | ssh root@remoteserver.example.com dd of=/tmp/sda1.dump
 /dev/null | ssh debug@someuser@example.org "cat - > backup_`date -I`.tar"
 
 # Restart services
-
+# serverfault/mysql-server-error-1042-hy000-cant-get-hostname
+# [mysqld]
+# skip-name-resolve
 /etc/init.d/mysql start
 /etc/init.d/apache2 start
 
