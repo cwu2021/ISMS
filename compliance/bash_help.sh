@@ -1,4 +1,6 @@
 #!/usr/bin/bash
+# Start bash session without history - Unix & Linux Stack Exchange
+# https://unix.stackexchange.com/questions/384997/start-bash-session-without-history
 # following GNU coding guideline.
 # https://opensource.com/article/19/12/help-bash-program
 ################################################################################
