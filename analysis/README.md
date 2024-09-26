@@ -62,6 +62,10 @@ There are two categories of random numbers — “true” random numbers and pse
 https://www.facebook.com/share/p/PDAUNep6fBzMm1eS/?mibextid=CTbP7E
  - 績效控跟工作狂的差異 | iThome
 https://www.ithome.com.tw/article/164056
+ - 為何三立CIO派新人輪當業務IT主動發現需求才能創真價值
+https://www.ithome.com.tw/people/89088 <br>
+https://etheses.lib.ntust.edu.tw/thesis/detail/2f0d68f01f9c2a79679474119a30ea3d/ <br>
+https://tw.news.yahoo.com/胡婉玲離開27年老東家-首發聲-離開不是我的選擇-內幕曝光-063200476.html
 ### Twitter,Gab,Gettr,Telegram,Mewe,Facebook,IG,TruthS
 ### 12種商務開發 (or 9 ways for Awareness) https://abusensei.com/business-development-strategy/  
 線上開發方法：
