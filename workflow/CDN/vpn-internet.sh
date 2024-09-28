@@ -21,3 +21,13 @@ iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
 # https://superuser.com/questions/1066321/openvpn-bad-lzo-decompression-header-byte-69
 openvpn --remote 10.56.100.53 --comp-lzo --dev tun --auth-user-pass --ca ca.crt --client
 # https://networklessons.com/uncategorized/openvpn-server-usernamepassword-authentication
+# Site-to-Site VPN | VPN Plus Server - Synology 知識中心
+# https://kb.synology.com/zh-tw/SRM/help/VPNPlusServer/vpnplus_server_site2site?version=1_3
+# 設定 VPN Server | VPN Server - Synology 知識中心
+# https://kb.synology.com/zh-tw/DSM/help/VPNCenter/vpn_setup?version=7
+# Synology VPN Server 架設超簡單！翻牆還是靠自己比較快囉～
+# https://ningselect.com/24378/24/
+# 埋坑: 修正 OpenVPN Client 的路由表. MIS 都哭惹，只好自己來 | by Lililala | Medium
+# https://lililala.medium.com/fix-openvpn-client-route-table-e2ab869cab35
+# Set up VPN Server | VPN Server - Synology Knowledge Center
+# https://kb.synology.com/en-af/DSM/help/VPNCenter/vpn_setup?version=783695130
