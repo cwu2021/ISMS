@@ -38,6 +38,9 @@ Windows Registry Editor Version 5.00
 ## Windows Sandbox - Windows security | Microsoft Learn
  - https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview <br>
  - https://youtu.be/uIjX4aOoeaQ
+## netlogon fail in Active Directory
+ - netlogon服務停止會導致NAS無法登入，先將異常dc停機，重啟原有dc群的AD及netlogon，可使用網域帳號正常登入。
+ - 含GC(global catalog)的DC的FSMO的角色位階較高, 應該先啟動再接著啟動其他DC...應該會比較正常!! 一般說來, FSMO 建議要先啟動, 且讓所有 DC 的第一個 DNS 都指向他 https://ithelp.ithome.com.tw/questions/10091369
 ## Netdom query Active Directory
  - netdom query /d:Northamerica DC
  - https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc835089(v=ws.11)
