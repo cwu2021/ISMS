@@ -1,3 +1,5 @@
+# Connecting to an L2TP-IPSec VPN on OpenBSD - findelabs
+# https://findelabs.com/post/connecting-to-openbsd-l2tp-ipsec-vpn/
 # https://askubuntu.com/questions/1167283/l2tp-connection-client-on-ubuntu-18-04-server
 sudo apt install network-manager
 sudo apt install network-manager-l2tp
