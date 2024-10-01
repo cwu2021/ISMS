@@ -3,6 +3,7 @@
 \# chkconfig iptables --list
 ## PPTP VPN Protocol in 2023  
 - https://www.cyberghostvpn.com/en_US/privacyhub/pptp-vpn/
+- Install a PPTP client in Ubuntu https://gist.github.com/toshas/d23ce954801563fb69e9a693819accf8
 ## Share A Folder Between Ubuntu/Linux and Windows
 https://www.debugpoint.com/guide-how-share-folder-between-ubuntu-linux-windows/ <br>
 https://askubuntu.com/questions/88108/samba-share-read-only-for-guests-read-write-for-authenticated-users <br>
