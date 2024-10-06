@@ -34,7 +34,8 @@ https://www.ibm.com/tw-en/topics/blockchain-ai
  - Mathematics Behind Neural Networks https://towardsdatascience.com/introduction-to-math-behind-neural-networks-e8b60dbbdeba
  - 為您的企業建立多語言的AI聊天機器人 https://mailchi.mp/6059e712b104/newsletter2023-591076?e=54ed525044
  - AIOps, lots of Ops...
-https://www.admin-magazine.com/Archive/2024/81/Artificial-admin 
+https://www.admin-magazine.com/Archive/2024/81/Artificial-admin
+ - Microsoft 365 Copilot可被濫用進行釣魚攻擊 | iThome https://www.ithome.com.tw/news/164426
 
 # CAD和EDA工程師基本須知
 關於CAD(Computer Aided Design)和EDA(Electronic Design Automation)工程師職缺，兩者可以說是一樣的東西。 主要是針對IC設計產業做輔助設計的程式開發，職缺相關科系為電機、電子、資工為主。 
