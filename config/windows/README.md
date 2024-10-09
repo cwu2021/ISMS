@@ -7,6 +7,8 @@ setting -> system -> remote desktop
  - Throttling Network File Transfer Speed on Windows https://woshub.com/limit-network-file-transfer-speed-windows/
 ## Fight Windows ransomware with on-board tools
 https://www.admin-magazine.com/Archive/2024/80/Fight-Windows-ransomware-with-on-board-tools
+## Crowdstrike incident
+https://www.twcert.org.tw/newepaper/cp-97-7954-27a6b-3.html
 # Windows 11 Security Features
 Application whitelisting can be implemented on Windows using AppLocker and Smart App Control in Windows 11.
 
