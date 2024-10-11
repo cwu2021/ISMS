@@ -12,3 +12,5 @@ REM or via scheduled tasks
 schtasks
 REM attributes - How can I add NTFS metadata to any file? - Stack Overflow
 REM https://stackoverflow.com/questions/63701814/how-can-i-add-ntfs-metadata-to-any-file
+REM Map a network drive in Windows - Microsoft Support
+REM https://support.microsoft.com/en-us/windows/map-a-network-drive-in-windows-29ce55d1-34e3-a7e2-4801-131475f9557d
