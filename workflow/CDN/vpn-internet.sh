@@ -31,3 +31,5 @@ openvpn --remote 10.56.100.53 --comp-lzo --dev tun --auth-user-pass --ca ca.crt 
 # https://lililala.medium.com/fix-openvpn-client-route-table-e2ab869cab35
 # Set up VPN Server | VPN Server - Synology Knowledge Center
 # https://kb.synology.com/en-af/DSM/help/VPNCenter/vpn_setup?version=783695130
+# ca expired-Synology Community
+# https://community.synology.com/enu/forum/1/post/145263
