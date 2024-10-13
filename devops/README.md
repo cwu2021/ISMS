@@ -35,6 +35,7 @@ https://www.ibm.com/tw-en/topics/blockchain-ai
  - 為您的企業建立多語言的AI聊天機器人 https://mailchi.mp/6059e712b104/newsletter2023-591076?e=54ed525044
  - AIOps, lots of Ops...
 https://www.admin-magazine.com/Archive/2024/81/Artificial-admin
+ - AIOps brings artificial intelligence tools into everyday administrative work https://www.admin-magazine.com/Archive/2024/81/Artificial-admin
  - Microsoft 365 Copilot可被濫用進行釣魚攻擊 | iThome https://www.ithome.com.tw/news/164426
 
 # CAD和EDA工程師基本須知
