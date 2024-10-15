@@ -6,6 +6,8 @@ fc00::/7 , 128bit vs 32bit each. Ended at fdff:ffff:ffff:ffff:ffff:ffff:ffff:fff
 """
 # https://en.m.wikipedia.org/wiki/IPv6_address 
 # http://www.gestioip.net/cgi-bin/subnet_calculator.cgi
+# subnetcalc — IPv4/IPv6 Subnet Calculator https://manpages.ubuntu.com/manpages/trusty/man8/subnetcalc.8.html
+# apt install subnetcalc ; subnetcalc 123.51.128.0/17
 
 """
 Script created by VND - Visual Network Description (SDN version)
