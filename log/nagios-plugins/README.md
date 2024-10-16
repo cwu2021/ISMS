@@ -32,10 +32,12 @@ https://github.com/OpenSMTPD/OpenSMTPD/wiki/Forwarding-mail-to-multiple-recipien
  /etc/opensmtpd/lists.table: <br>
  postmaster admins <br>
  admins kevin.flynn@encom.com, alan.bradley@encom.com <br>
- programs tron@grid.org, clue@grid.org <br>
+ programs tron@grid.org, clue@grid.org <br> 
  isos quorra@grid.org <br>
 ## How to send mail from the command line?
 <i>https://askubuntu.com/questions/12917/how-to-send-mail-from-the-command-line</i><br>
+### High Priority Mail using mailx - Stack Overflow
+<i> https://stackoverflow.com/questions/42830968/high-priority-mail-using-mailx </i> <br>
 sudo apt-get install mailutils <br>
 echo "test message" | mailx -s 'test subject' myemail@mydomain.com
  - sudo apt install mtr
