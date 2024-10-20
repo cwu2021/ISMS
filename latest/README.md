@@ -1,6 +1,7 @@
-# SRE: - Incident Response & Automation Control
+# SRE: Incident Response & Automation Control
  - Distributed Infrastructure
  - Legacy System management
+ - eg. P0 with SMS pager in 1-5min <- pingdom down then p1,p2,normal
 # 從ISO 27002新版草案變化看國際資安管理標準新走向
 https://www.ithome.com.tw/tech/147261 <br>
 https://www.ithome.com.tw/news/147193
