@@ -64,6 +64,7 @@ https://www.tomshardware.com/how-to/fix-irql-not-less-or-equal-errors-windows <b
 ## WMIC is deprecated, but WMI still works with powershell.
  - https://stackoverflow.com/questions/57121875/what-can-i-do-about-wmic-is-deprecated
  - https://learn.microsoft.com/en-us/windows/deployment/planning/windows-10-deprecated-features
+ - quick key: Alt-F4 to close an active window on Windows
 ## VM restoration related!! maybe failed or something similar.
  - 此工作站和主要網域間的信任關係失敗
 https://ithelp.ithome.com.tw/articles/10259756
