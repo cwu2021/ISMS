@@ -24,6 +24,9 @@ In the program dir of Filezilla, is there a folder called 'resources'? You don't
  - autossh -M 20000 -N -i /home/rspi/.ssh/id_rsa ksproxy@37.xxx.yyy.zzz
  - ssh rspi@localhost -p 20000
  - building old SSH may require older SSL library.
+### Reverse tunnel with ssh -fNR
+ - https://fred-zone.blogspot.com/2010/08/reverse-ssh-tunnel.html
+ - https://manpages.ubuntu.com/manpages/mantic/man1/autossh.1.html
 
 ## Thin client solution based on OpenBSD
 http://undeadly.org/cgi?action=article;sid=20121026064602
