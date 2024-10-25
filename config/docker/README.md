@@ -1,5 +1,6 @@
 # Docker on Windows host
  - The Azure hypervisor system is based on Windows Hyper-V https://learn.microsoft.com/en-us/azure/security/fundamentals/hypervisor
+ - Update on retirement of TLS 1.0 and TLS 1.1 versions for Azure Services. To avoid potential service disruptions, confirm that your resources that interact with Azure services are using TLS 1.2 or later.
  - with WSL: emulation on Hyper-V (WSL2). https://wiki.ubuntu.com/WSL
  - https://docs.docker.com/desktop/install/windows-install/
 # CentOS or RHEL clone alternative.
