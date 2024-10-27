@@ -10,6 +10,7 @@ $ ffmpeg -re -format_code Hi59 -f decklink -i 'DeckLink Studio 4K' -map 0 -flags
  - https://trac.ffmpeg.org/wiki/Encode/VFX
  - https://www.lighterra.com/papers/videoencodingh264/
  - HLS "Error when loading first segment" https://github.com/ytdl-org/youtube-dl/issues/28175
+ - input不穩定會直接讓encoder當掉，output不穩定則可loop到網路恢復正常，能自動恢復。encoder當掉是可以被自動偵測的。
 ## Apple Prores
 https://www.apple.com/tw/final-cut-pro/docs/Apple_ProRes_White_Paper.pdf
 ## Disable Chrome's page translation on the commandline
