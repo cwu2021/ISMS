@@ -1,5 +1,7 @@
 #!/bin/bash
 # pftop filter with iftop
+# pftop: DIOCGETSTATUS: Permission denied
+# pkg_add -r pftop
 iftop -F 1.1.1.1/255.255.255.255
 # Visualize netflow with Skydive
 # https://www.linux-magazine.com/Issues/2022/255/Skydive
