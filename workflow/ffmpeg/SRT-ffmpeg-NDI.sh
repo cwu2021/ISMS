@@ -22,6 +22,7 @@ sudo ln -s /usr/local/lib/libsrt.so.1.5 /usr/lib
 
 ffmpeg -f lavfi -re -i smptebars=duration=60:size=1280x720:rate=30 -f lavfi -re -i sine=frequency=1000:duration=60:sample_rate=44100 -pix_fmt yuv420p -c:v libx264 -b:v 1000k -g 30 -keyint_min 120 -profile:v baseline -preset veryfast -f mpegts "srt://127.0.0.1:4200?mode=listener"
 ffmpeg -re -i intro_201605.3M.mp4 -pix_fmt yuv420p -c:v libx264 -b:v 1000k -g 30 -keyint_min 120 -profile:v baseline -preset veryfast -f mpegts "srt://127.0.0.1:4200?mode=listener"
+# Caller example. SRT: No room error : use ffmpeg -re
 ffmpeg -y -t 00:00:10 -i srt://127.0.0.1:4200 -c:v copy -c:a copy test.mp4
 
 # transmission via udp/tcp pass out nat-to for port mapping is required.
@@ -32,7 +33,7 @@ nc  -u <dest> 10001 < /dev/random
 ./configure --enable-nonfree --enable-libndi_newtek --extra-cflags="-I/usr/include/ndi/" --extra-ldflags="-L/usr/include/ndi/" --enable-libx264 --enable-gpl
 
 # SRT Rx: To setup an SRT Receiver with ffmpeg that outputs the incoming stream over a multicast network you start ffmpeg with this command.
-
+# SRT: No room error : because ffmpeg -re
 ./ffmpeg -re -i srt://0.0.0.0:9998?pkt_size=1316&mode=listener -vcodec copy -acodec copy -strict -2 -y -f mpegts udp://239.0.0.2:1234?pkt_size=1316
 
 # https://github.com/Haivision/srt/blob/master/docs/srt-live-transmit.md
