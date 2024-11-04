@@ -22,3 +22,5 @@
 * [ ] Comments (TBD)
 
 # Do
+ - Developer Summit recap, RRM 3.1, Roku OS 14.0 released, Fall 24 cert update, and more!
+ - All public channels will be certified against these updated criteria effective immediately — this applies both to new channels and updates to existing channels. Channels currently published in the Roku Channel Store will not be re-certified against these criteria until the next time a channel update is submitted through the Developer Dashboard.
