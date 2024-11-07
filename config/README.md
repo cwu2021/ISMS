@@ -59,8 +59,10 @@ $350-390 --> or $600!
 ### refrigerator checks
 如果有冰箱型號，可以查查集水盤在哪
 ### 資訊設備的耗電量與費用 » 科一電腦
-6-9A *110V
-https://cck.tw/electricity-used-by-network-equipment 
+ - 6-9A *110V
+https://cck.tw/electricity-used-by-network-equipment
+ - SUNBOX 慧光 PDU 8孔15安培機架電源排插 - PChome 24h購物
+https://24h.pchome.com.tw/prod/DCAX8I-A9006FTHK
 ### cable STB debugging
  - Set top box indicators
 yellow lights of PWR (power?), DS (down streaming?), US (up streaming?), ONLINE
