@@ -7,3 +7,5 @@ zfs set quota=500G web/myassets
 
 # LXD Dir vs ZFS or BTRFS Performance
 # https://discuss.linuxcontainers.org/t/lxd-dir-vs-zfs-or-btrfs-instance-performance/13328/1
+# Filesystems — openmediavault 7.x.y documentation
+# https://docs.openmediavault.org/en/latest/administration/storage/filesystems.html
