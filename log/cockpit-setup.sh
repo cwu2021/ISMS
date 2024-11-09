@@ -12,3 +12,5 @@ EOF
 systemctl start rc-local
 # net availability 
 systemctl disable cockpit.socket
+# sysstat » ADMIN Magazine
+# https://www.admin-magazine.com/Archive/2024/81/Admin-as-a-service-with-sysstat-for-ex-post-monitoring
