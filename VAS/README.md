@@ -21,6 +21,7 @@ $ nmap -v -PN -p 548 192.168.* | grep -B 4 open
 <i> https://github.com/wpscanteam/wpscan </i>
  - apt install ruby rubygems ruby2.5-dev
  - gem install wpscan
+ - Identifying Traffic from Shell Finder Bots http://wpscan.com/blog/identifying-traffic-from-shell-finder-bots/
 ### Passive Asset Detection System
  - tcpdump -lenx -i fxp0 -s 1500 port bootps or port bootpc | dhcpdump
  - pads -i em3 -n 10.0.0.0/8
