@@ -18,3 +18,6 @@ REM Finding and reading alternate data streams (ADS) with PowerShell on an NTFS 
 REM How do I read Windows NTFS's Alternate Data Stream using Java's IO? - Stack Overflow https://stackoverflow.com/questions/33085253/how-do-i-read-windows-ntfss-alternate-data-stream-using-javas-io
 REM Map a network drive in Windows - Microsoft Support
 REM https://support.microsoft.com/en-us/windows/map-a-network-drive-in-windows-29ce55d1-34e3-a7e2-4801-131475f9557d
+net use s: \\tower\movies /user:HTG CrazyFourHorseMen
+REM https://www.howtogeek.com/118452/how-to-map-network-drives-from-the-command-prompt-in-windows/
+REM (SMB1 for older host may need to be enabled in Windows feature)
