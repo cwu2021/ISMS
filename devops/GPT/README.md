@@ -19,6 +19,7 @@ https://replicate.com/prompthero/openjourney
 https://vocus.cc/article/62b2b69efd89780001117a7a
 ## AI 影像辨識教學 ( Python ) | STEAM 教育學習網
 https://steam.oxxostudio.tw/category/python/ai/ai-index.html
+ - Midjourney不需Discord帳號的Web版上線供免費試用 https://www.ithome.com.tw/news/164639
 ### Why We Created Julia
 https://julialang.org/blog/2012/02/why-we-created-julia/
 ## 令人腦殘的程式語言 | iThome
