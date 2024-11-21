@@ -17,6 +17,7 @@ opkg install dmidecode
 opkg install python3-pyserial
 # install package manager on asus router - Unix & Linux Stack Exchange
 # https://unix.stackexchange.com/questions/219605/install-package-manager-on-asus-router
+# [OpenWrt Wiki] Write shell scripts in OpenWrt https://openwrt.org/docs/guide-developer/write-shell-script
 # https://stackoverflow.com/questions/947897/block-comments-in-a-shell-script
 : <<'END'
 Cisco SF300-48 replaced with EOS(72)
