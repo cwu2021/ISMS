@@ -7,6 +7,7 @@ Modifications to software packages shall be discouraged, limited to necessary ch
 https://learn.microsoft.com/en-us/troubleshoot/windows-client/deployment/download-updates-drivers-hotfixes-windows-update-catalog
 ### 2023 年 9 月 26 日 KB5030649 Windows 10 版本 22H2 .NET Framework 3.5 和 4.8.1 的累積更新
 https://support.microsoft.com/zh-tw/topic/2023-年-9-月-26-日kb5030649-windows-10-版本-22h2-的-net-framework-3-5-和-4-8-1-累積更新預覽-5b4ecdd8-f632-47ca-b313-41993bec91de
+### .NET 9, the successor to .NET 8, has a special focus on cloud-native apps and performance. .NET is the free, open-source, cross-platform framework for building modern apps and powerful cloud services. https://dotnet.microsoft.com/en-us/?utm_medium=email&utm_source=IaaN&utm_campaign=11212024&mkt_tok=MTEzLURUTi0yNjYAAAGW70zFUmpsZQHWtpXMpUA73vLNPWhezSkf9eKHaoPcZ760QogEZM-kly_ODDdz3h44EPZuLj4bIuUnWruUpupCskTDnHVk4UsqAc41V8XguR0
 ## Beware of "Software Transformed" vendors and "New Features" updates. 
 ### Verify updates carefully and apply after one week observation.
 - 7.0.1-42218 Update 1 01-12 recalled.
