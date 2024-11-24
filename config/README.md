@@ -63,6 +63,8 @@ $350-390 --> or $600!
 https://cck.tw/electricity-used-by-network-equipment
  - SUNBOX 慧光 PDU 8孔15安培機架電源排插 - PChome 24h購物
 https://24h.pchome.com.tw/prod/DCAX8I-A9006FTHK
+ - Going Green » Linux Magazine
+http://www.linux-magazine.com/Issues/2023/270/Green-Coding-Initiatives
 ### cable STB debugging
  - Set top box indicators
 yellow lights of PWR (power?), DS (down streaming?), US (up streaming?), ONLINE
