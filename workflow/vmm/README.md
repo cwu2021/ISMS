@@ -31,7 +31,8 @@ running into a problem from some old binary or cached build somewhere.
  - NFC hack: 臺大電機教授示範無線竄改悠遊卡金額 https://www.ithome.com.tw/news/63075
  - NFC 是什麼？與 RFID 有什麼差異？https://chci.com.tw/differences-between-nfc-and-rfid/
  - The New Nintendo Game & Watch: STM32H7B0 32-bit Cortex-M7 (ARM arch) from STMicroelectronics
-https://www.hackster.io/news/the-new-nintendo-game-watch-is-certainly-some-hardware-we-ll-be-keeping-a-watchful-eye-on-2acf719ac8c1 
+https://www.hackster.io/news/the-new-nintendo-game-watch-is-certainly-some-hardware-we-ll-be-keeping-a-watchful-eye-on-2acf719ac8c1
+ - JSlinux runs OS in a browser
 
 ### neofetch distros
  - ./neofetch --ascii_distro IRIX
