@@ -33,6 +33,7 @@ running into a problem from some old binary or cached build somewhere.
  - The New Nintendo Game & Watch: STM32H7B0 32-bit Cortex-M7 (ARM arch) from STMicroelectronics
 https://www.hackster.io/news/the-new-nintendo-game-watch-is-certainly-some-hardware-we-ll-be-keeping-a-watchful-eye-on-2acf719ac8c1
  - JSlinux runs OS in a browser
+ - ARM based Raspbian vs Raspberry Pi OS: legacy.raspbian.org
 
 ### neofetch distros
  - ./neofetch --ascii_distro IRIX
