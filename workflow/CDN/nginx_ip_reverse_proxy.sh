@@ -21,6 +21,8 @@ cf_ips
 #sudo systemctl reload nginx
 # Then, you can include the generated /etc/nginx/cloudflare-ips.conf file in your virtual domain configuration file where required:
 # include /etc/nginx/cloudflare-ips.conf;
+# Restricting Access to Proxied TCP Resources | NGINX Documentation
+# https://docs.nginx.com/nginx/admin-guide/security-controls/controlling-access-proxied-tcp
 
 # Wipe out all existing rules
 #  /sbin/iptables -t nat -F
