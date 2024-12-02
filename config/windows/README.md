@@ -54,6 +54,8 @@ Windows Registry Editor Version 5.00
 ## Microsoft shares mitigation for Windows KrbRelayUp LPE attacks
  - https://www.bleepingcomputer.com/news/security/microsoft-shares-mitigation-for-windows-krbrelayup-lpe-attacks/
  - https://www.ithome.com.tw/news/151458
+# What are reasons for access violation?
+https://community.intel.com/t5/Intel-Fortran-Compiler/What-are-reasons-for-access-violation/td-p/1129811
 # HxTsr.exe error
  - Hidden Executable To Sync Remote Servers for Outlook  https://www.minitool.com/news/hxtsr-exe.html
 #  BSOD REGISTRY_ERROR 
