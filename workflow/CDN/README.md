@@ -12,6 +12,8 @@
 Live World Map of Satellite Positions https://in-the-sky.org/satmap_worldmap.php
 
 GNSR 獵風者衛星 https://www.tasa.org.tw/inprogress.php?c=20012001
+ - 中華電信將引進SES中軌衛星服務來臺，最快明年第一季推出商用服務 | iThome
+https://www.ithome.com.tw/news/164610 
 
 ## 中共反衛星雷射武器發展 - 國防安全研究院
  - https://indsr.org.tw/respublicationcon?uid=12&resid=696&pid=2442
