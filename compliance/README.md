@@ -106,6 +106,10 @@ https://rueylin0119.pixnet.net/blog/post/301637945-%e9%ab%98%e4%b8%ad%e5%9c%8b%e
  - 回顧「拔管案」3教長走人 https://tw.news.yahoo.com/回顧-拔管案-3教長走人-管中閔嘆飽受摧殘-正義不死-053930128.html
  - 台大校長遴選案 https://www.thenewslens.com/article/94567
  - 112學年大學新生不到20萬人 113學年大學生人數跌破90萬 https://tw.news.yahoo.com/112%E5%AD%B8%E5%B9%B4%E5%A4%A7%E5%AD%B8%E6%96%B0%E7%94%9F%E4%B8%8D%E5%88%B020%E8%90%AC%E4%BA%BA-113%E5%AD%B8%E5%B9%B4%E5%A4%A7%E5%AD%B8%E7%94%9F%E4%BA%BA%E6%95%B8%E8%B7%8C%E7%A0%B490%E8%90%AC-040235356.html
+ - 高效管理者如何委派工作 | iThome
+https://www.ithome.com.tw/article/164197
+ - 張忠謀「總經理的學習」：輕視Sales和Marketing，公司根本活不了！｜天下雜誌
+https://www.cw.com.tw/article/5097104
 
 ### 納粹德國拼經濟背後的省思
 https://global.udn.com/global_vision/story/8663/2209040
