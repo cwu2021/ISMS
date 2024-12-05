@@ -21,6 +21,7 @@ https://www.apple.com/tw/final-cut-pro/docs/Apple_ProRes_White_Paper.pdf
 <br> https://superuser.com/questions/1237561/disable-chromes-page-translation-on-the-commandline
 ## Building a video converter with Rails 6 and FFmpeg
 https://dev.to/davidcolbyatx/building-a-video-converter-with-rails-6-and-ffmpeg-5e88
+ - Transcode your video library with ease https://www.linux-magazine.com/Issues/2024/288/Transcoding-with-CasaOS
 ## Simple yet powerful wrapper around the ffmpeg 
 https://github.com/streamio/streamio-ffmpeg
 # NDI and ffmpeg streaming commands
