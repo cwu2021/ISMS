@@ -34,6 +34,7 @@ running into a problem from some old binary or cached build somewhere.
 https://www.hackster.io/news/the-new-nintendo-game-watch-is-certainly-some-hardware-we-ll-be-keeping-a-watchful-eye-on-2acf719ac8c1
  - JSlinux runs OS in a browser
  - ARM based Raspbian vs Raspberry Pi OS: legacy.raspbian.org
+ - RealVNC is available with raspi-config on Pi
 
 ### neofetch distros
  - ./neofetch --ascii_distro IRIX
