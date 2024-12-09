@@ -1,4 +1,5 @@
 # Zero Trust Model
+- Zero trust planning and implementation https://www.admin-magazine.com/Archive/2024/83/Zero-trust-planning-and-implementation
 ## ACL can help achieve its 'less priviledge' policy.
 \# chkconfig iptables --list
 ## PPTP VPN Protocol in 2023  
