@@ -10,3 +10,5 @@ youtube-dl https://www.twitch.tv/videos/1297909154
 # https://github.com/yt-dlp/yt-dlp
 sudo pip3 install yt-dlp
 yt-dlp https://youtu.be/FevWtQlOoPI
+# audio only download with yt-dlp
+yt-dlp -f bestaudio -x --audio-format mp3 --audio=quality 0 "URL"
