@@ -35,7 +35,7 @@ https://www.hackster.io/news/the-new-nintendo-game-watch-is-certainly-some-hardw
  - JSlinux runs OS in a browser
  - ARM based Raspbian vs Raspberry Pi OS: legacy.raspbian.org
  - RealVNC is available with raspi-config on Pi
-
+ - Build your own webcam with a Pi Zero 2W and a Cam Module 3 https://www.linux-magazine.com/Issues/2025/290/Pi-Zero-Based-Weather-Cam
 ### neofetch distros
  - ./neofetch --ascii_distro IRIX
  - ./neofetch --ascii_distro android
