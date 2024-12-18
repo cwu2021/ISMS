@@ -11,6 +11,7 @@ https://www.synology.com/zh-tw/releaseNote/DSM
  - Starting from DSM 7.2, SMB Service supports Auto Block, which only blocks public IP addresses. https://kb.synology.com/en-id/DSM/tutorial/Why_IP_address_blocked_by_smb_service
  - Control Panel > Resource Monitor: Kill Connections
  - Control Panel > Security > Security for DSM browsing sessions: Logout timer
+ - MDaemon > Security > Dynamic Screening > Ban Senders that connect more than..
 ## Review storage use across your organization
  - https://support.google.com/a/answer/12002268?hl=en
  - In the Admin console, go to (left side) Menu and then Storage. Google Workspace for Nonprofits: 100 TB for all End Users.
