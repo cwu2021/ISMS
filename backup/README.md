@@ -12,6 +12,7 @@ https://www.synology.com/zh-tw/releaseNote/DSM
  - Control Panel > Resource Monitor: Kill Connections
  - Control Panel > Security > Security for DSM browsing sessions: Logout timer
  - MDaemon > Security > Dynamic Screening > Ban Senders that connect more than..
+ - MDaemon\app\Forward.dat can be set ro to lock https://help.mdaemon.com/mdaemon/en/ae_forwarding.html
 ## Review storage use across your organization
  - https://support.google.com/a/answer/12002268?hl=en
  - In the Admin console, go to (left side) Menu and then Storage. Google Workspace for Nonprofits: 100 TB for all End Users.
