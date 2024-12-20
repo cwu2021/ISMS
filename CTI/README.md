@@ -24,6 +24,7 @@ https://www.ithome.com.tw/news/148583
 https://youtu.be/QidAal-Olq8
 ### The Mystery of ‘Jia Tan,’ the XZ Backdoor Mastermind | WIRED
 https://www.wired.com/story/jia-tan-xz-backdoor/
+### Anatomy of a Linux backdoor attack https://www.linux-magazine.com/Issues/2024/289/Linodas
 ## Cybersecurity Framework 
 ### Threat modeling - O'Reilly
 ### 透過NIST網路安全框架實現SaaS管理策略
