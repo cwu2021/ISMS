@@ -10,6 +10,8 @@ https://youtube.com/watch?v=u-E8emCBGXI&feature=share
 - switchctl(8): control application for switchd(8)
 ## Set OpenFlow flows based on Proxmox VM configuration.
 https://github.com/crisvp/pve-to-ofctl
+## QEMU/KVM Virtual Machines: Firewall
+https://pve.proxmox.com/pve-docs/chapter-qm.html
 # Remote Access
 ## TeamViewer QS for acess to fix Filezilla 'not find resource'.
 https://forum.filezilla-project.org/viewtopic.php?t=6234 <br>
