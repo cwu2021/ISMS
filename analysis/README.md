@@ -49,6 +49,9 @@ There are two categories of random numbers — “true” random numbers and pse
  - https://www.managertoday.com.tw/glossary/view/15?
  - SWOT分析及TOWS分析 https://biz-marketing.info/swot-analysis/
  - UPSTREAM: the quest to solve problems before they happen (Dan Heath, 2021)
+## 台積電SOP
+ - TSMC working schedule: 6:10/30->7:35(Meet Prep)->10AM(Production Meet)->10:40(After Meet) ->12PM(lunch)->1PM(Project Meet)->4PM(Tea/Email:200+) ->17:30(Production Meet)->6/10PM.
+ - TSMC teaming: ARCIS (Accountable, Responsible, Consult, Informed, Support)
 ## 五個常見的用戶增長框架：AARRR、RARRA、Growth Loops、HEART、AIDA 
  - https://medium.com/3pm-lab/growth-101-introduction-to-5-popular-growth-frameworks-aarrr-rarra-growthloops-heart-aida-13296ba7dcbc
  - Revenue Retention is the Key to Scalable Growth in 2023 | CustomerThink
