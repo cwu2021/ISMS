@@ -37,6 +37,8 @@ https://www.ibm.com/tw-en/topics/blockchain-ai
 https://www.admin-magazine.com/Archive/2024/81/Artificial-admin
  - AIOps brings artificial intelligence tools into everyday administrative work https://www.admin-magazine.com/Archive/2024/81/Artificial-admin
  - Microsoft 365 Copilot可被濫用進行釣魚攻擊 | iThome https://www.ithome.com.tw/news/164426
+ - infrastructure as code with Spacelift
+Universal Tool https://www.admin-magazine.com/Archive/2024/82/Managing-infrastructure-as-code-with-Spacelift
 
 # CAD和EDA工程師基本須知
 關於CAD(Computer Aided Design)和EDA(Electronic Design Automation)工程師職缺，兩者可以說是一樣的東西。 主要是針對IC設計產業做輔助設計的程式開發，職缺相關科系為電機、電子、資工為主。 
