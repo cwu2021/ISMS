@@ -30,6 +30,7 @@ https://www.linux-magazine.com/Issues/2024/289/Linodas
 ### Threat modeling - O'Reilly
 ### 透過NIST網路安全框架實現SaaS管理策略
 https://www.twcert.org.tw/newepaper/cp-64-7705-76efa-3.html
+ - TWCERT2024: B2B,B2C,VPN + EDR/MDR
 ### 謀定而後動，善用資安框架是上上策 | iThome
 https://ithome.com.tw/article/163232
 ### CYBERSEC 2024 臺灣資安大會
