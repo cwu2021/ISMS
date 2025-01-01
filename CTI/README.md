@@ -9,6 +9,8 @@ https://www.nics.nat.gov.tw/Vulnerability-1.htm
 ### AlienVault - Open Threat Exchange
 https://otx.alienvault.com/ <br>
 OSSIM OTX as CTI.
+### 2023年最常被利用的漏洞
+https://www.twcert.org.tw/newepaper/cp-64-8319-2129a-3.html
 ### OpenSSH 9.8 fixes for two security problems, including race condition in sshd(8).
 https://www.openssh.com/
 #### [openssh-unix-announce] Announce: OpenSSH 9.9 released
