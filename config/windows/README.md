@@ -1,6 +1,11 @@
 # Windows 11 release information ( 22H2 ~)
 https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information <br>
 https://blogs.windows.com/windows-insider/2023/10/04/announcing-windows-11-insider-preview-build-23560-dev-channel/
+## USB boot
+ - make a bootable USB via official Media Creator.
+ - put .reg in a folder for unsupported hardware of Windows 11.
+ - Shift-F10 for cmd to run .reg after bootup. OOBE\BYPASSNRO if no Internet.
+ - GUI rescue options or chkdsk, wmic are available. Installer with format can detect some more disk failure.
 ## Remote Desktop access
 setting -> system -> remote desktop
  - power plan set to high to prevent sleep
