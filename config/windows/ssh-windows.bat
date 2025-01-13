@@ -14,6 +14,10 @@ REM Windows+R to run, +S to search.
 PowerShell
 Add-WindowsCapability -Online -Name OpenSSH.Server~~~~0.0.1.0
 Start-Service sshd
+REM https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=gui&pivots=windows-server-2025
+REM To uninstall OpenSSH using Windows Settings:
+REM Open Settings, select System, then select Optional Features (also referred to as Manage optional features).
+REM In the list, select OpenSSH Client or OpenSSH Server. Select Uninstall.
 REM  Internet connection required to fetch Windows Update. (Error 0x8024402c)
 REM https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse
 REM Cygwin also works on win10. 'binmode ntsec' for service value. finally mkpasswd for mapping local account. (Sep 21, 2021)
