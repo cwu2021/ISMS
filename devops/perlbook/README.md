@@ -52,3 +52,4 @@ https://manpages.ubuntu.com/manpages/impish/man3/Unix::Syslog.3pm.html
  - julia https://insights.stackoverflow.com/trends?tags=perl%2Cjulia
  - ShellCheck- debug your shell scripts 
  <br> https://linuxconfig.org/how-to-improve-and-debug-your-shell-scripts-with-shellcheck
+ - Rust, a potential successor to C/C++, claims to solve some memory safety issues while maintaining high performance. https://www.linux-magazine.com/Issues/2024/289/Embedded-Rust
