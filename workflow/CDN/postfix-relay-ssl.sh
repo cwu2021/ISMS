@@ -38,3 +38,15 @@ mail {
     }
 }
 EOF
+# Thunderbird setup for older TLS support:
+# https://support.mozilla.org/en-US/questions/1295861
+# https://stackoverflow.com/questions/947897/block-comments-in-a-shell-script
+: <<'END'
+Try to change in THUNDERBIRD preferences editor security.tls.version.min from 3 to 1
+From the menu at the top right, go to Options.
+Scroll all the way to the bottom and click on Config Editor.
+Skip past the warning.
+Scroll down until you find security.tls.version.min (or paste security.tls.version.min to upper frame)
+Double click on it, and set the value to 1
+(and also disable autoupdate)
+END
