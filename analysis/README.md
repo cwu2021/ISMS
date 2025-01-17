@@ -42,6 +42,7 @@ There are two categories of random numbers — “true” random numbers and pse
  - podman pull quay.io/aicoe/prometheus-anomaly-detector:latest
  - via ruby https://github.com/arbox/data-science-with-ruby
  - wtfutil/wtf: The personal information dashboard for your terminal https://github.com/wtfutil/wtf
+ - Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. https://ghostty.org/
  - reload TMUX ~/.tmux.conf https://superuser.com/questions/580992/how-do-i-reload-tmux-configuration
  - Popular FB page reach may decrease from 50w->10w->?w from 2020.
 ## SWOT analysis: Strengths, Weaknesses, Opportunities, Threats
