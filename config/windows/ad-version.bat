@@ -13,3 +13,4 @@ REM 智慧卡疑難排解 https://docs.microsoft.com/zh-tw/windows/security/iden
 REM 有關2003及2008 ad server上KDC的錯誤訊息? https://ithelp.ithome.com.tw/questions/10153686
 REM active directory - ADExplorer search with displayName
 REM https://serverfault.com/questions/451439/adexplorer-how-to-search-with-distinguishedname-contains-condition
+REM Optimizing domain controller security https://www.admin-magazine.com/Archive/2024/83/Optimizing-domain-controller-security
