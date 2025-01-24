@@ -46,3 +46,5 @@ strace and firejail http://www.linux-magazine.com/Issues/2024/281/strace-and-Fir
 trid, exiftool and xlmdeobfuscator https://www.linux-magazine.com/Issues/2024/280/Malware-Analysis
 ### Learn about phishing attacks with HiddenEye
 https://www.linux-magazine.com/Issues/2024/280/Phishing-with-HiddenEye
+## Tools for Enumerating Resources
+https://www.linux-magazine.com/Issues/2025/290/Enumerating-Resources
