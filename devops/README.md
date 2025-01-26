@@ -37,6 +37,8 @@ https://www.ibm.com/tw-en/topics/blockchain-ai
 https://www.admin-magazine.com/Archive/2024/81/Artificial-admin
  - AIOps brings artificial intelligence tools into everyday administrative work https://www.admin-magazine.com/Archive/2024/81/Artificial-admin
  - Microsoft 365 Copilot可被濫用進行釣魚攻擊 | iThome https://www.ithome.com.tw/news/164426
+ - free access to GitHub Copilot
+free use of GitHub Copilot in VS Code and on GitHub, powered by your choice of AI models from OpenAI and Anthropic. 2,000 code suggestions a month. 50 Copilot Chat messages a month.
  - infrastructure as code with Spacelift
 Universal Tool https://www.admin-magazine.com/Archive/2024/82/Managing-infrastructure-as-code-with-Spacelift
 
