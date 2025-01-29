@@ -27,3 +27,4 @@ https://askubuntu.com/questions/88108/samba-share-read-only-for-guests-read-writ
 ## using ACLs to assign specific permissions
  - https://www.redhat.com/sysadmin/access-control-lists
  - setfacl --modify user1:rw sample
+ - KISS – Adding a New User https://www.admin-magazine.com/HPC/Articles/KISS-Adding-a-New-User
