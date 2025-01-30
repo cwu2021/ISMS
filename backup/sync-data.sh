@@ -1,7 +1,7 @@
 #!/bin/bash
 # 3-2-1 Backup plan with Fedora ARM server
 # https://fedoramagazine.org/3-2-1-backup-plan-with-fedora-arm-server/
-
+# Integrate remote cloud storage https://www.admin-magazine.com/Archive/2024/83/Integrate-remote-cloud-storage
 LANG=en_US
 
 do
