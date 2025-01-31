@@ -41,6 +41,7 @@ https://www.admin-magazine.com/Archive/2024/81/Artificial-admin
 free use of GitHub Copilot in VS Code and on GitHub, powered by your choice of AI models from OpenAI and Anthropic. 2,000 code suggestions a month. 50 Copilot Chat messages a month.
  - infrastructure as code with Spacelift
 Universal Tool https://www.admin-magazine.com/Archive/2024/82/Managing-infrastructure-as-code-with-Spacelift
+ - PerlGPT at Geolytica https://www.perl.com/geolytica-powered-by-perl/
 
 # CAD和EDA工程師基本須知
 關於CAD(Computer Aided Design)和EDA(Electronic Design Automation)工程師職缺，兩者可以說是一樣的東西。 主要是針對IC設計產業做輔助設計的程式開發，職缺相關科系為電機、電子、資工為主。 
