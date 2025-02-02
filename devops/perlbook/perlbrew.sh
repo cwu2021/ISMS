@@ -2,6 +2,7 @@ wget https://install.perlbrew.pl -O install.perlbrew.pl
 file install.perlbrew.pl
 bash install.perlbrew.pl
 perl -v
+sudo apt install libmetacpan-client-perl
 source perl5/perlbrew/etc/bashrc
 perlbrew help
 perlbrew available
