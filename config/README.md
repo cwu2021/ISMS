@@ -79,6 +79,7 @@ yellow lights of PWR (power?), DS (down streaming?), US (up streaming?), ONLINE
 ### PC Randomly Waking Up From Sleep
 https://www.pcmag.com/how-to/stop-your-computer-from-randomly-waking-up-from-sleep-mode <br>
  - power surge / voltage spike
- - network activity 
+ - network activity
+ - 抬起喚醒/距離感應器 https://www.jyes.com.tw/news.php?act=view&id=4286
 #### Backgrounded IOS app wakeup by Push notification and exchange data
 https://forums.developer.apple.com/forums/thread/690942
