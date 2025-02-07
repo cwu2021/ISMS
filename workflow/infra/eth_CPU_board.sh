@@ -10,3 +10,4 @@ sudo ethtool eth0
 # https://unix.stackexchange.com/questions/121523/check-if-interface-eth0-is-up-configured
 dmidecode -s system-product-name
 # to get mainboard name.
+# IO500 is a less well known but very useful HPC benchmark https://www.admin-magazine.com/HPC/Articles/IO500
