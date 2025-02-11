@@ -7,3 +7,11 @@ zgrep sshd /var/log/system.log.0.gz
 # time stamps of dmesg in human readable format
 # https://www.linuxquestions.org/questions/linux-newbie-8/the-numbers-in-dmesg-4175425742/
 dmesg -T
+FOLDER=/var/log
+ls $FOLDER | while read LINE
+do
+echo ${LINE}: | sed -e 's/\(.*.*\)/\o033[1;36m\1\o033[39m/'
+cat $FOLDER/$LINE | sed -e 's/\(.*sock.*\)/\o033[1;36m\1\o033[39m/'
+#cat $FOLDER/$LINE 
+done
+
