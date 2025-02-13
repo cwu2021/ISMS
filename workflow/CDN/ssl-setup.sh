@@ -19,3 +19,10 @@ url=gnupg.org
 echo | openssl s_client -servername ${url} -connect ${url}:443 | openssl x509 -noout -dates
 # nginx - Is it necessary to regenerate the 'dhparam.pem' file 
 # https://stackoverflow.com/questions/74561514/is-it-necessary-to-regenerate-the-dhparam-pem-file-every-time-i-renew-my-certi
+# https://stackoverflow.com/questions/947897/block-comments-in-a-shell-script
+: <<'SSLOFF'
+Cloudflare by default runs "Flexible" for SSL:
+SSL/TLS > Overview,  > SSL/TLS encryption mode 
+It can be set to "Off" which is not recommended.  
+https://developers.cloudflare.com/ssl/edge-certificates/additional-options/always-use-https/
+SSLOFF
