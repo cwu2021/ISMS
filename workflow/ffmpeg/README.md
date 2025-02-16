@@ -66,6 +66,7 @@ C:\\> ffmpeg.exe -f libndi_newtek -i "NC1IO-RCTV (IN 4)" -vf yadif -c:v libx264 
 
 # HLS loader plugin for download
  - https://www.hlsloader.com/
+ - RTSP vs. Alternative Ingest Formats https://www.wowza.com/blog/rtsp-the-real-time-streaming-protocol-explained
 
 # Plex Media Server data directory
 /var/lib/plexmediaserver/Library/Application Support/Plex Media Server/
