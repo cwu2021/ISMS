@@ -26,3 +26,4 @@ SSL/TLS > Overview,  > SSL/TLS encryption mode
 It can be set to "Off" which is not recommended.  
 https://developers.cloudflare.com/ssl/edge-certificates/additional-options/always-use-https/
 SSLOFF
+# Lets Encrypt: Ending Expiration Notification https://letsencrypt.org/2025/01/22/Ending-Expiration-Emails
