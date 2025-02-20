@@ -11,6 +11,8 @@ https://otx.alienvault.com/ <br>
 OSSIM OTX as CTI.
 ### 2023年最常被利用的漏洞
 https://www.twcert.org.tw/newepaper/cp-64-8319-2129a-3.html
+### CVE-2025-26466 - sshd(8) in OpenSSH versions 9.5p1 to 9.9p1 
+vulnerable to a memory/CPU denial-of-service related to the handling of SSH2_MSG_PING packets. This condition may be mitigated using the existing PerSourcePenalties feature.
 ### OpenSSH 9.8 fixes for two security problems, including race condition in sshd(8).
 https://www.openssh.com/
 #### [openssh-unix-announce] Announce: OpenSSH 9.9 released
