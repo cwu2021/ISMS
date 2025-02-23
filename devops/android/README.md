@@ -21,3 +21,5 @@ React Native is a React JS-based framework to design mobile apps. Moreover, with
  - https://en.wikipedia.org/wiki/Webpack
 # Try galaxy
  - https://tw.trygalaxy.com/
+## if App data not updating: 
+ - Go under settings and scroll down to apps and find the weather app. Force close it. Then go under storage section of the app and delete the data and the cache. That worked for me. You will have to go back in and then change the refresh time to every hour. Good luck!2022年3月4日
