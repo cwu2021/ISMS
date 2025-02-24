@@ -1,5 +1,6 @@
 # IThome OpenAI：OpenAI 分為5級。當安全性左移還不夠時。
 # 微軟是最早挹注OpenAI的業者，據稱已投入130億美元，擁有OpenAI約49%的分潤權利，且微軟於旗下的眾多服務中都整合了OpenAI技術。而蘋果則是今年6月才宣布與OpenAI合作，並差點成為OpenAI董事會觀察員。至於身為全球最大AI晶片供應商的Nvidia，則一直是OpenAI的供應商與合作夥伴。據傳OpenAI此次打算募集數十億美元，當中Thrive Capital準備投入10億美元，彭博社引述消息來源表示，Nvidia已討論是否要出資1億美元。至於微軟與蘋果的投資金額則不明。https://www.ithome.com.tw/news/164772
+# 血汗AI Feeding Machine: Human Resource Powering AI, ex. tagging.
 
 # - perl weekly 2024-07-08
 # https://curtispoe.org/articles/an-openai-chatbot-in-perl.html
