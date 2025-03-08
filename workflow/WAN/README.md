@@ -69,5 +69,8 @@ Starlink Business users can expect download speeds of up to 350 Mbps and latency
 論壇時間： 9/27(二) & 9/28(三) 09:00~17:00
 
 Day 2 morning presentation.
+
+ - Spectral regrowth: The decrease in signal level is caused by TX power decrease due to signal regrowth... https://itso.int/wp-content/uploads/2018/04/Presentation-by-Intelsat.pdf
+
 # 中共國網與千帆星座計畫
 為了能先占得衛星軌位和通訊頻譜，中共搶在2020年11月「國際電信聯盟」（ITU）祕書長仍由中國人出任期間，向ITU提出以12,992顆衛星組網的「GW星座」（「國網Guo-Wang」）計劃。中共計劃發射的衛星數量僅次於美國，居世界第二位。https://www.epochtimes.com/b5/24/6/6/n14265460.htm
