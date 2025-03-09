@@ -37,3 +37,6 @@ Offline Updates is there to protect you. Computers have become way more complex 
 ### SSH連線可能遭前綴截斷攻擊
  - https://www.ithome.com.tw/news/160452
  - old ssh client connection to AL2023 fails with "no hostkey alg": This is a key exchange algorithm mismatch - the RHEL6 host is offering to use methods that AL2023 considers too old and insecure, and there isn't one on which they can both agree. https://repost.aws/zh-Hant/questions/QU0Gh0VqHjQauzZ9Q8LQujjg/old-ssh-client-connection-to-al2023-fails-with-no-hostkey-alg
+
+## Using an unsupported browser
+..some features might not work, or an application might not open. For example, on an unsupported browser: You may be able to view, but not update, your calendars. Drawings and presentations in Docs editors may not display properly. https://support.google.com/a/answer/33864?hl=en
