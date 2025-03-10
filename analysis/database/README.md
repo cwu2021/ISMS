@@ -35,3 +35,5 @@ https://www.rosehosting.com/blog/how-to-install-vtiger-crm-on-ubuntu-22-04/
 
 ## Ubuntu: Install SQL Server on Linux - SQL Server | Microsoft Learn
 https://learn.microsoft.com/en-us/sql/linux/quickstart-install-connect-ubuntu
+
+## FOSS Metasearch Engines https://www.linux-magazine.com/Issues/2025/291/FOSS-Metasearch-Engines
