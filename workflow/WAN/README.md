@@ -71,6 +71,7 @@ Starlink Business users can expect download speeds of up to 350 Mbps and latency
 Day 2 morning presentation.
 
  - Spectral regrowth: The decrease in signal level is caused by TX power decrease due to signal regrowth... https://itso.int/wp-content/uploads/2018/04/Presentation-by-Intelsat.pdf
+ - 日凌，是在春分和秋分太陽穿過地球赤道上空的現象。當此現象發生時，太陽電磁輻射會對地球同步衛星的通訊造成影響，因為地球同步衛星只能定點在赤道上空。受到電磁輻射的影響，透過衛星轉播的電視訊號會受到干擾，令訊號不能接收而出現黑屏，又或訊號受干擾而出現雪花。
 
 # 中共國網與千帆星座計畫
 為了能先占得衛星軌位和通訊頻譜，中共搶在2020年11月「國際電信聯盟」（ITU）祕書長仍由中國人出任期間，向ITU提出以12,992顆衛星組網的「GW星座」（「國網Guo-Wang」）計劃。中共計劃發射的衛星數量僅次於美國，居世界第二位。https://www.epochtimes.com/b5/24/6/6/n14265460.htm
