@@ -1,5 +1,6 @@
 #!/bin/bash
 #  https://www.redhat.com/sysadmin/backup-Restic?sc_cid=7013a000002piSoAAI 
+# Wireless File Sharing https://www.linux-magazine.com/Issues/2025/291/LocalSend
 
 set -e
 source /etc/restic/b2.env
