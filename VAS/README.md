@@ -48,3 +48,5 @@ trid, exiftool and xlmdeobfuscator https://www.linux-magazine.com/Issues/2024/28
 https://www.linux-magazine.com/Issues/2024/280/Phishing-with-HiddenEye
 ## Tools for Enumerating Resources
 https://www.linux-magazine.com/Issues/2025/290/Enumerating-Resources
+##File Integrity Checks with AIDE
+https://www.admin-magazine.com/Archive/2024/84/File-Integrity-Checks-with-AIDE
