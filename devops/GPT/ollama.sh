@@ -11,3 +11,4 @@ ollama run gemma:2b
 # NCSA Launches DeltaAI Advanced Computing System https://www.admin-magazine.com/News/NCSA-Launches-DeltaAI-Advanced-Computing-System
 # Cloudera Launches RAG Studio https://www.admin-magazine.com/News/Cloudera-Launches-RAG-Studio
 # supremacy AI: ChatGPT, DeepMind 2024 Nobel mission shift
+# Nexus - A Brief History of Information Network
