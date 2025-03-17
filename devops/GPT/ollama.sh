@@ -12,3 +12,4 @@ ollama run gemma:2b
 # Cloudera Launches RAG Studio https://www.admin-magazine.com/News/Cloudera-Launches-RAG-Studio
 # supremacy AI: ChatGPT, DeepMind 2024 Nobel mission shift
 # Nexus - A Brief History of Information Network
+# LLM can summarize 15-page (8000 words) paper in 10 minutes on a i5 machine. The response is basically correct, and can be scored as 70/100.
