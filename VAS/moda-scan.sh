@@ -15,3 +15,5 @@ whois 104.18.22.126
 # Identify Operating System and Hops Using TTL Value
 # Linux 64, Mac 64, FreeBSD 64, DragonFlyBSD 64, Cloudflare 64, Solaris 255, NetBSD 255, OpenBSD 255, Windows 128, Google 128. One hop minus 1.
 # https://ostechnix.com/identify-operating-system-ttl-ping/
+# Ethical Hacking
+TryHackMe's Capture https://www.linux-magazine.com/Issues/2025/291/Capture-the-Flag
