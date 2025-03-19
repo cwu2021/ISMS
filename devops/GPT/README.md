@@ -1,6 +1,7 @@
 ## PerlGPT supported by Perl Foundation
 https://news.perlfoundation.org/post/perlgpt
 - Transformer presented by Google researchers in 2017, then GPT-1 was announced in 2018.
+ - Access the Gemini app and NotebookLM with enterprise-grade data and privacy protections included in Workspace for several plans at no cost, or upgrade to advanced Workspace plans with more AI features (up to 75% off).
 - 1000億完全建置。1750億參數，而台積電用100億參數做 Private GPT ～ 知識力專家社群創辦人 曲建仲博士
 - chatgpt: 200-1200萬USD for training, 8億 for Initial deployment and 5萬/daily operation. 1000 億 for finalized deployment. 1000萬 per unit. training time with GPU 3090/4090 for a simple topic may be within one month.
 - Managing GPT-4 on the Network https://www.admin-magazine.com/Archive/2024/82/Managing-GPT-4-on-the-Network
