@@ -46,6 +46,8 @@ http://guides.rubygems.org/command-reference/#gem-list
  - https://github.com/CarolHsu/rumor-checker
 ## Claw Man 可以施展甩爪跟甩打的夾娃娃機
 https://www.mobile01.com/topicdetail.php?f=334&t=6759872
+### automation-as-code with Ansible
+https://www.admin-magazine.com/Archive/2024/84/Explore-automation-as-code-with-Ansible
 
 ## luminance config: W = V x A
 以「亮度」來說，照明效果與空間高度及坪數相關，例如客廳、臥室高度多為280~300公分，每坪需要900lm(流明，亮度單位)的燈具才能提供足夠亮度。 柳敦浩說，像有些人家裡挑高，就須適當增加亮度，反之則可選擇較低亮度，例如浴室天花板較低矮，每坪只需700lm亮度的燈具即可。2019年11月7日
