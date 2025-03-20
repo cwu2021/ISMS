@@ -3,6 +3,8 @@
 ## A.15.1.1 of ISO/IEC 27001:2005
 <i>Control</i><br>
 All relevant legislative statutory, regulatory, contractual requirements and the organization's approach to meet these requirements shall be explicitly identified, documented and kept up to date for each information system and the organization.
+## Privacy and Security Tools in LibreOffice Writer
+https://www.linux-magazine.com/Online/Features/Protected-Text/
 ## Common Sense (1776)
 <i>https://en.wikisource.org/wiki/Common_Sense_(1776)</i><br>
 Man knows no Master save creating Heaven,
