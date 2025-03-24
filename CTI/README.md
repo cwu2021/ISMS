@@ -41,3 +41,8 @@ https://ithome.com.tw/article/163232
 https://cybersec.ithome.com.tw/2024/slide
 ### 是方電訊成為全台首家取得ISO 27001、27011、27017、27018四重認證的電信網路與雲端服務業者 客戶可享安全完善的服務 更確保重要系統及資料上雲後無後顧之憂 | iThome
 https://www.ithome.com.tw/pr/120921
+### Microsoft 365 在台資料中心落地服務 
+ - Azure Red Hat OpenShift：完全受控的 OpenShift 服務，與 Red Hat 共同經營
+ - Azure SQL：適用於移轉和應用程式現代化的新式 SQL 系列
+ - Microsoft Defender：對您的裝置進行持續資產管理及威脅偵測
+→ 了解更多詳情 datacenters.microsoft.com
