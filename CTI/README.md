@@ -24,6 +24,7 @@ https://www.twcert.org.tw/newepaper/cp-64-7957-020b8-3.html
 https://www.ithome.com.tw/news/163641
 ### 勒索軟體Conti開始利用Log4Shell漏洞，攻擊VMware vCenter
 https://www.ithome.com.tw/news/148583
+ - [Action Required] Changes to How You Download VMware Software Binaries
 ### 手機真的在監聽嗎？在公共場合充電可能被駭？前Apple技術人員破解手機迷思 GQ Taiwan
 https://youtu.be/QidAal-Olq8
 ### The Mystery of ‘Jia Tan,’ the XZ Backdoor Mastermind | WIRED
