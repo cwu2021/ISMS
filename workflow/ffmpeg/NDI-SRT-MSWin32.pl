@@ -18,7 +18,9 @@ NDI Tools 4.6 for Mac
 https://downloads.ndi.tv/Tools/NewTekNDIToolsForMacOS.dmg
 NDI Tools 4.6 for Windows
 https://downloads.ndi.tv/Tools/NDI%204%20Tools.exe
-If you’ve mistakenly installed NDI Tools 5, and it causes audio in Flame to be 
+ - If you’ve mistakenly installed NDI Tools 5, and it causes audio in Flame to be 
 all clicky and nasty, simply uninstall NDI Tools 5, and use the above inks to d
 ownload and install NDI Tools 4.6.
+ - OBS can do SRT to NDI output with 720p easily. 1080p needs more testing
+ - then NDI to SDI converter, HDMI to RTMP encoder can act as hardware IO
 =end endnote
