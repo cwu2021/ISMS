@@ -41,3 +41,5 @@ https://www.hackster.io/news/the-new-nintendo-game-watch-is-certainly-some-hardw
  - ./neofetch --ascii_distro android
  - a history of the tty https://computer.rip/2024-02-25-a-history-of-the-tty.html
  - textbunny https://www2.b3ta.com/_bunny/texbunny.gif
+### Announcing CrossOver 25.0.0
+CrossOver 25 includes an update to Wine 10.0, bringing with it over 5,000 changes that oﬀer improvements to a variety of applications on Mac and Linux. This release also includes an update to Wine Mono 9.4.0, vkd3d 1.14 and MoltenVK 1.2.10.
