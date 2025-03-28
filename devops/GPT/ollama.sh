@@ -13,3 +13,4 @@ ollama run gemma:2b
 # supremacy AI: ChatGPT, DeepMind 2024 Nobel mission shift
 # Nexus - A Brief History of Information Network
 # LLM can summarize 15-page (8000 words) paper in 10 minutes on a i5 machine. The response is basically correct, and can be scored as 70/100.
+# Vulcan Attack：AI 大型語言模型（LLM）資安檢測服務：協助企業在AI應用的早期階段，透過識別漏洞，提供自動化檢測、辨識AI風險，有效識別並修補潛在漏洞，為企業AI應用築起堅固的防線。
