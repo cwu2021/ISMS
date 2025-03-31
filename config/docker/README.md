@@ -25,3 +25,5 @@
 <br> https://stackoverflow.com/questions/19335444/how-do-i-assign-a-port-mapping-to-an-existing-docker-container
 # Docker and Kubernetes: How They Work Together
 https://www.docker.com/blog/docker-and-kubernetes/
+## Managing containers with MicroOS, Cockpit, and Podman
+https://www.linux-magazine.com/Issues/2025/291/Container-Management
