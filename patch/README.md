@@ -12,6 +12,9 @@ https://support.microsoft.com/zh-tw/topic/2023-年-9-月-26-日kb5030649-windows
 ### Verify updates carefully and apply after one week observation.
 - 7.0.1-42218 Update 1 01-12 recalled.
 - Updated core to version D208 to address a rare issue with artifacts seen on SDI Inputs.
+### GPU and SDI I/O Temperature
+- GPU idle Temp is around 30-50 degrees Celcius, while working Temp os 60-85.
+- SDI I/O such as Decklink requires environmental Temp at 5-50 degrees.
 ### Self-lab of Hardware verification would also be necessary. 
  - standalone converters and monitors required. 
  - backup/restore drives , versions build disks needs to be prepared.
