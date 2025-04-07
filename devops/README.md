@@ -66,3 +66,5 @@ Raven DB 是 c#寫的nosql，不是最常見的mongodb。小規模是夠用了�
 FCM/GCM Notifications require a device to maintain an open connection to Google's servers. Some home and commerical wifi routers interfere with this connection. Some mobile carriers may interfere with this too, but this is rare. If a router terminates this connection, the device may wait 15 minutes before reconnecting and receiving pending notifications.
 <i>https://stackoverflow.com/questions/38725622/android-delay-in-receiving-message-in-fcmonmessagereceived</i><br>
 To make sure that the connection remains active, Android will send a heartbeat every 28 minutes on mobile connection and every 15 minutes on WiFi. If the heartbeat failed, the connection has been terminated, and FCM will re-establish it and attempt to retrieve any pending push notifications. The higher the heartbeat interval, the less battery consumed and the less times the device has to be woken up from sleep.
+# Migrate your Git repositories to Gitea
+https://www.admin-magazine.com/Archive/2024/84/Migrate-your-Git-repositories-to-Gitea
