@@ -9,3 +9,7 @@ $modules = `sudo pip install requests jieba bs4`;
 =begin endnote
 git clone https://github.com/twtrubiks/PttStatistics
 python2 PttStatistics.py title gossiping 100
+
+輿情分析全攻略
+https://choose.blueplanet.com.tw/
+https://mdigi.net/public-opinion-analysis/
