@@ -68,3 +68,5 @@ FCM/GCM Notifications require a device to maintain an open connection to Google'
 To make sure that the connection remains active, Android will send a heartbeat every 28 minutes on mobile connection and every 15 minutes on WiFi. If the heartbeat failed, the connection has been terminated, and FCM will re-establish it and attempt to retrieve any pending push notifications. The higher the heartbeat interval, the less battery consumed and the less times the device has to be woken up from sleep.
 # Migrate your Git repositories to Gitea
 https://www.admin-magazine.com/Archive/2024/84/Migrate-your-Git-repositories-to-Gitea
+# Microsoft Visual C++
+https://github.com/abbodi1406/vcredist/blob/master/source_links/README.md
