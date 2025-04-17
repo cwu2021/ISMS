@@ -24,6 +24,9 @@ client_max_body_size 100M;
 location / {
 try_files $uri $uri/ /index.php?$args;
 }
-
+EOF
 systemctl restart php8.1-fpm
 systemctl reload nginx
+# 如何在 NGINX 伺服器中安裝 SSL 證書 https://www.gaia.net/tc/news_detail/2/127/nginx-ssl
+cat yourdomain.crt SectigoRSADomainValidationSecureServerCA.crt USERTrustRSAAAACA.crt AAACertificateServices.crt >> bundle.crt
+systemctl restart nginx
