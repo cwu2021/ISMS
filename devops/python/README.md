@@ -8,6 +8,8 @@ https://zh.wikipedia.org/zh-tw/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA
 https://stackoverflow.com/questions/56294597/how-to-create-a-pie-chart-from-csv-file-using-python
 ### python3 -m http.server --directory <your_folder_name> 
 https://stackoverflow.com/questions/39801718/how-to-run-a-http-server-which-serves-a-specific-path
+## Developing a mailbot script
+https://www.linux-magazine.com/Issues/2025/292/Mailbot
 
 # 東京大學資料科學家養成全書：使用Python動手學習資料分析
  - https://www.books.com.tw/products/0010859473
