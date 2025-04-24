@@ -15,6 +15,8 @@ setting -> system -> remote desktop
 https://www.admin-magazine.com/Archive/2024/80/Fight-Windows-ransomware-with-on-board-tools
 ## Crowdstrike incident
 https://www.twcert.org.tw/newepaper/cp-97-7954-27a6b-3.html
+## Reducing the Attack Surface in Windows
+https://www.admin-magazine.com/Archive/2024/84/Reducing-the-Attack-Surface-in-Windows
 # Windows 11 Security Features
 Application whitelisting can be implemented on Windows using AppLocker and Smart App Control in Windows 11.
 
