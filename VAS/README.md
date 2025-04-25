@@ -50,3 +50,5 @@ https://www.linux-magazine.com/Issues/2024/280/Phishing-with-HiddenEye
 https://www.linux-magazine.com/Issues/2025/290/Enumerating-Resources
 ## File Integrity Checks with AIDE
 https://www.admin-magazine.com/Archive/2024/84/File-Integrity-Checks-with-AIDE
+## Pattern-matching tools for chasing down malicious software
+https://www.linux-magazine.com/Issues/2025/292/Malware-Minders?utm_source=LU
