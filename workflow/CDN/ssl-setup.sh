@@ -27,3 +27,6 @@ It can be set to "Off" which is not recommended.
 https://developers.cloudflare.com/ssl/edge-certificates/additional-options/always-use-https/
 SSLOFF
 # Lets Encrypt: Ending Expiration Notification https://letsencrypt.org/2025/01/22/Ending-Expiration-Emails
+# LibreSSL 4.1.0 Released: This is the
+first stable release for the 4.1.x branch, also available with OpenBSD 7.7. The LibreSSL project continues improvement of the codebase to reflect modern,
+safe programming practices. 
