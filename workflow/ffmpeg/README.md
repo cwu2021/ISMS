@@ -44,6 +44,7 @@ C:\\> ffmpeg.exe -f libndi_newtek -i "NC1IO-RCTV (IN 4)" -vf yadif -c:v libx264 
 # NDI and Skype
 - Internet and LAN access for Skype all allowed between TriCaster and SkypeTX are required. 
 - Two channels available on TC1.
+- Celebrate 20 Years of TriCaster The perfect mix of switchers, control panels, and audio tools to streamline your workflow.
 # FFmpeg on Mac
 ### macOS更新到Catalina後，找不到TIMEMACHINE上原來的的備份，只要這一招就能解決 @Blog-i-Move
  - https://blogimove.com/catalina-timemachine-recovery-problem/
