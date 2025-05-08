@@ -10,3 +10,4 @@ sudo podman run rhel7:7.5 echo "Hello world"
 # Docker vs Podman
 # https://ithelp.ithome.com.tw/articles/10238749
 # https://darumatic.com/blog/podman_introduction
+# Run rootless Podman containers https://www.admin-magazine.com/Archive/2025/85/Run-rootless-Podman-containers-as-systemd-services?utm_source=AU
