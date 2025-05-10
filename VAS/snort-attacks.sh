@@ -8,3 +8,5 @@ iptables -R INPUT 11 -p icmp -j ACCEPT
 
 # ping only scan for networks
 nmap;nmap -sn 192.168.0.0/24
+
+# Pattern-matching tools for chasing down malicious software https://www.linux-magazine.com/Issues/2025/292/Malware-Minders
