@@ -19,6 +19,8 @@ https://blog.neithnet.com/?p=4351
 https://replicate.com/prompthero/openjourney
 ## 用Python爬取PTT熱門新聞做成文字雲
 https://vocus.cc/article/62b2b69efd89780001117a7a
+## SAP 推出 AI 驅動 Business Suite 創新，為台灣企業開啟數位轉型新篇章
+ - 2025 被視為 AI Agent 元年，許多台灣企業期望在導入 AI 後，能在營運效能上取得具體成效。
 ## AI 影像辨識教學 ( Python ) | STEAM 教育學習網
 https://steam.oxxostudio.tw/category/python/ai/ai-index.html
  - Midjourney不需Discord帳號的Web版上線供免費試用 https://www.ithome.com.tw/news/164639
