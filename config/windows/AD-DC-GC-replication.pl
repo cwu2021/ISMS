@@ -31,3 +31,5 @@ https://gavin-tech.blogspot.com/2016/09/ad.html
 https://jeffprogrammer.wordpress.com/2020/02/22/%E5%90%8C%E4%B8%80%E7%B6%B2%E5%9F%9F%E4%BA%8C%E5%80%8B%E7%AB%99%E5%8F%B0%E7%9A%84dc%E8%A4%87%E5%AF%AB/
 在域控制器之間手動復寫數據時發生「目標主體名稱不正確」錯誤
 https://learn.microsoft.com/zh-tw/troubleshoot/windows-server/active-directory/target-principal-name-is-incorrect-when-replicating-data
+=pod
+also , AD的domain controller DNS紀錄須修正 (3/3)
