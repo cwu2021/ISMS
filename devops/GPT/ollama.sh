@@ -17,3 +17,4 @@ ollama run gemma:2b
 # 惡意AI模型潛伏Hugging Face https://www.twcert.org.tw/newepaper/cp-146-10030-5e683-3.html
 # 什麼是主權 AI？https://www.oracle.com/tw/artificial-intelligence/sovereign-ai/
 # Kick-start your AI projects with Kubeflow https://www.admin-magazine.com/Archive/2025/85/Kick-start-your-AI-projects-with-Kubeflow?utm_source=AU
+# Amazon 最新大語言模型 Amazon Nova 以及 AI Agent with AWS 的實例解說
