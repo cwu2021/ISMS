@@ -30,6 +30,7 @@ https://tacc.cwb.gov.tw/v2/
 https://www.universetoday.com/157474/iphone-14-will-have-satellite-connectivity-how-exactly-it-will-work/
 Globalstar is operating a constellation of 48 satellites in LEO at 1414 km altitude. They are placed in eight orbital planes of six satellites, each with an inclination of 52°. This means they can provide service on Earth from 70° North latitude to 70° South latitude. Meaning the iPhone 14 satellite connectivity won’t work in polar regions.<br>
  - Mumble uses CELT, and using the highest quality and lowest latency, the peak bandwidth is 134kbit/s per speaker per listener (with IP and UDP overhead). However, this is the max bandwidth, and the recommended bandwidth (that has a very unnoticeable quality reduction for normal speech) is 63kbit/s. https://wiki.mumble.info/wiki/Commercial_Hosting
+ - However, Mumble 1.5 dropped support of CELT. Thus CELT users need version 1.4. 
 ## 電話裝太多支，響一聲就會自動斷掉? 
  - 一般不用給電的便宜話機,是直接吃電話LINE給的電,平常LINE約12V,當響鈴時是高於45Vrms
 <br> https://m.mobile01.com/topicdetail.php?f=168&t=3258900
