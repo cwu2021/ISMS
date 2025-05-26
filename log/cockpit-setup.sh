@@ -14,3 +14,4 @@ systemctl start rc-local
 systemctl disable cockpit.socket
 # sysstat » ADMIN Magazine
 # https://www.admin-magazine.com/Archive/2024/81/Admin-as-a-service-with-sysstat-for-ex-post-monitoring
+#  Monitoring system statuses: Mission Control https://www.linux-magazine.com/Issues/2025/293/System-Monitoring
