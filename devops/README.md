@@ -48,7 +48,8 @@ Universal Tool https://www.admin-magazine.com/Archive/2024/82/Managing-infrastru
  -  Perl for IC Design https://github.com/markemer/EDA-Cadence
 ## A.14 Development
 # Cloudflare Web3 docs
-https://developers.cloudflare.com/web3/
+ - https://developers.cloudflare.com/web3/
+ - 定期定額修改委託內容和狀態需要串接固定 ip , 不能設定 dns proxy
 ## IFPS Gateway
 Provides a read-only, HTTP-accessible interface to the Interplanetary File System (IPFS).​​
 ### IPFS Demo
