@@ -9,7 +9,9 @@
 # CentOS or RHEL clone alternative.
  - docker run -it --name almalinux almalinux
  - docker run -it --name rockylinux rockylinux:9
- - rpm -qa grep 
+ - rpm -qa grep
+# Red Hat and Gen AI
+ - 擁有深厚作業系統背景的紅帽，對硬體支援非常熟悉，也和雲端供應商、硬體晶片供應商有很好的合作夥伴關係。紅帽技術長Chris Wright用一句話點出紅帽的新戰略：「將底層硬體和熱門模型的軟體架構串連起來，是紅帽在整個GAI世界中的位置。」 https://ithome.com.tw/voice/169265
 # Gentoo with portage 
  - docker run -it --name gentoo gentoo/stage3 /bin/bash
 <br> https://wiki.gentoo.org/wiki/Project:Docker
