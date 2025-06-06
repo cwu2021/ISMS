@@ -102,6 +102,7 @@ https://rueylin0119.pixnet.net/blog/post/301637945-%e9%ab%98%e4%b8%ad%e5%9c%8b%e
 ##### 刑 / 名 / 法術為用
  - 從諸葛亮六出祁山觀天下大勢 https://www.secretchina.com/news/b5/2023/02/26/1029834.html
  - 博客來-劍來（全7卷）https://www.books.com.tw/products/CN11715617
+ - 晉書刑法志 (唐太宗)
 #### 吏戶禮兵刑工 (六部)
 ##### 駕帖 (六科)
 #### 廠衛 (大內 / 禁軍)
