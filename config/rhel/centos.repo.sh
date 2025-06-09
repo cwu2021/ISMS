@@ -6,6 +6,7 @@
 less /etc/yum.repos.d/centos.repo
 # How to activate your no-cost Red Hat Enterprise Linux subscription
 # https://developers.redhat.com/blog/2021/02/10/how-to-activate-your-no-cost-red-hat-enterprise-linux-subscription#step_2__download_no_cost_rhel
+# Red Hat Enterprise Linux 10 Released with New AI Features https://www.admin-magazine.com/News/Red-Hat-Enterprise-Linux-10-Released-with-New-AI-Features
 # 2.9 Creating a Local Yum Repository Using an ISO Image
 # https://docs.oracle.com/cd/E37670_01/E37355/html/ol_create_repo.html
 mkdir -p /var/OSimage/OL6.3_x86_64
