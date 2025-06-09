@@ -37,3 +37,5 @@ https://www.rosehosting.com/blog/how-to-install-vtiger-crm-on-ubuntu-22-04/
 https://learn.microsoft.com/en-us/sql/linux/quickstart-install-connect-ubuntu
 
 ## FOSS Metasearch Engines https://www.linux-magazine.com/Issues/2025/291/FOSS-Metasearch-Engines
+
+## Web applications with Julia https://www.admin-magazine.com/Archive/2025/85/Web-applications-with-Julia
