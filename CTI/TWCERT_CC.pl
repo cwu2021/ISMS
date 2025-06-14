@@ -1,4 +1,9 @@
 =pod
+TWCERT_CC 2025年5月資安電子報
+ - 釣魚信 + OneDrive + DoH！Earth Kasha 對台日展開高隱匿間諜行動
+https://www.twcert.org.tw/newepaper/cp-64-10141-a3f63-3.html
+ - 當AI成為雙面刃：MCP提示注入技術的善與惡
+https://www.twcert.org.tw/newepaper/cp-146-10158-c2a7e-3.html
 TWNIC與Nominet、DotAsia合作 推動全球DNS信任與安全機制
 台灣網路資訊中心（TWNIC）今（5月9日）於越南河內舉辦的 ICANN亞太DNS論壇（ICANN APAC DNS Forum）中，與英國Nominet完成合作備忘錄（MoU）簽署，正式推進「可信任通報者」（Trusted Notifier）合作機制，強化全球域名信任與DNS濫用處理的跨域合作。這次合作是 .tw 與 .uk 國碼頂級域名註冊管理機構首次建立直接合作關係，亦是亞太社群在WSIS+20政策背景下，在建立DNS之信任與治理所展現的具體行動。 基於TWNIC 與 DotAsia 過去所建立的「可信任通報者」(Trusted Notifier，TN) 合作機制及架構，也在此次Nominet加入後，進一步擴展為跨區域協力，為全球DNS治理已居領先地位。 
 TWCERT_CC 2025年4月資安電子報
