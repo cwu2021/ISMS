@@ -31,3 +31,4 @@
 
 # (CDN) -> HA proxy port 443 to 80, in IDC of 18 degrees Celsius, 50% humidity.
 # Cloudflare and nginx: Too many redirects  https://stackoverflow.com/questions/35143193/cloudflare-and-nginx-too-many-redirects
+# Traffic analysis with mitmproxy https://www.admin-magazine.com/Archive/2025/85/Traffic-analysis-with-mitmproxy
