@@ -13,3 +13,4 @@ man pct
 # Storage across the network with iSCSI and Synology DiskStation Manager https://www.admin-magazine.com/Archive/2024/84/Storage-across-the-network-with-iSCSI-and-Synology-DiskStation-Manager
 # Automating deployments on Proxmox with OpenTofu and cloud-init https://www.admin-magazine.com/Archive/2024/84/Automating-deployments-on-Proxmox-with-OpenTofu-and-cloud-init
 # Celebrating 20 Years of Proxmox! https://forum.proxmox.com/threads/celebrating-20-years-of-proxmox.165655/
+# Proxmox Virtual Environment 8.4 https://forum.proxmox.com/threads/proxmox-ve-8-4-released.164821/
