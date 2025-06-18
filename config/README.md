@@ -22,6 +22,7 @@ http://guides.rubygems.org/command-reference/#gem-list
  - https://serverfault.com/questions/215545/deploy-our-own-software-using-puppet
  - Best to conform config of prebuilt packages.
  - https://www.linuxjournal.com/article/10046
+ - Attack Service Management Tools https://www.admin-magazine.com/Archive/2025/85/ASM-tools-and-strategies-for-threat-management
 ### Installing Ruby 1.8.7 in Ubuntu 20.04 (Focal Fossa)
  - https://learn.bitcontroltech.com/2021/05/installing-ruby-1-8-7-in-ubuntu-20-04-focal-fossa/
  - https://wiki.ubuntu.com/Releases
