@@ -5,3 +5,4 @@
 # https://stackoverflow.com/questions/2869908/convert-pdf-to-png-using-imagemagick
 apt install imagemagick
 convert -density 300 a.pdf -resize 25% a.png
+# FBI發出安全警示，駭客利用免費轉檔網站散佈惡意軟體 https://www.twcert.org.tw/newepaper/cp-94-10031-f8fcd-3.html
