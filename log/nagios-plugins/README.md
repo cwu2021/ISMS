@@ -4,6 +4,7 @@ https://community.ui.com/releases/UniFi-Network-Application-8-0-7/7818b9df-4845-
  - consoles cannot downlinked to each other. direct via wired or wifi is required for WAN config.
  - direct access design: inf alias with RFC 1918 https://datatracker.ietf.org/doc/html/rfc1918
  - PING and TRACEROUTE from within the UDM? : r/UNIFI https://www.reddit.com/r/UNIFI/comments/1ctbxyw/ping_and_traceroute_from_within_the_udm/?rdt=56611
+ - The Tactical RMM open source tool offers a combination of remote monitoring and management with agents. https://www.admin-magazine.com/Archive/2025/86/Remote-access-with-Tactical-RMM
 
 # nagios-plugins
 https://github.com/nagios-plugins/nagios-plugins
