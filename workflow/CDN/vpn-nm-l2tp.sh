@@ -15,3 +15,4 @@ sudo nmcli c up [vpnName]
 # https://github.com/KaOSx/apps/issues/97
 # https://bbs.archlinux.org/viewtopic.php?id=252367
 # https://askubuntu.com/questions/1167283/l2tp-connection-client-on-ubuntu-18-04-server
+# Self-hosted Pritunl VPN server with MFA https://www.admin-magazine.com/Archive/2025/86/Self-hosted-Pritunl-VPN-server-with-MFA
