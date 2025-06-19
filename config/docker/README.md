@@ -28,4 +28,5 @@
 # Docker and Kubernetes: How They Work Together
 https://www.docker.com/blog/docker-and-kubernetes/
 ## Managing containers with MicroOS, Cockpit, and Podman
-https://www.linux-magazine.com/Issues/2025/291/Container-Management
+ - https://www.linux-magazine.com/Issues/2025/291/Container-Management
+ - Serverless applications with OpenFaaS https://www.admin-magazine.com/Archive/2025/86/Serverless-applications-with-OpenFaaS
