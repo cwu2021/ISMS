@@ -23,6 +23,7 @@ http://guides.rubygems.org/command-reference/#gem-list
  - Best to conform config of prebuilt packages.
  - https://www.linuxjournal.com/article/10046
  - Attack Service Management Tools https://www.admin-magazine.com/Archive/2025/85/ASM-tools-and-strategies-for-threat-management
+ - The GNU Stow tool in combination with Ansible can help you manage configuration files. https://www.admin-magazine.com/Archive/2025/86/Centrally-manage-configuration-files
 ### Installing Ruby 1.8.7 in Ubuntu 20.04 (Focal Fossa)
  - https://learn.bitcontroltech.com/2021/05/installing-ruby-1-8-7-in-ubuntu-20-04-focal-fossa/
  - https://wiki.ubuntu.com/Releases
