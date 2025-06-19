@@ -48,6 +48,8 @@ https://nxlog.co/documentation/nxlog-user-guide/eventlog-eventids.html
  - Splunk.Events.Clients:Velociraptor https://docs.velociraptor.app/exchange/artifacts/pages/splunk.events.clients/
  - Bloonix integrates all the tools you need to monitor large IT infrastructures 24x7 to prevent failures. https://www.admin-magazine.com/Archive/2025/85/Web-based-network-monitoring
 Monitor applications end to end https://www.admin-magazine.com/Archive/2025/85/Monitor-applications-end-to-end
+ - OTOBO is a user-friendly and completely free ticket system. https://www.admin-magazine.com/Archive/2025/86/Open-source-ticket-system
+
 ## Perl for System Administration
  - https://docstore.mik.ua/orelly/perl/sysadmin/ch07_06.htm
 ### System Monitoring with Perl 
