@@ -10,3 +10,4 @@ irssi -n <nickname> irc.libera.chat
 # Mastodon CLI Client https://www.linux-magazine.com/Issues/2023/269/toot
 toot post --editor vim
 # 誰溫暖了資安部 系列 https://ithelp.ithome.com.tw/m/users/20006132/ironman
+# Zulip, Mattermost, and Rocket.Chat https://www.admin-magazine.com/Archive/2025/86/Zulip-Mattermost-and-Rocket.Chat
