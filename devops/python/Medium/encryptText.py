@@ -1,4 +1,5 @@
 # https://medium.com/@dmitrijkumancev571/awesome-python-scripts-6711873a35c3
+# Practical blockchain applications https://www.linux-magazine.com/index.php/Issues/2025/294/Blockchain?utm_source=LU
 from Crypto.Cipher import AES
 from Crypto import Random
 from binascii import b2a_hex
