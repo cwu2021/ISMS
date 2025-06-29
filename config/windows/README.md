@@ -71,8 +71,8 @@ If you receiver a Blue Screen with a error message REGISTRY_ERROR bug, that indi
 
 when this occurs during console or rdp login, backups could be done via net share such as C$ with domain admin or other working drives.
 # IRQL_NOT_LESS_OR_EQUAL
-https://www.tomshardware.com/how-to/fix-irql-not-less-or-equal-errors-windows <br>
-(sometimes referred to as just “IRQL”) is typically a memory related error that occurs if a system process or a device driver seeks access to a memory address for which it lacks valid access rights. 
+ - https://www.tomshardware.com/how-to/fix-irql-not-less-or-equal-errors-windows (sometimes referred to as just “IRQL”) is typically a memory related error that occurs if a system process or a device driver seeks access to a memory address for which it lacks valid access rights.
+ - Tools for hardware diagnostics under Windows https://www.admin-magazine.com/Archive/2025/85/Tools-for-hardware-diagnostics-under-Windows 
 ## WMIC is deprecated, but WMI still works with powershell.
  - https://stackoverflow.com/questions/57121875/what-can-i-do-about-wmic-is-deprecated
  - https://learn.microsoft.com/en-us/windows/deployment/planning/windows-10-deprecated-features
