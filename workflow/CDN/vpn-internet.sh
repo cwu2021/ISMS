@@ -20,6 +20,7 @@ iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
 # OpenVPN Bad LZO decompression header byte: 69: The problem is that your server has comp-lzo adaptive in the config, but the client does not have compression enabled at all. So the client is sending uncompressed packets, while the server is expecting a compression header. Add comp-lzo to your client config file (adaptive is the default mode for comp-lzo, so you can omit that).
 # https://superuser.com/questions/1066321/openvpn-bad-lzo-decompression-header-byte-69
 openvpn --remote 10.56.100.53 --comp-lzo --dev tun --auth-user-pass --ca ca.crt --client
+# --route-nopull with --pull or --client to accept all push options except routing related such as routes and dns
 # https://networklessons.com/uncategorized/openvpn-server-usernamepassword-authentication
 # Site-to-Site VPN | VPN Plus Server - Synology 知識中心
 # https://kb.synology.com/zh-tw/SRM/help/VPNPlusServer/vpnplus_server_site2site?version=1_3
