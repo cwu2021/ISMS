@@ -71,6 +71,7 @@ https://www.ithome.com.tw/people/89088 <br>
 https://etheses.lib.ntust.edu.tw/thesis/detail/2f0d68f01f9c2a79679474119a30ea3d/ <br>
 https://tw.news.yahoo.com/胡婉玲離開27年老東家-首發聲-離開不是我的選擇-內幕曝光-063200476.html
 ### Twitter,Gab,Gettr,Telegram,Mewe,Facebook,IG,TruthS
+ - Telegram ban in Viet
 ### 12種商務開發 (or 9 ways for Awareness) https://abusensei.com/business-development-strategy/  
 線上開發方法：
     電話陌生開發
