@@ -7,6 +7,7 @@
  - https://medium.com/3pm-lab/growth-101-introduction-to-5-popular-growth-frameworks-aarrr-rarra-growthloops-heart-aida-13296ba7dcbc
 <br> 問卷作業提到找三種TA，應該是在找三種 market segmentation，節目TA可能交集或聯集幾種特質 ( characteristics )。若對象是已在收看的觀眾，那麼在AARRR框架中，就是從 Acquisition 向 Activation ，即註冊向付費訂閱推進。 
 <br> 調查多少樣本數量才具有代表性呢? 500+ https://www.yongxi-stat.com/sample-size/
+ - TVBS digital transformation since 2019 with revenue shift plan
  - 請問各位有接到過年代新聞的電話嗎？？？ 6萬、9萬、12萬 https://www.threads.com/@lin123alice/post/DKpajqnvHS3?xmt=AQF0hdC_n-l7qmv3gOTZa4Aq4rxWqDkOfLqDvBLevQjOVw  
 
 # 介紹研究中最常發生的 4 類偏差
