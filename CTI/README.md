@@ -5,7 +5,8 @@ https://www.ithome.com.tw/news/147193
 5.7	威脅情資 5.7　	Threat intelligence
 ## Cyber Threat Intelligence
 ### NICS 漏洞警訊公告
-https://www.nics.nat.gov.tw/Vulnerability-1.htm
+ - https://www.nics.nat.gov.tw/Vulnerability-1.htm
+ - The Purdue Model maps the challenges of networking industrial systems to five levels, helping to target and mitigate risk and address vulnerabilities. We look at the Purdue Model in detail, investigate an implementation tool, and explain the role of zero trust. https://www.admin-magazine.com/Archive/2025/85/Purdue-Model-for-industrial-networking
 ### AlienVault - Open Threat Exchange
  - https://otx.alienvault.com/ OSSIM OTX as CTI.
  - Open-AudIT inventories, manages, and monitors IT assets, whether hardware, software, network device, or virtual machine. https://admin-magazine.com/Archive/2025/86/Inventory-and-manage-your-IT-systems
