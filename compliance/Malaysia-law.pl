@@ -1,3 +1,4 @@
+$ai_infra = 'Huawei GPU + Deep Seek (May) ~ Xi visit in April.';
 =pod
 (馬來西亞) 集会自由、 <警察法令>、<宪法>
 
