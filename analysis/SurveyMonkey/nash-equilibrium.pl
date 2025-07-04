@@ -1,3 +1,9 @@
+=pod
+The Art of Deal (Jun 15 AXN)
+ - The world is a mess. Attack attitude required.
+ - What I say is truth.
+ - Always claim winning.
+=cut
 $thesis = `wget https://www.cs.upc.edu/~ia/nash51.pdf`;
 # https://liaowc.github.io/blog/nash-equilibrium/
 =begin endnote
