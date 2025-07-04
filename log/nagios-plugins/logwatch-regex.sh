@@ -1,3 +1,8 @@
+:'
+checkmk: Custom notes
+ - https://docs.checkmk.com/latest/en/custom_notes.html
+ - echo "My custom host note for myhost" > ~/etc/check_mk/notes/hosts/myhost
+'
 # https://blog.gtwang.org/perl/perl-course-notes-6/
 # 不指定比對目標，預設為 $_
 # Windows event log of KDC error for smartcard.
