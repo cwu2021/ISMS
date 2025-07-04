@@ -1,4 +1,8 @@
 =pod
+- Google IO (Gemeni 2.5 everywhere), WWDC 2025
+- ISS, threatmap.bitdefender maps
+- Nokia dumbphones https://www.reddit.com/r/dumbphones/comments/zv24go/nokia_2660_flip/?tl=zh-hant
+- AI PC vs GPU https://www.businessweekly.com.tw/Archive/Article?StrId=7012491
  - AI狐報's Post
 手機直接跑大模型！Google AI Edge Gallery 讓你離線使用 Gemma3、Qwen2.5，AI陪你上山下海！
 近日，Google 推出一款名為「Google AI Edge Gallery」的實驗性 Android 應用程式，讓用戶能在手機上本地部署並執行開源生成式 AI 模型，如 Gemma、Qwen2.5 等，實現完全離線、無須連網的 AI 體驗。
