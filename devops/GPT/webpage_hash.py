@@ -1,3 +1,10 @@
+'''
+AI and VR
+ - https://ithome.com.tw/news/169267
+ - https://ithome.com.tw/news/169268
+ - DramaBox
+ - front end by AI
+'''
 # created by ChatGPT. running OK with python venv $source activity
 import requests
 import hashlib
