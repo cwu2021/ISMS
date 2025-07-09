@@ -14,4 +14,7 @@ echo ${LINE}: | sed -e 's/\(.*.*\)/\o033[1;36m\1\o033[39m/'
 cat $FOLDER/$LINE | sed -e 's/\(.*sock.*\)/\o033[1;36m\1\o033[39m/'
 #cat $FOLDER/$LINE 
 done
+# Logger in HPC System Administration https://www.admin-magazine.com/Articles/Logger-in-HPC-System-Administration
+logger "Just a test"
+logger -t myscript "A second test"
 
