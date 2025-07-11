@@ -21,6 +21,7 @@ https://support.microsoft.com/zh-tw/topic/2023-年-9-月-26-日kb5030649-windows
 ## Updating software packages in Red Hat Enterprise Linux
 yum allows you to check if your system has any pending updates. You can list packages that need updating and choose to update a single package, multiple packages, or all packages at once. If any of the packages you choose to update have dependencies, they are updated as well. <br>
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/configuring_basic_system_settings/managing-software-packages_configuring-basic-system-settings
+ - Linux 6.12 LTS at a glance https://www.linux-magazine.com/Issues/2025/295/Linux-6.12-LTS
 ## Proprietary Hardware, Blobs, and Firmware
 ### <i>Quoted from p.17 of Absolute OpenBSD, 2nd edition.</i>
 Some vendors don't want to provide documentation, but do want users of open source operating systems to buy their hardware. These vendors provide drivers for their hardware in the form of binary objects, or <i>blobs</i>. This might sound reasonable at first, but the operating system must load these blobs into the kernel...If the blob has a security issue, or has some subtle interaction with the kernel that destablizes the system, there's no way for the developers to resolve the problem. The blob might only be inefficient or wasteful, but it could negatively impact other kernel subsystems or even include backdoors...
