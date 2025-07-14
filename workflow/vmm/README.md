@@ -8,6 +8,7 @@ gone from bad to worse.
 there were some issues related to uvm/pmap and wired pages fixed recently,
 but i don't think this is one of the panics that would result.</i> 
  - Tuning tools for AMD graphics chips https://www.linux-magazine.com/Issues/2025/297/Tuning-for-AMD-GPUs
+
 CoreCtrl and RadeonTop monitor the utilization and clock frequency of AMD chips with the potential for boosting performance.
 
 More than 10 years ago, Valve Corporation's Steam first saw the light of day as a gaming platform for Linux. Following this biggish bang, the free Linux operating system started to gain the attention of gamers. Thanks to Steam and its Proton Windows emulation layer, the selection of well-known game titles has grown steadily since then, with many top titles now released simultaneously for Windows and Linux.
