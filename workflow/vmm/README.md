@@ -7,6 +7,15 @@ gone from bad to worse.
 
 there were some issues related to uvm/pmap and wired pages fixed recently,
 but i don't think this is one of the panics that would result.</i> 
+ - Tuning tools for AMD graphics chips https://www.linux-magazine.com/Issues/2025/297/Tuning-for-AMD-GPUs
+CoreCtrl and RadeonTop monitor the utilization and clock frequency of AMD chips with the potential for boosting performance.
+
+More than 10 years ago, Valve Corporation's Steam first saw the light of day as a gaming platform for Linux. Following this biggish bang, the free Linux operating system started to gain the attention of gamers. Thanks to Steam and its Proton Windows emulation layer, the selection of well-known game titles has grown steadily since then, with many top titles now released simultaneously for Windows and Linux.
+
+Experience and benchmarks show that some games even run faster on Linux than on Windows thanks to the Proton runtime environment maintained by Valve and the modern Vulkan graphics API. The constant improvements to Linux driver support for graphics chips and technologies play a significant role here. These technologies include Deep Learning Super Sample (DLSS) [1], NVIDIA's real-time upscaling technology for computer games, and FidelityFX Super Resolution (FSR) [2], AMD's counterpart DLSS for upscaling and frame rate enhancement.
+
+In most cases, even more improvements are possible: Optimally configured drivers tweak a few more frames per second out of the available graphics hardware. AI frameworks and renderers such as Blender also benefit from this: They also tend to use powerful GPU shaders for floating-point arithmetic because they handle the task more efficiently than the CPU.
+
 ### Keep getting a 'fatal protection fault in supervisor mode' on VirtualBox
 https://www.reddit.com/r/openbsd/comments/yew0ri/keep_getting_a_fatal_protection_fault_in/?rdt=54025
  - I mounted the VDI on the AHCI SATA controller and it worked.
