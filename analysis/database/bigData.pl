@@ -12,7 +12,7 @@ Here's a more detailed explanation:
 Key Components of an IRB Application:
  - Research Protocol: A detailed description of the research design, methodology, and procedures. 
  - Informed Consent Materials: Documents that explain the study to participants and obtain their voluntary agreement to participate. 
-Recruitment Materials: Information about how participants will be identified and invited to join the study. 
+ - Recruitment Materials: Information about how participants will be identified and invited to join the study. 
  - Data Management Plan: Details about how data will be collected, stored, and protected. 
-Risk Assessment: An evaluation of potential risks to participants and plans to mitigate those risks. 
+ - Risk Assessment: An evaluation of potential risks to participants and plans to mitigate those risks. 
  - Confidentiality and Privacy Protections: Measures to safeguard participant information and maintain confidentiality. 
