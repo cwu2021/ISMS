@@ -87,6 +87,7 @@ https://tw.news.yahoo.com/%E6%98%9F%E5%B7%B4%E5%85%8Bweb-3%E8%A8%88%E5%8A%83-ody
 # Tor Browser 13.5 legacy
  - Download Tor Browser 13.5 legacy on Windows 7, 8 and 8.1 and macOS 10.12, 10.13 and 10.14
 https://forum.torproject.org/t/download-tor-browser-13-5-legacy-on-windows-7-8-and-8-1-and-macos-10-12-10-13-and-10-14/15524
+ - Safe file sharing with OnionShare https://www.linux-magazine.com/Issues/2025/295/OnionShare
  - 遺失api-ms-win-crt-runtime-l1-1-0-dll 解決方法
 https://answers.microsoft.com/zh-hant/windows/forum/all/%E9%81%BA%E5%A4%B1api-ms-win-crt-runtime-l1-1-0/810b8371-e748-424d-b9f1-909864c5b23e
  - The Multi-Blocker: uBlock Origin https://www.linux-magazine.com/Online/Features/An-Essential-Extension-for-Any-User/
