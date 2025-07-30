@@ -18,4 +18,5 @@ ollama run gemma:2b
 # 什麼是主權 AI？https://www.oracle.com/tw/artificial-intelligence/sovereign-ai/
 # Kick-start your AI projects with Kubeflow https://www.admin-magazine.com/Archive/2025/85/Kick-start-your-AI-projects-with-Kubeflow?utm_source=AU
 # Amazon 最新大語言模型 Amazon Nova 以及 AI Agent with AWS 的實例解說
+## AI agent: LLM + memory + planning + tools/action
 # DigitalOcean launched official MCP Server for App Platform, making it easier than ever to deploy and manage your applications. 
