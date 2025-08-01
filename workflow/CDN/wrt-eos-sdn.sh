@@ -41,7 +41,9 @@ opensource.com/alternative/minecraft
 minetest.net/downloads
 
 Granting Access to UniFi - Roles and Permissions – Ubiquiti Help Center
-https://help.ui.com/hc/en-us/articles/1500011491541-Granting-Access-to-UniFi-Roles-and-Permissions
+ - https://help.ui.com/hc/en-us/articles/1500011491541-Granting-Access-to-UniFi-Roles-and-Permissions
 connecting switches on different controllers | Ubiquiti Community
-https://community.ui.com/questions/connecting-switches-on-different-controllers/26329716-b7b2-4731-83cb-0bf916dddffe
+ - https://community.ui.com/questions/connecting-switches-on-different-controllers/26329716-b7b2-4731-83cb-0bf916dddffe
+Introducing UniFi OS Server for MSPs
+ - https://blog.ui.com/article/introducing-unifi-os-server
 END
