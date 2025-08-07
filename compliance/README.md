@@ -170,6 +170,7 @@ https://www.epochtimes.com/b5/23/10/12/n14093967.htm
  - Roku: Miss us? Here’s a 4K player for $10 plus free shipping
  - The new Roku Streaming Sticks https://www.roku.com/itson
  - Keep the Streaming Day celebrations going with big savings on top subscriptions, including AMC+, MGM+, STARZ, and more.
+ - Introducing Howdy—a brand-new streaming service by Roku
  - 串流媒體的現況與挑戰
 https://www.facebook.com/share/p/mnv5hhD4ZmmzeoHe/?mibextid=CTbP7E
  - 毛利率、淨利率、營業利益率，怎麼計算？ https://www.managertoday.com.tw/articles/view/55137
