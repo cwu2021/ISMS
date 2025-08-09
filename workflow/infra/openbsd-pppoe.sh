@@ -9,4 +9,5 @@ wifi infra
  - modem can be set as pppoe gateway = DMZ
  - AP bridged into DMZ or NAT
  - vpn can run behind NAT
+ - ubuntu server + pppoe 撥號 + NAT 供內部網路上網－Hello World｜痞客邦 https://helloworld.pixnet.net/blog/post/48030956
 '
