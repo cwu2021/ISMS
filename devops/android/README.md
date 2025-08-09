@@ -27,3 +27,5 @@ React Native is a React JS-based framework to design mobile apps. Moreover, with
  - can be set everyday with specified audio file
  - snooze 5 min with the same file
  - new alarm can overlap snooze period
+## sidebar of Ubuntu Touch
+ - To enable Samsung's sidebar (called Edge panels), go to Settings > Display, then tap on Edge panels and toggle the switch to turn it on (Gemini). 
