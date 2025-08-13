@@ -121,6 +121,10 @@ Native WireGuard support is also available via the wg(4) device. As the manual e
  - AWS Client VPN https://aws.amazon.com/vpn/client-vpn/
  - https://www.techtarget.com/searchsecurity/feature/Multifactor-authentication-products-Symantec-Validation-and-ID-Protection-Service
  - Security best practices for administrator accounts https://support.google.com/cloudidentity/answer/9011373?hl=en
+##### MFA for visa application
+ - passport doc live image
+ - passport NFC
+ - facial live image
 #### 2FA VPNs https://marc.info/?l=openbsd-misc&m=166794348111746&w=2
 Thought I'd follow up on this with my thoughts after considering the
 various suggestions (thanks all).
