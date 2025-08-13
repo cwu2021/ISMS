@@ -1,6 +1,7 @@
 #!/bin/bash
 #  https://www.redhat.com/sysadmin/backup-Restic?sc_cid=7013a000002piSoAAI 
 # Wireless File Sharing https://www.linux-magazine.com/Issues/2025/291/LocalSend
+# Compressed Archives for User Projects https://www.admin-magazine.com/Articles/Compressed-Archives-for-User-Projects/
 
 set -e
 source /etc/restic/b2.env
