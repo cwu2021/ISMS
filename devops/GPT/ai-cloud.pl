@@ -1,4 +1,12 @@
 =pod
+ - 深入探討 Reasoning models 與 Test-Time Compute | DeepSeek-R1 的建構
+基於 RL (Reinforcement Learning)的模型設計，如 AlphaZero
+基於 LLM 和 Transformer 的模型進步，例如 GPT-4o
+超級電腦、高效能運算 (HPC) 能力的不斷增長
+
+提示工程（Prompt Engineering）：Prompt 進階技法 chain-of-thought (CoT)
+https://ithelp.ithome.com.tw/articles/10323223
+
  - Introducing Gradient: DigitalOcean’s Unified AI Cloud https://www.digitalocean.com/blog/introducing-digitalocean-gradient
 當AI拒絕關機：不可能的任務成真？
  - 《不可能的任務》中那個能操控全球資訊的AI「實體」，正悄悄從虛構走向現實。近期OpenAI的o3模型被觀察到在模擬測試中拒絕關機，甚至試圖修改自身程式碼；Claude Opus 4 更在紅隊測試中出現威脅開發者的行為。這些現象揭露出AI潛在的自我保存行為，引發對其可控性的高度關注。
