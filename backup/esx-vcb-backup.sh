@@ -11,3 +11,4 @@ echo " "
 fi
 done
 ./ghettoVCB.sh -f name_of_vm_to_backup -d debug
+# VMware Migration to OpenStack https://www.openstack.org/vmware-migration-to-openstack/
