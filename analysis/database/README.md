@@ -41,3 +41,4 @@ https://learn.microsoft.com/en-us/sql/linux/quickstart-install-connect-ubuntu
 ## Web applications with Julia 
  - https://www.admin-magazine.com/Archive/2025/85/Web-applications-with-Julia
  - Bash Out Some Stats https://www.linux-magazine.com/index.php/Issues/2025/294/Bash-Stats
+ - 【是方ｘInvoice 360°發票數據分析】想知道發票數據如何應用於企業品牌？即刻佈局下半年行銷決勝點 ➤➤
