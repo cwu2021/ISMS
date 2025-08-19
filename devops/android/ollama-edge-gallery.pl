@@ -30,3 +30,12 @@ Gemma-3n-E2B/E4B 在手機端的表現相當穩定，能快速生成自然語言
 - 你覺得離線 AI 的最大應用場景會是什麼？
 - 如果可以在手機上跑 GPT-4o，你最想拿它來幹嘛？
 #AI狐報 #GoogleAI #EdgeComputing #Gemma #Qwen2.5 #本地部署AI #離線生成式AI #AI應用 #資料隱私 #隨身AI助手 #AIEdgeGallery #Google #OpenAi #ChatGPT
+ - Google開源Gemma 3 270M，挑戰低資源部署
+https://www.ithome.com.tw/news/170635
+目前Gemma 3系列包含270M、1B、4B、12B與27B等不同規模版本。在Q4_0量化格式下，各模型的記憶體需求分別為240MB、892MB、3.4GB、8.7GB及21GB。Gemma 3 270M版本以最低記憶體門檻與最低功耗，成為目前系列中最適合部署於終端裝置的選擇。
+
+Google也同步發布微調教學資源，包含以Hugging Face Transformers進行全模型訓練的完整流程，支援開發者針對分類、資料抽取、情緒分析等應用進行客製化。社群開發者也已透過transformers.js展示其在瀏覽器端的運行能力，證明Gemma 3 270M在Web環境中亦具備良好效能與可控性。
+
+Gemma團隊表示，Gemma 3 270M適合處理高頻率、任務明確的應用，如情緒分析、實體辨識與查詢分類；能快速微調並部署於資源有限的裝置上，降低延遲與推論成本；模型可在本地執行，特別適合處理敏感資料；亦適用於開發多個專責任務的小型模型。
+
+Gemma 3 270M與尚未開源的Gemma 3n同屬Google推動裝置端AI的戰略佈局。前者主打開源、可微調與跨平臺部署，後者則針對2GB RAM等極端低資源裝置優化，用於即時與離線運行。
