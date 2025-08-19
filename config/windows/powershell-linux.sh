@@ -8,7 +8,7 @@ wget -q "https://packages.microsoft.com/config/ubuntu/$(lsb_release -rs)/package
 sudo dpkg -i packages-microsoft-prod.deb 
 sudo apt update
 sudo apt install powershell -y
-:'
+:END
 The differences between PowerShell 2.0 and newer versions are significant, mainly revolving around **cross-platform compatibility, security, performance, and new features**. Microsoft decided to end support for version 2.0 primarily because it's a **legacy, insecure, and outdated component** that no longer meets modern IT standards.
 
 ***
@@ -34,4 +34,4 @@ Microsoft is removing PowerShell 2.0 from Windows to **clean up legacy code, imp
 * **Security Risks:** PowerShell 2.0's old architecture and lack of modern security protocols make it a security liability. Threat actors have exploited it to bypass security controls and run malware. Removing it eliminates this attack vector.
 * **Outdated Architecture:** Version 2.0 is a legacy component, first released with Windows 7 in 2009. Maintaining this old code is a burden and prevents Microsoft from focusing on newer, more secure versions.
 * **Modernization:** The removal is part of a broader effort by Microsoft to move users toward modern, supported tools like PowerShell 5.1 (which is preinstalled on most modern Windows systems) and the cross-platform PowerShell 7.x.
-'
+END
