@@ -18,6 +18,14 @@ opkg install python3-pyserial
 # install package manager on asus router - Unix & Linux Stack Exchange
 # https://unix.stackexchange.com/questions/219605/install-package-manager-on-asus-router
 # [OpenWrt Wiki] Write shell scripts in OpenWrt https://openwrt.org/docs/guide-developer/write-shell-script
+:'
+(AI 摘要) BusyBox includes a basic FTP client functionality primarily through the ftpget and ftpput applets, although their availability depends on how BusyBox was compiled.
+1. ftpget for downloading files:
+Usage: busybox ftpget [OPTIONS] HOST [LOCAL_FILE] REMOTE_FILE
+Example: busybox ftpget -u myuser -p mypass ftp.example.com myfile.txt /remote/path/myfile.txt
+2. ftpput for uploading files:
+Usage: busybox ftpput [OPTIONS] HOST REMOTE_FILE 
+'
 # https://stackoverflow.com/questions/947897/block-comments-in-a-shell-script
 : <<'END'
 Cisco SF300-48 replaced with EOS(72)
