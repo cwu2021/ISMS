@@ -8,3 +8,17 @@ mount.cifs //<ip>/<share> /<mount> -i user=<username>,pass=<password>,iocharset=
 # https://askubuntu.com/questions/867243/what-is-warning-syslog-option-is-deprecated
 # https://forums.centos.org/viewtopic.php?t=58013
 # syslog = 0 in [global] to disable logging, e.g. printer errs 
+:'
+net statistics workstation to check uptime of Windows
+Q: why does windows share open slow?
+Network Bottlenecks: This is the most common cause. A slow or congested network connection (e.g., poor Wi-Fi signal, a bad cable, or a busy network switch) can severely impact how quickly files and folders are displayed.
+
+System and File Attributes: Windows Explorer looks for special attributes and files, such as desktop.ini, which can cause a significant delay when browsing folders with thousands of items. The "System" attribute on a folder can also trigger a similar slowdown.
+
+Antivirus and Security Software: Antivirus programs often scan network files when you access them, which can add a considerable delay.
+
+Incorrect DNS or NetBIOS Configuration: If your system has trouble resolving hostnames, it can cause timeouts and delays when trying to connect to a shared folder. Disabling IPv6 or resetting the TCP/IP stack has resolved this for some users.
+
+Windows' Client Caching: Windows uses client-side caches to speed up access to shared files, but sometimes these caches can cause issues. Registry changes to values like DirectoryCacheLifetime or FileInfoCacheLifetime are often suggested as a solution, though this should be done with caution.
+
+'
