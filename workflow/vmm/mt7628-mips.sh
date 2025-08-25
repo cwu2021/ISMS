@@ -18,6 +18,7 @@ Apple Remote（鋁殼）
 '
 # Freebsd supports MIPS until 13.
 # https://openwrt.org/docs/techref/hardware/soc/soc.mediatek
+# N:$599, AC52:$799, AC1200:$1099. SDHC2USB:$168.
 uname -a
 cat /proc/cpuinfo
 # https://stackoverflow.com/questions/947897/block-comments-in-a-shell-script
