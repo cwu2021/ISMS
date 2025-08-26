@@ -1,4 +1,9 @@
 # https://www.linux-magazine.com/Issues/2025/294/Automated-Process-Monitoring
+"""
+MAX是由俄羅斯第二大網路公司VK在俄羅斯政府的要求下所開發的傳訊程式
+https://www.ithome.com.tw/news/170769
+根據路透社（Reuters）的報導，俄羅斯政府日前已開始限制當地WhatsApp及Telegram的通話能力，原因是它們不肯配合有關詐欺及恐怖主義案件的資訊分享。而當地前三大傳訊程式依序是WhatsApp的9,700萬用戶、Telegram的9,100萬用戶，以及VK Messenger的1,800萬用戶。
+"""
 while True:
      found=False
      for process in psutil.process_iter():
