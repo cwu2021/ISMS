@@ -32,3 +32,8 @@
 # (CDN) -> HA proxy port 443 to 80, in IDC of 18 degrees Celsius, 50% humidity.
 # Cloudflare and nginx: Too many redirects  https://stackoverflow.com/questions/35143193/cloudflare-and-nginx-too-many-redirects
 # Traffic analysis with mitmproxy https://www.admin-magazine.com/Archive/2025/85/Traffic-analysis-with-mitmproxy
+=begin
+Fastly發現網站AI流量多來自爬蟲，即時擷取卻成最大壓力源
+https://www.ithome.com.tw/news/170730
+Fastly報告指出人工智慧機器人流量多為爬蟲占80％，但真正威脅在即時擷取，高峰時每分鐘可達3.9萬次請求，遠超爬蟲千次規模，對未防護網站可能造成類似DDoS的風險
+=end
