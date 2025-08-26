@@ -42,4 +42,10 @@ nc  -u <dest> 10001 < /dev/random
 ./srt-live-transmit udp://:1234 srt://:4201 -v
 # Sending and Receiving SRT Video Feeds - Viz Now
 # https://docs.vizrt.com/viz-now-launchpad/1.2/Sending_and_Receiving_SRT_Video_Feeds.html
+:'
+At IBC 2025, stand #10.A41, Vizrt will show how AI-enhanced virtual studios help you: 
+ - Bring AR graphics and virtual sets to life in compact setups 
+ - Produce polished fireside chats, training, and branded videos with ease 
+ - Deliver a visual experience that’s bold, branded, and builtto break through
+'
 # https://www.haivision.com/blog/tag/play-pro/
