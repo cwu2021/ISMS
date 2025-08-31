@@ -30,3 +30,14 @@ systemctl reload nginx
 # 如何在 NGINX 伺服器中安裝 SSL 證書 https://www.gaia.net/tc/news_detail/2/127/nginx-ssl
 cat yourdomain.crt SectigoRSADomainValidationSecureServerCA.crt USERTrustRSAAAACA.crt AAACertificateServices.crt >> bundle.crt
 systemctl restart nginx
+:'
+https://www.positivessl.com/the-positivessl-trustlogo
+The PositiveSSL secure site seal is a visual stamp displayed on a web site indicating the site is secure and trustworthy, letting users know any transaction, purchase, or personal data transmitted through the site is safe.
+<script type="text/javascript"> //<![CDATA[
+  var tlJsHost = ((window.location.protocol == "https:") ? "https://secure.trust-provider.com/" : "http://www.trustlogo.com/");
+  document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/trustlogo.js' type='text/javascript'%3E%3C/script%3E"));
+//]]></script>
+<script language="JavaScript" type="text/javascript">
+  TrustLogo("https://www.positivessl.com/images/seals/positivessl_trust_seal_lg_222x54.png", "POSDV", "none");
+</script>
+'
