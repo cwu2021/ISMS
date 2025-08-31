@@ -6,6 +6,7 @@ https://community.ui.com/releases/UniFi-Network-Application-8-0-7/7818b9df-4845-
  - PING and TRACEROUTE from within the UDM? : r/UNIFI https://www.reddit.com/r/UNIFI/comments/1ctbxyw/ping_and_traceroute_from_within_the_udm/?rdt=56611
  - The Tactical RMM open source tool offers a combination of remote monitoring and management with agents. https://www.admin-magazine.com/Archive/2025/86/Remote-access-with-Tactical-RMM
  - Introducing: UniFi Network 9.3 https://blog.ui.com/article/introducing-network-9-3
+ - Introducing Protect 6.1, G6 Pro Bullet, SuperLink Environmental Sensor and PoE Siren https://blog.ui.com/article/introducing-unifi-protect-6-1
 
 # nagios-plugins
 https://github.com/nagios-plugins/nagios-plugins
