@@ -4,6 +4,7 @@ smbclient -U $myuser -W $mydomain -L $myserver
 # mount shares with then serve as SMB gateway.
 #mount.cifs ... -o vers=1.0,...
 mount.cifs //<ip>/<share> /<mount> -i user=<username>,pass=<password>,iocharset=utf8,rw
+# smb cache->ftp
 :'
 No, assigning a public IPv6 address to your Windows machine via DHCPv6 does not automatically make your shared folders publicly accessible. Public IP addresses are assigned to your router or network gateway, not individual devices on your private network. Your shared folders remain protected by your firewall and network security settings unless you specifically configure them for remote access, which involves port forwarding on your router and appropriate Windows sharing permissions. 
 
