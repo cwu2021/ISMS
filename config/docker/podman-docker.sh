@@ -11,3 +11,4 @@ sudo podman run rhel7:7.5 echo "Hello world"
 # https://ithelp.ithome.com.tw/articles/10238749
 # https://darumatic.com/blog/podman_introduction
 # Run rootless Podman containers https://www.admin-magazine.com/Archive/2025/85/Run-rootless-Podman-containers-as-systemd-services?utm_source=AU
+# Replacing Kubernetes with systemd https://blog.yaakov.online/replacing-kubernetes-with-systemd/
