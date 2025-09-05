@@ -20,3 +20,10 @@ ollama run gemma:2b
 # Amazon 最新大語言模型 Amazon Nova 以及 AI Agent with AWS 的實例解說
 ## AI agent: LLM + memory + planning + tools/action
 # DigitalOcean launched official MCP Server for App Platform, making it easier than ever to deploy and manage your applications. 
+:'
+AI agents 正在重塑我們建構與使用商務應用程式的方式。您將深入了解如何透過 Power Apps發揮 AI agents 的生產力潛能——從運用「氛圍編碼」（vibe coding）打造客製化體驗，到透過全新的 agent feed 監管 autonomous agents。
+
+使用 Generative pages ，並透過自然語言打造客製化介面
+透過全新agent feed實現agents 監管
+運用內建智慧功能，自動化處理表單填寫、資料探索等任務
+'
