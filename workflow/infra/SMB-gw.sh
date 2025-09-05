@@ -9,7 +9,7 @@ mount.cifs //<ip>/<share> /<mount> -i user=<username>,pass=<password>,iocharset=
 No, assigning a public IPv6 address to your Windows machine via DHCPv6 does not automatically make your shared folders publicly accessible. Public IP addresses are assigned to your router or network gateway, not individual devices on your private network. Your shared folders remain protected by your firewall and network security settings unless you specifically configure them for remote access, which involves port forwarding on your router and appropriate Windows sharing permissions. 
 
 AI 摘要+20
-To perform IPv6 "port forwarding," you need to create a firewall rule on your router to allow incoming connections for a specific protocol and port to a particular device on your network, rather than using NAT-based port forwarding. This involves configuring the router's firewall to permit traffic to the globally routable IPv6 address of the target host, as every device in IPv6 typically has a public address and no address translation is needed. 
+To perform IPv6 "port forwarding," you need to create a firewall rule on your router to allow incoming connections for a specific protocol and port to a particular device on your network, rather than using NAT-based port forwarding. This involves configuring the router firewall to permit traffic to the globally routable IPv6 address of the target host, as every device in IPv6 typically has a public address and no address translation is needed. 
 
 '
 # read only, guest options set in /etc/samba/smb.conf.
@@ -18,6 +18,7 @@ To perform IPv6 "port forwarding," you need to create a firewall rule on your ro
 # syslog = 0 in [global] to disable logging, e.g. printer errs 
 :'
 net statistics workstation to check uptime of Windows
+large number of files 與 log level 會影響效能，所以檔案與子目錄數量與行為數量都會影響 https://wiki.samba.org/index.php/Performance_Tuning https://www.samba.org/samba/docs/old/Samba3-HOWTO/speed.html
 Q: why does windows share open slow?
 Network Bottlenecks: This is the most common cause. A slow or congested network connection (e.g., poor Wi-Fi signal, a bad cable, or a busy network switch) can severely impact how quickly files and folders are displayed.
 
