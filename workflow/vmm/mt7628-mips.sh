@@ -18,7 +18,18 @@ Apple Remote（鋁殼）
 '
 # Freebsd supports MIPS until 13.
 # https://openwrt.org/docs/techref/hardware/soc/soc.mediatek
-# N:$599, AC52:$799, AC1200:$1099. SDHC2USB:$168.
+# N:$599, AC52:$899, AC1200:$999/1099. SDHC2USB:$168.
+# 802.11s mesh using iw,batman-adv (Layer‑2) 
+apt update && sudo apt install iw iproute2 wireless-tools
+ip link set wlan0 down
+iw dev wlan0 set type mp
+ip link set wlan0 up
+iw dev wlan0 mesh join mymesh freq 2412
+# (Optionally add a security key: sudo iw dev wlan0 mesh join mymesh key 01:23456789abcdef0123456789)
+ip addr add 10.0.0.1/24 dev wlan0 #(on node A)
+ip addr add 10.0.0.2/24 dev wlan0 #(on node B)
+ping 10.0.0.2 #from node A.
+# Note: replace wlan0, mesh name, and frequency as needed. Use 2412 for channel 1 on 2.4 GHz; regulatory constraints apply.
 uname -a
 cat /proc/cpuinfo
 # https://stackoverflow.com/questions/947897/block-comments-in-a-shell-script
