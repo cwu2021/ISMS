@@ -6,4 +6,5 @@ ffmpeg -i input_video.mp4 \
   -hls_list_size 0 \
   -f hls \
   filename.m3u8
-#https://www.mux.com/articles/how-to-convert-mp4-to-hls-format-with-ffmpeg-a-step-by-step-guide
+# https://www.mux.com/articles/how-to-convert-mp4-to-hls-format-with-ffmpeg-a-step-by-step-guide
+# with an HDMI USB dongle for input, Windows can act as an encoder with tor management. TEMPer USB dongle can do environmental measurement as well. 
