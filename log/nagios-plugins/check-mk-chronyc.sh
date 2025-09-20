@@ -6,3 +6,6 @@ cat > /usr/bin/chronyc << EOF
 /usr/bin/chronyc.bak -n $1
 EOF
 # ntpq -p to check ntpd peer status
+systemctl status ntp
+systemctl stop ntp
+systemctl start ntp
