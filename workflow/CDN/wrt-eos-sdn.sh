@@ -2,7 +2,12 @@
 # VBoxManage convert from raw ...
 # c:\program files\oracle\virtualbox\
 # openwrt.org/docs/guide-user/network/network_configuration
-
+:'
+openwrt.org bot protection
+https://github.com/TecharoHQ/anubis
+Linksys Velop WRT Pro 7
+https://openwrt.org/releases/19.07/notes-19.07.9
+'
 # dart language for OpenWRT Manager app dev
 service firewall stop
 # OpenWRT access from WAN customized rules
