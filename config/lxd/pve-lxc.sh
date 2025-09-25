@@ -15,3 +15,4 @@ man pct
 # Celebrating 20 Years of Proxmox! https://forum.proxmox.com/threads/celebrating-20-years-of-proxmox.165655/
 # Proxmox Virtual Environment 8.4 https://forum.proxmox.com/threads/proxmox-ve-8-4-released.164821/
 # Proxmox Virtual Environment 9.0 with Debian 13 released
+# Beta release: Proxmox Datacenter Manager
