@@ -1,5 +1,6 @@
 #!/bin/bash
 # https://stackoverflow.com/questions/4774358/get-mtime-of-specific-file-using-bash
+# Watchful: Monitor your system using kernel auditing and auditctl. Use the kernel auditing system to set watches on critical files and system calls and log the activity for later anaylsis
 
 # define workflow here.
 work_process=
