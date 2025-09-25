@@ -64,6 +64,7 @@ facsiginsa.com manpage ifconfig up
 # Building a defense against DDoS attacks
  - https://www.admin-magazine.com/Archive/2024/79/Building-a-defense-against-DDoS-attacks
  - Denial of service defense https://www.admin-magazine.com/Archive/2025/86/Denial-of-service-defense
+ - Slowloris can help you harden your web servers against denial-of-service attacks that restrict the availability of web services.
 # How to block all VPNs, Proxys and host IPs?
 Cloudflare managed lists do it, but I’m afraid its only available to enterprise customers.
 - https://community.cloudflare.com/t/how-to-block-all-vpns-proxys-and-host-ips/303070
