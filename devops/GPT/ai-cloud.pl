@@ -1,4 +1,5 @@
 =pod
+ - Gemini Canvas to create app and share.
  - 深入探討 Reasoning models 與 Test-Time Compute | DeepSeek-R1 的建構
 基於 RL (Reinforcement Learning)的模型設計，如 AlphaZero
 基於 LLM 和 Transformer 的模型進步，例如 GPT-4o
