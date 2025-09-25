@@ -77,4 +77,5 @@ C:\\> ffmpeg.exe -f libndi_newtek -i "NC1IO-RCTV (IN 4)" -vf yadif -c:v libx264 
  - Backing Up Plex Media Server Data https://support.plex.tv/articles/201539237-backing-up-plex-media-server-data/
  - Plex Media Server Requirements https://support.plex.tv/articles/200375666-plex-media-server-requirements/
  https://support.plex.tv/articles/202915258-where-is-the-plex-media-server-data-directory-located/
- - plex SSDP device autodiscovery via description.xml from http
+ - Plex SSDP device autodiscovery via description.xml from http
+ - Plex Media Server API documentation is officially available.
