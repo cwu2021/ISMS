@@ -7,3 +7,4 @@ Taskkill /IM music.UI.exe /F
 REM vlc for more supported formats: ctrl-up/down,f/esc https://wiki.videolan.org/QtHotkeys/
 c:\program files\videolan\vlc\vlc.exe --fullscreen video.rmvb
 taskkill /im vlc.exe /f
+REM convert/save to H.264/AAC by selecting H.264 Video profile then choose aac as Audio.
