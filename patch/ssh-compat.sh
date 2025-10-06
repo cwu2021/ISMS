@@ -16,3 +16,4 @@ uname -a
 # https://blog.alanwei.com/blog/2022/01/24/ssh-no-matching-host-key-type-found/
 ssh -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa  user@host -p 22
 echo 'HostKeyAlgorithms=+ssh-rsa' >> ~/.ssh/config
+# OpenSSH Post-Quantum Cryptography https://www.openssh.com/pq.html
