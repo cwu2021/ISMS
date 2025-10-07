@@ -60,6 +60,7 @@ $350-390 --> or $600!
 ### power adapter debugging
  - eg. 19V/3.42A @--(-@ of +- in/out. smaller amp rewuires battery aid.
  - two/three pin cable from monitor,camera,mac.
+ - UPS 1kVA/13kg spec: 1kVA * 0.9pf = 900kW ; NEMA connectors *4.
 ### refrigerator checks
 如果有冰箱型號，可以查查集水盤在哪
 ### 資訊設備的耗電量與費用 » 科一電腦
