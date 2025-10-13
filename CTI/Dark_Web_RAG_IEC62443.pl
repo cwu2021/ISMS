@@ -1,4 +1,6 @@
 =pod
+三大勒索軟體集團LockBit、DragonForce與Qilin結盟
+ - 美國網路安全暨威脅偵測業者ReliaQuest發布第三季勒索軟體報告，顯示LockBit、DragonForce與Qilin已展開結盟，將分享彼此的戰術及資源
 Potential advantage of IPv6
  - speed (without NAT)
  - security (large address space to scan)
