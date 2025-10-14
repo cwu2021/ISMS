@@ -20,3 +20,7 @@ es/test.pl
 `lq "GET hosts\nColumns: name address"`
 # Checkmk on the command line
 # https://docs.checkmk.com/latest/en/cmk_commandline.html
+:'
+Explore UniFi Network 9.5: Port Anomaly
+ - A new metric that factors in port flapping, high retries, and other early warning signs of instability, with admin alerts managed seamlessly through Alarm Manager.
+'
