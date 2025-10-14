@@ -6,6 +6,7 @@
 """
 # ch1-7 STL: Segmenting, Targeting, Positioning ; 4P: Product, Price, Place, Promotion 
 # https://github.com/HowardNTUST/Marketing-Data-Science-Application/tree/master/cost_effect_gps_positioning
+# Use a low-cost GPS module and Navit to build a portable GPS system. 
 # 輿情分析 https://choose.blueplanet.com.tw/
 # 民調中心 https://www.setn.com/votelist.aspx
 # https://news.ltn.com.tw/news/politics/breakingnews/4340492
