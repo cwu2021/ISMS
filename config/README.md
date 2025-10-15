@@ -60,7 +60,7 @@ $350-390 --> or $600!
 ### power adapter debugging
  - eg. 19V/3.42A @--(-@ of +- in/out. smaller amp rewuires battery aid.
  - two/three pin cable from monitor,camera,mac.
- - UPS 1kVA/13kg spec: 1kVA * 0.9pf = 900kW ; NEMA connectors *4.
+ - UPS 1kVA/13kg spec: 1kVA * 0.9pf = 900kW ; NEMA connectors *4. = starting with a low usage power bar then add more gradually.
  - Introducing UniFi Uninterruptible Power: UPS 2U and Tower: Delivering 1.44 kVA Capacity, Eight Outlets, Field-replaceable 216 Wh Battery
 , Provides Surge Protection, NUT 3rd Party Support.
 ### refrigerator checks
