@@ -21,6 +21,7 @@ React Native is a React JS-based framework to design mobile apps. Moreover, with
  - https://en.wikipedia.org/wiki/Webpack
 # Try galaxy
  - https://tw.trygalaxy.com/
+ - the new Fire TV Stick 4K Select, our most affordable 4K streaming stick and first to run Vega OS. https://developer.amazon.com/apps-and-games/blogs/2025/09/announcing-vega-os
 ## if App data not updating: 
  - Go under settings and scroll down to apps and find the weather app. Force close it. Then go under storage section of the app and delete the data and the cache. That worked for me. You will have to go back in and then change the refresh time to every hour. Good luck!2022年3月4日
 ## alarm setup 
