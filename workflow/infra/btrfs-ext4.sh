@@ -10,3 +10,6 @@ df -i
 #  Because of that, the Ext4 filesystem is very stable. The Ext4 filesystem is still the default filesystem in many popular Linux distributions (i.e. Ubuntu/Debian). If you need to store some data as an ordinary Linux user, you can keep your eyes closed and use the Ext4 filesystem.
 # HDD compatibility list is important. Otherwise 'Unverified'.
 # https://www.synology.com/en-global/compatibility?search_by=products&model=DS2422%2B&category=hdds_no_ssd_trim&p=1&change_log_p=1
+"'
+Bcachefs, a next-generation Linux filesystem, merges into the kernel, offering a feature-complete, high-performance copy-on-write design for scalable, reliable storage.
+'
