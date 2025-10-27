@@ -4,3 +4,4 @@ syspatch
 # releases from 2.1 are archived on ftp eu.openbsd.org
 lynx https://ftp eu.openbsd.org/pub/OpenBSD
 # OpenBSD 7.7 released April 28, 2025
+# OpenBSD 7.8 released: Oct 22, 2025
