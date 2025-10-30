@@ -1,2 +1,4 @@
 =pod
 Grok: NIST 800-53 aligns better with ISO 27001 than CIS Benchmarks due to its broader control coverage, alignment with risk management, and native complyctl support via OSCAL. It covers more of Annex A (70–90%) and reduces the effort needed for organizational controls, making it a stronger foundation for ISO 27001 compliance. However, CIS Benchmarks are valuable for quickly hardening specific systems and can still contribute significantly (50–70% of Annex A) if your focus is technical security. For a privately held company, choose NIST 800-53 if you aim for comprehensive compliance and automation, or CIS Benchmarks if you prioritize practical, system-specific hardening with complyctl.
+
+- Ubuntu 24.04 server minimal installation  meets 40-50% of NIST 800-53, while Openbsd 7.8 scores 70-80%.
