@@ -34,8 +34,11 @@ openvpn --remote 10.56.100.53 --comp-lzo --dev tun --auth-user-pass --ca ca.crt 
 # https://kb.synology.com/en-af/DSM/help/VPNCenter/vpn_setup?version=783695130
 # ca expired-Synology Community
 # https://community.synology.com/enu/forum/1/post/145263
-# [Openvpn-announce] OpenVPN 2.7_alpha1 released
-# [Openvpn-announce] OpenVPN 2.7_alpha2 released
-# [Openvpn-announce] OpenVPN 2.7_beta1 released
-# [Openvpn-announce] OpenVPN 2.6.15 released
-# [Openvpn-announce] OpenVPN 2.7_beta2 released
+:'
+[Openvpn-announce] OpenVPN 2.7_alpha1 released
+[Openvpn-announce] OpenVPN 2.7_alpha2 released
+[Openvpn-announce] OpenVPN 2.7_beta1 released
+[Openvpn-announce] OpenVPN 2.6.15 released
+[Openvpn-announce] OpenVPN 2.7_beta2 released
+[Openvpn-announce] OpenVPN 2.7_rc1 released
+'
