@@ -1,3 +1,9 @@
+=begin
+Cloudflare Bot Fight Mode is a simple, free product that helps detect and mitigate bot traffic on your domain. When enabled, the product:
+ - Identifies traffic matching patterns of known bots
+ - Issues computationally expensive challenges in response to these bots
+ - Notifies Bandwidth Alliance ↗ partners (if applicable) to disable bots
+=end
 # https://misc.openbsd.narkive.com/YlUt2LPL/using-relayd-as-a-reverse-proxy-for-multiple-local-servers
 # https://medium.com/@davidgurevich_11928/cloudfront-as-a-reverse-proxy-fb6a8dcbed96
 # 6. Set allowed HTTP methods. Methods can be restricted but I allow all.
