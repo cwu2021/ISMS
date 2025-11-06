@@ -7,3 +7,6 @@ git pull
 # package for ip addr
 # https://askubuntu.com/questions/1212555/what-apt-package-installs-ip-addr-command
 apt install iproute2 -y
+:'
+The GNU Stow tool in combination with Ansible can help you manage configuration files.
+'
