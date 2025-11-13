@@ -37,6 +37,7 @@ https://ithelp.ithome.com.tw/m/questions/10194900 <br>
 ### Event IDs to monitor
 When it comes to Windows log collection, one of the most challenging tasks of a system administrator is deciding which event IDs to monitor. Due to the large number of event IDs in use, this can be daunting at first sight. Therefore, this section aims to provide guidance about selecting event IDs to monitor, with some example configurations. <br>
 https://nxlog.co/documentation/nxlog-user-guide/eventlog-eventids.html
+### Remora (resource monitoring for remote applications) can be used by any user to run their applications. Simply, when you run your code, you just preface it with the remora  command, for example: $ remora ./myapp.exe . Remora then captures lots of information and puts it in a subdirectory where you can postprocess and create a report.
 ### Splunk, Greylog, Winlogbeat.
  - https://docs.splunk.com/Documentation/Splunk/9.0.2/Installation/DeployandrunSplunkEnterpriseinsideDockercontainers
  - docker pull splunk/splunk:latest
