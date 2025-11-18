@@ -21,3 +21,34 @@ whois 104.18.22.126
 Integrated Security with Wazuh
 This versatile security app checks for vulnerabilities, watches logs, and acts as a single interface for other tools.
 '
+# One-liner to check WordPress, Joomla, Drupal, etc.
+for path in wp-admin wp-login.php wp-content/themes admin/index.php sites/default/settings.php /laravel /react-build /static/js; do
+  status=$(curl -s -o /dev/null -w "%{http_code}" https://my.site/$path)
+  if [ "$status" = "200" ]; then echo "FOUND: $path (likely $(echo $path | cut -d/ -f1))"; fi
+done
+
+# Fetch homepage and search for generator/meta clues
+curl -s https://my.site/ | grep -iE "(generator|wordpress|wp-content|drupal|joomla|laravel|react)"
+
+# Headers + favicon hash (common for WP detection)
+curl -sI https://my.site| grep -iE "(x-powered-by|server|framework)"
+# For favicon: wget -q https://my.site/favicon.ico -O - | md5sum
+
+# Install (one-time)
+sudo apt update && sudo apt install whatweb
+
+# Scan the site
+whatweb https://my.site -v
+:'
+HTTP Headers:
+        HTTP/1.1 200 OK
+        Transfer-Encoding: chunked
+        Content-Type: text/html; charset=utf-8
+        Content-Encoding: gzip
+        Vary: Accept-Encoding
+        Server: Microsoft-IIS/10.0
+        Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+        X-Powered-By: ASP.NET
+        Date: Tue, 18 Nov 2025 08:48:56 GMT
+        Connection: close
+'
