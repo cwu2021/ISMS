@@ -18,4 +18,5 @@ man pct
  - Proxmox Virtual Environment 9.0 with Debian 13 released
  - Beta release: Proxmox Datacenter Manager
  - Proxmox Virtual Environment 9.1 available
+Proxmox Virtual Environment was first released back in April 2008. The popular virtualization management platform has a huge worldwide user base with 1.6 million hosts. The GUI is available in over 31 languages. Proxmox has tens of thousand of customers in over 142 countries from companies regardless of size, sector or industry.
 '
