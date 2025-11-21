@@ -11,3 +11,6 @@ pkg install openjdk11
 # https://www.zdnet.com/article/what-is-openindiana-and-why-does-it-matter/
 pkg update
 pkg install build-essential
+:'
+The strace command-line utility helps you diagnose complex problems by revealing details about the interaction between applications and the Linux kernel.
+'
