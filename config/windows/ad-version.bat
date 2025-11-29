@@ -14,3 +14,4 @@ REM 有關2003及2008 ad server上KDC的錯誤訊息? https://ithelp.ithome.com.
 REM active directory - ADExplorer search with displayName
 REM https://serverfault.com/questions/451439/adexplorer-how-to-search-with-distinguishedname-contains-condition
 REM Optimizing domain controller security https://www.admin-magazine.com/Archive/2024/83/Optimizing-domain-controller-security
+REM Designing a Secure Active Directory: Active Directory can be particularly problematic in terms of security. We look at how to make it more secure through design, rigorous hardening, and security-conscious management.
