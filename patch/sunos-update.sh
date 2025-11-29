@@ -12,5 +12,6 @@ pkg install openjdk11
 pkg update
 pkg install build-essential
 :'
-The strace command-line utility helps you diagnose complex problems by revealing details about the interaction between applications and the Linux kernel.
+ - The strace command-line utility helps you diagnose complex problems by revealing details about the interaction between applications and the Linux kernel.
+ - Create your own rules to detect threats by monitoring system calls with Falco.
 '
