@@ -16,6 +16,6 @@ geth --datadir /home/petros/eth-evm/data/PrivateBlockchain init /home/petros/eth
 geth --datadir /home/petros/eth-evm/data/PrivateBlockchain --networkid 9999
 # https://www.ithome.com.tw/news/170723
 :'
-美國懷俄明州推出穩定幣FRNT
-懷俄明州是依據該州在2023年通過的穩定幣法令《Wyoming Stable Token Act》設立了懷俄明州穩定幣委員會（Wyoming Stable Token Commission），並由州長Mark Gordon兼任委員會主席。此一法令同時也要求FRNT必須具備至少102%的儲備比例，來提升代幣的穩定性及信任度，而FRNT則以美元及短期美國國債來維持2%的超額抵押。
+ - 美國懷俄明州推出穩定幣FRNT：懷俄明州是依據該州在2023年通過的穩定幣法令《Wyoming Stable Token Act》設立了懷俄明州穩定幣委員會（Wyoming Stable Token Commission），並由州長Mark Gordon兼任委員會主席。此一法令同時也要求FRNT必須具備至少102%的儲備比例，來提升代幣的穩定性及信任度，而FRNT則以美元及短期美國國債來維持2%的超額抵押。
+ - 隨著Web3與智能合約技術日益成熟，資安威脅也呈現新型演化，攻擊者開始利用區塊鏈平台做為命令與控制（Command & Control, C2）架構。2023年10月，資安研究人員首次提出一種名為「EtherHide」的技術。
 '
