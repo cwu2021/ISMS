@@ -3,10 +3,11 @@
 # c:\program files\oracle\virtualbox\
 # openwrt.org/docs/guide-user/network/network_configuration
 :'
-openwrt.org bot protection
+ - openwrt.org bot protection
 https://github.com/TecharoHQ/anubis
-Linksys Velop WRT Pro 7
+ - Linksys Velop WRT Pro 7
 https://openwrt.org/releases/19.07/notes-19.07.9
+ - Operation WrtHug 是一個針對小型/家用路由器進行的持續性攻擊活動，目前觀察主要集中ASUS品牌，攻擊者主要針對華碩設備上的 AiCloud 服務，利用一系列已公開的 作業系統指令注入（OS Command Injection） 漏洞（例如與 CVE-2023-39780 相關的漏洞）作為初始存取點，目前觀察到影響華碩8個產品型號。
 '
 # dart language for OpenWRT Manager app dev
 service firewall stop
