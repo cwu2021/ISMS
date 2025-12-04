@@ -19,3 +19,5 @@ say $var[-2] ;
 #    sleep(1);
 }
 #$p->close();
+=pod
+With a few tools, you can harness the data available in even the most troublesome CSV files.
