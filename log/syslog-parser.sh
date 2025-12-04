@@ -17,4 +17,6 @@ done
 # Logger in HPC System Administration https://www.admin-magazine.com/Articles/Logger-in-HPC-System-Administration
 logger "Just a test"
 logger -t myscript "A second test"
-
+:'
+syslog-ng uses the new logging format of the sudo tool to process sudo messages.
+'
