@@ -10,3 +10,6 @@ checkmk: Custom notes
 print "It matches\n" if /KDC.*KDC.*KDC.*certutil.*KDC/;
 # CA憑證服務已移除，DC裡PKI的CA物件已删除。
 # 目前Kerberos V5是可以選擇使用RSA加密，但是沒有提到憑證，但是有些說明文件又說憑證是用在驗證客戶端的身分，所以有點混亂。
+:'
+Timing techniques and system-level monitoring tools like Remora provide insight into application behavior and how applications interact with system resources.
+'
