@@ -14,3 +14,5 @@ Potential advantage of IPv6
  - Trusted Notifier by CSC
  - Content abuse moderation of Act 230
  - dora.run/ai , Typosquating => digital ID = branding
+財團法人台灣網路資訊中心（TWNIC）
+ - 於民國114年12月4日接獲內政部警政署刑事警察局依據《詐欺犯罪危害防制條例》第42條做成之行政處分，命停止解析特定網域名稱，TWNIC 隨即依法啟動 DNS RPZ（Response Policy Zone）相關技術措施。
