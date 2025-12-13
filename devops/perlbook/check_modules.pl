@@ -30,6 +30,7 @@ print `ruby -v`
 C:\Strawberry\perl\bin>perl -le "print $^O"
 MSWin32
 (dos for freedos with perl 5.8.8)
+(android for termux with recent perl)
 # get latest SDL 1.2 from libsdl.org may solve dosbox unlaunchable on windows. matty.blogspot.com
 # Error message: "Load error: no DPMI - Get csdpmi*b.zip" https://www.dosgames.com/faq.php
 (darwin for osx with perl 5.8.8 ; El Capitan 10.11/Mojave 10.14 with perl 5.18.2; ruby 1.9.3+)
