@@ -51,3 +51,4 @@ https://www.ithome.com.tw/pr/120921
  - Microsoft Defender：對您的裝置進行持續資產管理及威脅偵測
 → 了解更多詳情 datacenters.microsoft.com
  - The AzureADRecon tool lets you analyze Entra ID environments, generate reports, and identify potential risks at an early stage by providing detailed insights into users, roles, and service principals. We show you how to set up, automate, and use the tool for security checks.
+ - Microsoft Digital Defense Report 2025
