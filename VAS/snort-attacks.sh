@@ -11,3 +11,4 @@ nmap;nmap -sn 192.168.0.0/24
 
 # Pattern-matching tools for chasing down malicious software https://www.linux-magazine.com/Issues/2025/292/Malware-Minders
 # Identify malicious traffic with Maltrail https://www.admin-magazine.com/Archive/2025/86/Identify-malicious-traffic-with-Maltrail
+# Network simulators provide the information admins need to plan and grow wired and wireless networks.
