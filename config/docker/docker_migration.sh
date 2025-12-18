@@ -6,3 +6,4 @@ docker save apache-image > apache-image.tar
 scp apache-image.tar $new_server
 docker load < image-name.tar
 docker run -d --name container_name -p 80:80 image-name
+# Docker Hardened Images: Resetting the foundation of container security
