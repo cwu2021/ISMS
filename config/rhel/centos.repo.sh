@@ -27,3 +27,7 @@ yum repolist
 #    AlmaLinux
 #    Rocky Linux
 #    Oracle Linux
+: '
+Automating Migration to openEuler
+Easily migrate your old CentOS 7 systems to the modern openEuler with the x2openEuler migration toolset.
+'
