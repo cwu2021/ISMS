@@ -28,3 +28,4 @@ while True:
 
 這類攻擊透過假冒的 LINE 電腦版下載頁面與安裝檔，引誘使用者安裝惡意程式，進而竊取帳號、外洩個資，甚至植入木馬、持續進行控制。
 """
+# Off Grid Messaging: Want to communicate without relying on mobile networks? Meshtastic lets you create your own off-the-grid wireless mesh network with an inexpensive LoRa device and an Android phone.
