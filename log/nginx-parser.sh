@@ -11,3 +11,6 @@ apt install goaccess
 # log-format %d %t %^, client: %h, server: %^, request: "%r", host: "%v", referrer: "%R"
 # https://stackoverflow.com/questions/60074314/how-to-monitor-nginx-error-logs-with-goaccess
 # https://www.digitalocean.com/community/tutorials/how-to-install-and-use-goaccess-web-log-analyzer-on-ubuntu-20-04
+: '
+Observability Day 可觀察性技術日【徵求講者】歡迎投稿分享如何用可觀察性解決真實世界的複雜問題
+'
