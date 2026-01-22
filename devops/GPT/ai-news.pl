@@ -26,6 +26,7 @@ SEO考量：標籤如「諾貝爾和平獎」「日美貿易」具高搜尋價�
 若用於新聞平台或社群媒體，建議優先使用主要標籤，確保簡潔且突出重點。
 若需中英雙語標籤，可補充英文版本，例如：Donald Trump, Sanae Takaichi, US-Japan Alliance, Nobel Peace Prize。
 若需進一步細化或針對特定平台（如X）優化，可以根據受眾興趣調整，例如強調「諾貝爾和平獎」或「安倍晉三」以吸引更多點擊。
-
  
  - Infoxchange crafts tailored educational resources in hours instead of days with NotebookLM https://workspace.google.com/blog/customer-stories/infoxchange-crafts-educational-resources-hours-instead-days-notebooklm?e=48754805
+
+ - 91% 的 IT 預算用於維護現有 ERP 系統，幾乎沒有用於創新。Agentic AI 或 ERP 流程的優勢表明，早期 AI 採用者可節省 50% 以上的時間和精力，並潛在提高 60% 的生產力。Agentic AI 將 ERP 從一個記錄性系統轉變為行動派系統。一項隨著您的業務而不是供應商路線圖不斷發展的技術。
