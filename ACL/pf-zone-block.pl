@@ -16,3 +16,13 @@ table <badhosts> persist file "/etc/ru.zone" file "/etc/cn.zone"
 # block bad IP addresses
 block from <badhosts> to any
 block from any to <badhosts>
+=pod
+A recent post here reminded me of a short thing I wrote a little while back about
+asking one of the LLMs to write a pf.conf for me, "I asked ChatGPT to write a
+pf.conf to spec, 2023-06-07 version", https://nxdomain.no/~peter/chatgpt_writes_pf.conf.html
+(also available with GOOG trackers at https://bsdly.blogspot.com/2023/06/i-asked-chatgpt-to-write-pfconf-to-spec.html)
+
+The piece is slightly improved by containing links to actually useful material.
+
+All the best,
+Peter
