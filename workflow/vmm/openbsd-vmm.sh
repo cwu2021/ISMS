@@ -1,4 +1,4 @@
-#!/bin/ksh
+#!/bin/bash
 # Ubuntu 18.04 on OpenBSD's vmm
 # https://giocher.com/words/2018/ubuntu-on-openbsd-vmm/
 vmctl create disk.img -s 30G
@@ -16,3 +16,15 @@ vm "ubuntu" {
 EOF
 vmctl start ubuntu -c
 # $ vmctl start ubuntu
+: '
+The BSDCan Call For Papers (CFP) is open until January 17th, see https://www.bsdcan.org/2026/papers.html
+
+If you tried to sign up as a new indico user and did not get the confirmation mail in time, please try again. The problem has been fixed.
+
+The holidays can be a great time to get that submission done!
+
+Want to know more about the BSD conferences? See https://nxdomain.no/~peter/what_is_bsd_come_to_a_conference_to_find_out.html (and links therein)
+
+All the best,
+Peter
+'
