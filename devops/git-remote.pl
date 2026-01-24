@@ -3,4 +3,4 @@ print $repo = `git clone sshhost:~/yourprojects/yourfolder`;
 $commit = 2;
 $n = $commit - 1;
 print $showCommit = `git show HEAD~$n`;
-
+$logOnly = `git clone --filter=blob:none <repository_URL>`；
