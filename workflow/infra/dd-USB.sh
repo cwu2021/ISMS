@@ -10,7 +10,8 @@ dd bs=1M conv=fdatasync if=./proxmox-ve_*.iso of=/dev/XYZ
 lzma -d nomadbsd-x.y.z.img.lzma
 dd bs=1M if=nomadbsd-x.y.z.img of=/dev/sdX conv=fsync
 # may not be bootable due to USB key or PC or filesystem layout ...
-:'
+: '
 tails.net for Live USB
-N:$599, AC52:$799, AC1200:$1099. SDHC2USB:$168.
+ - N:$599, AC52:$799, AC1200:$1099. SDHC2USB:$168.
+Rescue systems play a vital role for desktops because they cannot simply be reinstalled on the fly. We look at venerable but outdated Knoppix and three still in development: Grml, SystemRescue, and Finnix.
 '
