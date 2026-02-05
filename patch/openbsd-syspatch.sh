@@ -1,7 +1,10 @@
-#!/bin/ksh
-# bug occured for the 1st patch of 7.1! wait more days before patching... 
+#!/bin/bash
+# bug occurred  for the 1st patch of 7.1! wait more days before patching... 
 syspatch
 # releases from 2.1 are archived on ftp eu.openbsd.org
 lynx https://ftp eu.openbsd.org/pub/OpenBSD
-# OpenBSD 7.7 released April 28, 2025
-# OpenBSD 7.8 released: Oct 22, 2025
+: '
+OpenBSD 7.7 released April 28, 2025
+OpenBSD 7.8 released: Oct 22, 2025
+OpenBSD Errata: February 2, 2026 (httpd)
+'
