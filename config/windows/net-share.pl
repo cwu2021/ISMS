@@ -4,3 +4,4 @@ use Advance Sharing instead of Share button when trying to share a Windows folde
  - C:\Users may be all shared by the Share button!
  - always run net share to ensure current share status.
  - network discovery is not necessary for simple share.
+ - 可用Powershell完成新增IIS與FTP服務設定。
