@@ -1,4 +1,5 @@
 # UniFi Network Application 8.0.7
+Explore UniFi Network 10.1 — built for stability at scale. <br>
 https://community.ui.com/releases/UniFi-Network-Application-8-0-7/7818b9df-4845-4c82-ba3c-1218e61010d4
  - devices need reset for re-adoption.
  - consoles cannot downlinked to each other. direct via wired or wifi is required for WAN config.
