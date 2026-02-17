@@ -18,3 +18,6 @@
 export SYSTEM_VERSION_COMPAT=1 (other build err occured)
 # https://stackoverflow.com/questions/21272479/how-can-i-find-out-if-i-have-xcode-commandline-tools-installed/21272675
 pkgutil --pkg-info=com.apple.pkg.CLTools_Executables
+: '
+ - Hello Developer: Discover agentic coding in Xcode 26.3.
+'
