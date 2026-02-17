@@ -8,7 +8,7 @@ ruby -run -e httpd . -p 4567
 
 brew install cloudflared
 # https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/
-
+# What Is No-IP Public Tunnels? A Modern Approach to Remote Access https://blog.noip.com/what-is-no-ip-public-tunnels-a-modern-approach-to-remote-access
 : '
 Cloudflare 設定 Firebase 要求的 CNAME (firebase1, firebase2) 都可正確解析，不須子網域伺服器。複製貼上可能發生字元異常，改用手動輸入。https://community.cloudflare.com/t/unable-to-verify-the-custom-domain-through-the-dns-settings-on-cloudflare/676216
 '
