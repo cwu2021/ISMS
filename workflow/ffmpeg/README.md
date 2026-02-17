@@ -1,6 +1,7 @@
 # Wowza: video analytics
  - https://www.wowza.com/video-analytics
  - Wowza Acquires AVA Intellect with Commitment to AI-First Innovation https://www.globenewswire.com/news-release/2025/06/25/3104928/0/en/Wowza-Acquires-AVA-Intellect-as-it-Accelerates-Commitment-to-AI-First-Innovation-Strategy.html
+ - Decoded Digest: Engine 4.9.7 is here! Webhooks + CMAF captions
 
 # Recording video
 ## https://trac.ffmpeg.org/wiki/Capture/Blackmagic
