@@ -55,3 +55,4 @@ https://www.hackster.io/news/the-new-nintendo-game-watch-is-certainly-some-hardw
 ### Announcing CrossOver 25.0.0
 CrossOver 25 includes an update to Wine 10.0, bringing with it over 5,000 changes that oﬀer improvements to a variety of applications on Mac and Linux. This release also includes an update to Wine Mono 9.4.0, vkd3d 1.14 and MoltenVK 1.2.10.
  - [Announcements] Announcing CrossOver 25.1.0
+ - [Announcements] Announcing CrossOver 26.0.0
