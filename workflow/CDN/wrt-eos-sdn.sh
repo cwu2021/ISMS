@@ -61,4 +61,5 @@ connecting switches on different controllers | Ubiquiti Community
 Introducing UniFi OS Server for MSPs
  - https://blog.ui.com/article/introducing-unifi-os-server
  - Explore UniFi Network 9.4 - Object Networking | Elevated Dashboard Insights | Deeper IPv6 Support and more!
+ - UniFi Academy: Fundamentals of UniFi WiFi Design
 END
