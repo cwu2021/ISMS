@@ -8,4 +8,5 @@ nagios3stats |tail -n +30 | head -22
  - Under certain unlikely circumstances, sensitive information entered by the user could be leaked via the URL.
 [Checkmk Announce] New Checkmk stable release 2.3.0p42
 [Checkmk Announce] New Checkmk stable release 2.4.0p20 
+[Checkmk Announce] New Checkmk stable release 2.4.0p22
 '
