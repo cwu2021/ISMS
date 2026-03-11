@@ -11,4 +11,5 @@ nagios3stats |tail -n +30 | head -22
 [Checkmk Announce] New Checkmk stable release 2.4.0p22
 [Checkmk Announce] New Checkmk stable release 2.3.0p43
 [Checkmk Announce] New Checkmk stable release 2.4.0p23
+[Checkmk Announce] New Checkmk stable release 2.3.0p44
 '
