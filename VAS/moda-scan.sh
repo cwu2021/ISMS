@@ -52,3 +52,4 @@ HTTP Headers:
         Date: Tue, 18 Nov 2025 08:48:56 GMT
         Connection: close
 '
+# Visualizing IT Infrastructures: The IVRE tool integrates into existing IT infrastructures for reconnaissance on private networks to help analyze endpoints accessible over the Internet.
