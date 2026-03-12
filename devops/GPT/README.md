@@ -13,6 +13,7 @@ http://www.linux-magazine.com/Online/Features/Deepfake-Sleuth
 - Apple Intelligence at WWDC 2024: macOS Sequoia on M1 >2020 , iOS 18 , Calculator on iPad , visionOS .
 - 開源AI模型Gemma https://www.ithome.com.tw/news/161409
  - 如何讓開源生成式AI更受控？臺大團隊揭概念抹除技術Receler https://www.ithome.com.tw/news/171933
+ - Review and manage your conversation retention settings for Gemini in Workspace
 ## 黑化的ChatGPT：WormGPT資安危害及攻擊手法
 https://blog.neithnet.com/?p=4351
 
