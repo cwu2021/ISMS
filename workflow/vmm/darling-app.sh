@@ -20,4 +20,5 @@ export SYSTEM_VERSION_COMPAT=1 (other build err occured)
 pkgutil --pkg-info=com.apple.pkg.CLTools_Executables
 : '
  - Hello Developer: Discover agentic coding in Xcode 26.3.
+ - 蘋果50年，誰在《挑戰蘋果規則》？獲獎記者揭露商業與政治的權力交鋒
 '
