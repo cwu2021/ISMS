@@ -64,4 +64,5 @@ Introducing UniFi OS Server for MSPs
  - Introducing: UniFi Network 10.2
  - UniFi Academy: Fundamentals of UniFi WiFi Design
  - UniFi Academy: Designing for Evidence Capture
+ - Introducing: U7 Mesh
 END
