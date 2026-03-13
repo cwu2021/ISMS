@@ -1,4 +1,4 @@
-#!/bin/ksh
+#!/bin/bash
 # https://bsdly.blogspot.com/2022/09/a-few-of-my-favorite-things-about.html
 cat > /etc/pf.conf << EOF
 block all
@@ -22,3 +22,10 @@ EOF
 # 202.112.35.203  Beijing, Beijing
 # 218.92.205.30   Dafeng, Guangxi
 # 218.93.124.186  Jintan, Guangdong
+: '
+The long wait is over. Fresh copies of The Book of PF, 4th Edition arrived...More on all this in the blog post https://nxdomain.no/~peter/its_real_its_here.html
+(or if you're fine with Google's trackers, https://bsdly.blogspot.com/2026/03/the-book-of-pf-4th-edition-its-here-its.html)
+
+Now please go to https://www.openbsd.org/donations.html too, once you've done the reading :)
+'
+
