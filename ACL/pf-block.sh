@@ -22,9 +22,9 @@ EOF
 # 202.112.35.203  Beijing, Beijing
 # 218.92.205.30   Dafeng, Guangxi
 # 218.93.124.186  Jintan, Guangdong
-: EOF
+: '
 The long wait is over. Fresh copies of The Book of PF, 4th Edition arrived...More on all this in the blog post https://nxdomain.no/~peter/its_real_its_here.html
-(or if you're fine with Google's trackers, https://bsdly.blogspot.com/2026/03/the-book-of-pf-4th-edition-its-here-its.html)
+(or if you are fine with Google trackers, https://bsdly.blogspot.com/2026/03/the-book-of-pf-4th-edition-its-here-its.html)
 
-Now please go to https://www.openbsd.org/donations.html too, once you've done the reading :)
-EOF
+Now please go to https://www.openbsd.org/donations.html too, once you have done the reading :)
+'
