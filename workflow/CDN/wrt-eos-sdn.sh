@@ -63,4 +63,5 @@ Introducing UniFi OS Server for MSPs
  - Explore UniFi Network 9.4 - Object Networking | Elevated Dashboard Insights | Deeper IPv6 Support and more!
  - Introducing: UniFi Network 10.2
  - UniFi Academy: Fundamentals of UniFi WiFi Design
+ - UniFi Academy: Designing for Evidence Capture
 END
