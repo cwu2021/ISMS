@@ -1,0 +1,85 @@
+\documentclass{beamer}
+
+% Theme selection
+\usetheme{Madrid}
+\usecolortheme{default}
+
+% Metadata
+\title{Modeling Aspects of AI}
+\subtitle{Foundations, Architectures, and Ethics}
+\author{Prepared by Gemini}
+\date{\today}
+
+\begin{document}
+
+% Title Page
+\begin{frame}
+    \titlepage
+\end{frame}
+
+% Table of Contents
+\begin{frame}{Overview}
+    \tableofcontents
+\end{frame}
+
+% Section 1: Data Modeling
+\section{Data Representation}
+\begin{frame}{Data Representation}
+    \begin{itemize}
+        \item \textbf{Vector Space Model:} Representing tokens in high-dimensional space.
+        \item \textbf{Embeddings:} Capturing semantic meaning through proximity.
+        \item \textbf{Normalization:} Ensuring data consistency for gradient descent.
+    \end{itemize}
+    \begin{block}{The Objective Function}
+        Typically, we aim to minimize a loss function $L(\theta)$ such as:
+        $$L(\theta) = \frac{1}{n} \sum_{i=1}^{n} (y_i - f(x_i; \theta))^2$$
+    \end{block}
+\end{frame}
+
+% Section 2: Neural Architectures
+\section{Neural Architectures}
+\begin{frame}{Key Modeling Architectures}
+    \begin{columns}
+        \column{0.5\textwidth}
+        \textbf{Transformers}
+        \begin{itemize}
+            \item Self-Attention mechanism
+            \item Parallel processing
+            \item Scalability
+        \end{itemize}
+        
+        \column{0.5\textwidth}
+        \textbf{Diffusion Models}
+        \begin{itemize}
+            \item Forward noise injection
+            \item Reverse denoising process
+            \item Generative prowess
+        \end{itemize}
+    \end{columns}
+\end{frame}
+
+% Section 3: Optimization
+\section{Optimization Aspects}
+\begin{frame}{Optimization and Convergence}
+    The goal of AI modeling is finding the global minimum of the error surface.
+    \begin{itemize}
+        \item \textbf{Stochastic Gradient Descent (SGD):} $ \theta_{t+1} = \theta_t - \eta \nabla L(\theta_t) $
+        \item \textbf{Regularization:} Preventing overfitting via $L1$ or $L2$ penalties.
+        \item \textbf{Hyperparameter Tuning:} Learning rates, batch sizes, and dropout.
+    \end{itemize}
+\end{frame}
+
+% Conclusion
+\section{Conclusion}
+\begin{frame}{Summary}
+    \begin{itemize}
+        \item Modeling requires a balance of \textbf{architecture}, \textbf{data}, and \textbf{compute}.
+        \item Future trends: Neuro-symbolic AI and energy-efficient modeling.
+    \end{itemize}
+    \vspace{1cm}
+    \centering
+    \Large \textbf{Questions?}
+\end{frame}
+
+\end{document}
+% Go to Overleaf.com, create a new Blank Project, and paste the code above. Hit Recompile, and your PDF will appear on the right.
