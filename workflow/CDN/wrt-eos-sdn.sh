@@ -65,4 +65,5 @@ Introducing UniFi OS Server for MSPs
  - UniFi Academy: Fundamentals of UniFi WiFi Design
  - UniFi Academy: Designing for Evidence Capture
  - Introducing: U7 Mesh
+ - Explore UniFi Protect 7.0, UNVR Core, Alarm Hub, and more.
 END
