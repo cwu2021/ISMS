@@ -66,4 +66,5 @@ Introducing UniFi OS Server for MSPs
  - UniFi Academy: Designing for Evidence Capture
  - Introducing: U7 Mesh
  - Explore UniFi Protect 7.0, UNVR Core, Alarm Hub, and more.
+ - Introducing: AirWire—the most powerful WiFi client ever created.
 END
