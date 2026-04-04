@@ -19,7 +19,7 @@ vulnerable to a memory/CPU denial-of-service related to the handling of SSH2_MSG
 ### OpenSSH 9.8 fixes for two security problems, including race condition in sshd(8).
 https://www.openssh.com/
 #### [openssh-unix-announce] Announce: OpenSSH 9.9 released
-####[openssh-unix-announce] Announce: OpenSSH 10.3 released
+#### [openssh-unix-announce] Announce: OpenSSH 10.3 released
 #### OpenSSH第一次出現遠端執行任意程式碼(RCE)漏洞(regreSSHion)
 https://www.twcert.org.tw/newepaper/cp-64-7957-020b8-3.html
 #### ssh一登入，就會自動發信 - iT 邦幫忙 https://ithelp.ithome.com.tw/questions/10119382
