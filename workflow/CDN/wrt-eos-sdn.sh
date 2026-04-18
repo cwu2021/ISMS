@@ -69,3 +69,4 @@ Introducing UniFi OS Server for MSPs
  - Introducing: AirWire—the most powerful WiFi client ever created.
  - Explore the All-New UniFi Design Center
 END
+ - Introducing: UniFi Enterprise Audio/Video Switching
