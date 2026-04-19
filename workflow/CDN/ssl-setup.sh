@@ -31,3 +31,6 @@ SSLOFF
 # LibreSSL 4.1.0 Released: This is the
 first stable release for the 4.1.x branch, also available with OpenBSD 7.7. The LibreSSL project continues improvement of the codebase to reflect modern,
 safe programming practices. 
+: '
+ - LibreSSL 4.3.1 released
+'
