@@ -50,6 +50,7 @@ At IBC 2025, stand #10.A41, Vizrt will show how AI-enhanced virtual studios help
  - Introducing Vizrt InteractifAI and Vizrt CaptivAIte
  - Now Available: Vizrt InteractifAI and Vizrt CaptivAIte
  - The AI Platform for Visual Sports Storytelling
+ - NAGRAVISION Launches New Player and Community Platform in Partnership with the World Professional Billiards and Snooker Association
 '
 # https://www.haivision.com/blog/tag/play-pro/
 # HLS source may be found via Chrome -> DevTools->Network
