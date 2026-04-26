@@ -7,3 +7,4 @@
 https://www.ithome.com.tw/news/171622 Google周四在Google Cloud大會上發表企業AI平臺服務Gemini Enterprise，要將Google Cloud實力擴展到AI市場，提供AI代理人幫助企業自動化執行作業。Google也提供了第一批平臺內建的代理人。
  - Threat Hunting with Google Threat Intelligence: Accelerating Investigations with AI
  - Pattern Recognition: Analyze Logs for Suspicious Activity with ChatGPT
+ - [Product Update] New Workspace Intelligence admin controls for Google Workspace starting Apr 22, 2026
