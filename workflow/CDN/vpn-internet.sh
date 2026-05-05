@@ -55,4 +55,5 @@ openvpn --remote 10.56.100.53 --comp-lzo --dev tun --auth-user-pass --ca ca.crt 
 [Openvpn-announce] OpenVPN 2.6.20 released
 [Openvpn-announce] OpenVPN 2.7.2 released
 [Openvpn-announce] OpenVPN 2.7.3 released
+[Openvpn-announce] OpenVPN 2.7.4 released
 '
