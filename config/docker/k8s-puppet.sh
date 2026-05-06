@@ -14,3 +14,6 @@ sudo apt-get update
 sudo apt-get install puppet-bolt
 # with proper yaml: https://www.admin-magazine.com/Archive/2022/70/Puppet-Bolt-orchestration-tool/(offset)/6
 bolt plan run apache::install -t containers
+: '
+- The StackStorm open source platform helps admins manage networks efficiently by automating repetitive tasks and responding to events in real time.
+'
