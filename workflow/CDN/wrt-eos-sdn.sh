@@ -71,4 +71,5 @@ Introducing UniFi OS Server for MSPs
  - Introducing: UniFi Enterprise Audio and Video Switching
 - Introducing: The New UniFi Site Manager - Now Official
 - Introducing: UniFi Dream Machine Beast
+- UniFi Talk Just Leveled Up
 END
