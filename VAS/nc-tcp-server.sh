@@ -5,4 +5,5 @@ nc -l <myip> -p <myport>
 : '
  - Trivy scanners for vulnerabilities, misconfigurations, and secrets with Ubuntu-centric guidance on performance tuning, security configurations, and scalability across Linux distributions.
  - Get-NetTCPConnection and ss are efficient and powerful tools for monitoring network connections and identifying potential security threats on Windows and Linux.
+ - With bandwhich, you can quickly see the current network load on your computer.
 '
