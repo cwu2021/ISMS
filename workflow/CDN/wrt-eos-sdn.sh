@@ -72,4 +72,5 @@ Introducing UniFi OS Server for MSPs
 - Introducing: The New UniFi Site Manager - Now Official
 - Introducing: UniFi Dream Machine Beast
 - UniFi Talk Just Leveled Up
+- Explore UniFi Protect 7.1 and the Latest Physical Security Updates
 END
