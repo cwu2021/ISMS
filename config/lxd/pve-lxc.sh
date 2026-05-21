@@ -21,4 +21,6 @@ man pct
 Proxmox Virtual Environment was first released back in April 2008. The popular virtualization management platform has a huge worldwide user base with 1.6 million hosts. The GUI is available in over 31 languages. Proxmox has tens of thousand of customers in over 142 countries from companies regardless of size, sector or industry.
  - Proxmox Datacenter Manager in stable version 1.0 available
  - Proxmox Backup Server 4.2 released
+ - Proxmox Virtual Environment 9.2 available
+Dynamic Load Balancer for the Cluster Resource Scheduler. Expanded SDN stack with WireGuard and BGP as new Fabric protocols. Fine-grained BGP/EVPN filtering with route maps and prefix lists. Management of custom CPU models from the web interface. New "Disarm and Arm" workflow for planned HA cluster maintenance. Based on Debian 13.5 “Trixie” with Linux kernel 7.0 as the new stable default. Updated core technologies including QEMU 11.0, LXC 7.0, and ZFS 2.4. Ceph Tentacle 20.2.
 '
