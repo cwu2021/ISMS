@@ -73,4 +73,7 @@ Introducing UniFi OS Server for MSPs
 - Introducing: UniFi Dream Machine Beast
 - UniFi Talk Just Leveled Up
 - Explore UniFi Protect 7.1 and the Latest Physical Security Updates
+ - Introducing: UniFi Network 10.4
+ - UniFi Academy: Switching, Routing, and Why STP Exists.
+ - Introducing: UniFi 5G Backup
 END
