@@ -20,6 +20,7 @@ https://fttb.hinet.net/compare.html
  - https://aws.amazon.com/tw/blogs/networking-and-content-delivery/identify-and-optimize-public-ipv4-address-usage-on-aws/
  - Accelerate AWS Access with Arista https://blogs.arista.com/blog/aws-cloud-wan
  - CloudVision: The critical role of comprehensive network data and Arista's NetDL™ (Network Data Lake)
+ - Analyzing Public Infrastructure: Every pen test begins with information gathering. Give yourself a head start with the Shodan search engine and its powerful toolkit.
 # 5G Technology
  - Test your 5G, 4G and WiFi connection with our top 12 apps | 5Gradar <br>
 https://www.5gradar.com/features/test-your-5g-connection-with-our-top-apps<br>
