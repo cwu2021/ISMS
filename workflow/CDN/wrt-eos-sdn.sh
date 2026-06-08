@@ -76,4 +76,5 @@ Introducing UniFi OS Server for MSPs
  - Introducing: UniFi Network 10.4
  - UniFi Academy: Switching, Routing, and Why STP Exists.
  - Introducing: UniFi 5G Backup
+ - UniFi Protect is Now Campus Security Ready
 END
