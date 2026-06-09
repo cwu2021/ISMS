@@ -57,3 +57,4 @@ CrossOver 25 includes an update to Wine 10.0, bringing with it over 5,000 change
  - [Announcements] Announcing CrossOver 25.1.0
  - [Announcements] Announcing CrossOver 26.0.0
  - [Announcements] Announcing CrossOver 26.1.0
+ - [Announcements] Announcing CrossOver 26.2.0
