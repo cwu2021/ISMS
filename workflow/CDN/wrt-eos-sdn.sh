@@ -77,4 +77,5 @@ Introducing UniFi OS Server for MSPs
  - UniFi Academy: Switching, Routing, and Why STP Exists.
  - Introducing: UniFi 5G Backup
  - UniFi Protect is Now Campus Security Ready
+ - Introducing Enterprise Firewall Core
 END
