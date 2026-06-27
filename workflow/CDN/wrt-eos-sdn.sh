@@ -79,4 +79,5 @@ Introducing UniFi OS Server for MSPs
  - UniFi Protect is Now Campus Security Ready
  - Introducing Enterprise Firewall Core
  - Introducing Enterprise NAS, Built on ZFS.
+ - Introducing UniFi Network 10.5
 END
