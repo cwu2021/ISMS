@@ -5,6 +5,7 @@ Potential advantage of IPv6
  - speed (without NAT)
  - security (large address space to scan)
  - TWNIC IPv6-Only Wi-Fi Demo Site https://ipv6now.twnic.tw/ipv6only/
+ - 【新聞稿發佈】讓網路導航不失準！TWNIC推動RPKI防禦機制，打造可信賴的網路環境
 (April 17, CYBERSEC 2025)
  - Dark Web (V2->V3, nodes 3+) crawling w/ SOCKS5
  - Breech Forum -> RAG / LLM / CTI report (MISP)
