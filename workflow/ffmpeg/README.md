@@ -80,3 +80,4 @@ C:\\> ffmpeg.exe -f libndi_newtek -i "NC1IO-RCTV (IN 4)" -vf yadif -c:v libx264 
  https://support.plex.tv/articles/202915258-where-is-the-plex-media-server-data-directory-located/
  - Plex SSDP device autodiscovery via description.xml from http
  - Plex Media Server API documentation is officially available.
+ - The Take: Let the Discussions Begin 🎬
