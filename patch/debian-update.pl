@@ -11,3 +11,5 @@ Debian 13.0 Officially Released https://www.linux-magazine.com/Online/News/Debia
  - Updated Debian 13: 13.4 released
  - Updated Debian 13: 13.5 released
  - Updated Debian 12: 12.14 released
+ - Updated Debian 12: 12.15 released
+ - Updated Debian 13: 13.6 released
