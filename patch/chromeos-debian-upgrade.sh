@@ -7,3 +7,5 @@ apt autoremove
 # apt key expired for old repo
 date --set 2008-01-01
 apt-get update
+# Chrome standalone for offline installation 
+# https://support.google.com/chrome/answer/95346
