@@ -27,3 +27,4 @@ get-computerinfo
 REM https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/?view=powershell-7.3
 REM Powershell for Sysadmins: A Hands-On Guide to Automating Your Workflow
 REM https://www.tenlong.com.tw/products/9789865026677?list_name=srh
+REM Releases · PowerShell/Win32-OpenSSH https://github.com/powershell/win32-openssh/releases
