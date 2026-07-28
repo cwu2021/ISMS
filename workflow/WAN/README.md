@@ -27,6 +27,7 @@ https://www.5gradar.com/features/test-your-5g-connection-with-our-top-apps<br>
 https://github.com/calee0219/awesome-5g
  - NCC公布5G電波人口涵蓋率已達94.36% !? <br>
 https://www.kocpc.com.tw/archives/440835
+ - 旅遊 eSIM 的陷阱：流量路徑不揭露，出差人員連線資料恐暴露境外 2026/06/26
  - Turn Your Cell Phone Into A Satellite Phone | Iridium Satellite Communications <br>
 https://www.iridium.com/blog/2022/05/11/how-to-turn-your-cell-phone-into-a-satellite-phone/
  - TACC台灣資料分析中心 <br>
