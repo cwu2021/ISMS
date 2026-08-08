@@ -10,4 +10,5 @@ https://www.ithome.com.tw/news/170738
 
 [Clamav-devel] ClamAV 1.5.2 and 1.4.4 security patch versions published
 [Clamav-devel] ClamAV 1.5.3 and 1.4.5 security patch versions published
+[Clamav-devel] ClamAV 1.4.6 and 1.5.4 security patch versions published
 '
