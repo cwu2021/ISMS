@@ -1,0 +1,2 @@
+# increase buffer and fifo size to prevent mpegts frame I/O error for SRT output
+ffmpeg -f mpegts -buffer_size 10M -fifo_size 500000 -i "udp://@239.1.2.1:60001?buffer_size=10000000&fifo_size=1000000&overrun_nonfatal=1" <output_options>
