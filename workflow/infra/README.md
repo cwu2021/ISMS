@@ -111,7 +111,7 @@ By default the OpenVPN Connect client installer file comes prebundled with a ser
 - L2TP on iPhone https://www.dlinktw.com.tw/techsupport/FAQView.aspx?f=FDy1hSRKIRFIS5t0rzf9RQ%3D%3D
 <i>https://www.openbsd.org/faq/faq17.html</i><br>
  The ikectl(8) utility also allows you to maintain a simple X.509 certificate authority (CA) for IKEv2 peers.
-
+- OpenBSD Errata: August 11, 2026 (npppd iked)
 An IKEv1 server (isakmpd(8)) is also available and, coupled with npppd(8), it allows you to build an IKEv1/L2TP VPN where IKEv2 can't be deployed.
 
 Native WireGuard support is also available via the wg(4) device. As the manual explains, it can be configured the same way as all other network interfaces in OpenBSD. 
