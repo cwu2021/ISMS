@@ -54,7 +54,8 @@ At IBC 2025, stand #10.A41, Vizrt will show how AI-enhanced virtual studios help
  - NAGRAVISION Launches NAGRA® Venturi,Intelligence-Led Streaming Security for the AI Era
  - Lionsgate Play Selects NAGRAVISION to Protect Streaming Service
  - Vizrt: Redefine Corporate Communications
- - Experience the European Debut of the Falkon X4 at IBC2026
+Haivision: Experience the European Debut of the Falkon X4 at IBC2026
+ - Secure Your Broadcast Rentals for the US Midterms
 '
 # https://www.haivision.com/blog/tag/play-pro/
 # HLS source may be found via Chrome -> DevTools->Network
