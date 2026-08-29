@@ -82,4 +82,5 @@ Introducing UniFi OS Server for MSPs
  - Introducing UniFi Network 10.5
  - Introducing UniFi Protect 7.2
  - Introducing: UniFi Network 10.6
+ - Introducing: UniFi Travel Router Long-Range
 END
