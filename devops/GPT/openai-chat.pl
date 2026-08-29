@@ -16,6 +16,7 @@ AI 服務應用需要高速的地端與雲、網連結資源，滿足企業對AI
 AWS亦宣布推出推動「零介入科技推動計畫（Taiwan Zero-intervention Technology，簡>稱ZIP）」，此計畫與即將推出的區域級資料中心相輔相成，將涵蓋四面向，例如，跨域人
 才培育，預計推動二萬人次的育成，其次，複製高雄的創新實證計畫到其他區域，協助應>用落地，第三，針對產業轉型並提供諮詢，最後希望有機會帶領產業出海。
  - https://tw.stock.yahoo.com/news/aws%E5%9C%A8%E5%8F%B0%E6%8E%A8zip%E8%A8%88%E7%95%AB-%E6%B6%B5%E8%93%8B%E5%9B%9B%E9%9D%A2%E5%90%91-201000051.html
+ - 迎戰AI大時代｜是方聚焦三主軸：AIDC資料中心、數位匯流生態系與資安網路韌性
 =cut
 # - perl weekly 2024-07-08
 # https://curtispoe.org/articles/an-openai-chatbot-in-perl.html
