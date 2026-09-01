@@ -15,3 +15,4 @@ Debian 13.0 Officially Released https://www.linux-magazine.com/Online/News/Debia
  - Updated Debian 12: 12.15 released
  - Updated Debian 13: 13.6 released
  - Security support for Bookworm handed over to the LTS team
+ - Debian 11 Long Term Support reaches end-of-life
