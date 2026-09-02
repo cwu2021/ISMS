@@ -83,3 +83,4 @@ C:\\> ffmpeg.exe -f libndi_newtek -i "NC1IO-RCTV (IN 4)" -vf yadif -c:v libx264 
  - Plex Media Server API documentation is officially available.
  - The Take: Let the Discussions Begin 🎬
  - The Take: Dashboards Go Primetime 📺
+ - Important Security Update for Plex Media Server v1.43.2 and earlier
