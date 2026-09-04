@@ -84,4 +84,5 @@ Introducing UniFi OS Server for MSPs
  - Introducing: UniFi Network 10.6
  - Introducing: UniFi Travel Router Long-Range
  - Introducing Whole-Home WiFi by UniFi
+ - Introducing: Next-Gen UniFi Enterprise Networking
 END
