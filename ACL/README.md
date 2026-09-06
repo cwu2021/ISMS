@@ -1,7 +1,7 @@
 # Zero Trust Model
 - Zero trust planning and implementation https://www.admin-magazine.com/Archive/2024/83/Zero-trust-planning-and-implementation
 - Tailscale: Invite external users, Route internet traffic through a designated device, Lock down access with grants As ZTNA.
-- Tailscale shared with group target instead of tag in acl should work fine as ZTNA.
+- Tailscale shared with group target instead of tag in acl should work fine as ZTNA. Control privileged access with resource policies, Slack approvals, session logs, and recordings
 - No-IP: It’s here: Public Tunnels, now included with Enhanced
 ## ACL can help achieve its 'less priviledge' policy.
 \# chkconfig iptables --list
