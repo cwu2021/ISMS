@@ -26,4 +26,5 @@ Dynamic Load Balancer for the Cluster Resource Scheduler. Expanded SDN stack wit
  - Proxmox Datacenter Manager 1.1 released
  - Proxmox Mail Gateway 9.1 released
  - Proxmox VE for Arm64 is Here!
+ - Announcing 24/7 Support and Proxmox North America Inc.
 '
