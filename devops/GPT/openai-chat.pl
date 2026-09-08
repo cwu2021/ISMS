@@ -17,6 +17,7 @@ AWS亦宣布推出推動「零介入科技推動計畫（Taiwan Zero-interventio
 才培育，預計推動二萬人次的育成，其次，複製高雄的創新實證計畫到其他區域，協助應>用落地，第三，針對產業轉型並提供諮詢，最後希望有機會帶領產業出海。
  - https://tw.stock.yahoo.com/news/aws%E5%9C%A8%E5%8F%B0%E6%8E%A8zip%E8%A8%88%E7%95%AB-%E6%B6%B5%E8%93%8B%E5%9B%9B%E9%9D%A2%E5%90%91-201000051.html
  - 迎戰AI大時代｜是方聚焦三主軸：AIDC資料中心、數位匯流生態系與資安網路韌性
+ - 是方 AI Agent VM 來了！開機即用 AI 雲端主機登場，環境不用自己配｜月付 $599 起，再贈 1TB CCIS 儲存空間
 =cut
 # - perl weekly 2024-07-08
 # https://curtispoe.org/articles/an-openai-chatbot-in-perl.html
