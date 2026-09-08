@@ -56,6 +56,7 @@ At IBC 2025, stand #10.A41, Vizrt will show how AI-enhanced virtual studios help
  - Vizrt: Redefine Corporate Communications
 Haivision: Experience the European Debut of the Falkon X4 at IBC2026
  - Secure Your Broadcast Rentals for the US Midterms
+ - Agentic AI will create new leaders. Vizrt gets you there first. 
 '
 # https://www.haivision.com/blog/tag/play-pro/
 # HLS source may be found via Chrome -> DevTools->Network
