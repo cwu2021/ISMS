@@ -10,4 +10,5 @@ pkg install perl5
 perl -MCPAN -e shell
 : '
 Subject: Digest of freebsd-announce@FreeBSD.org issue 87 (226-228)
+ - FreeBSD 14.5-RELEASE Now Available
 '
