@@ -17,3 +17,4 @@ done
 https://www.ithome.com.tw/news/167848
  - VMware EXPLORE 2026 Announcements
  - Broadcom Announces VMware Private AI Cloud
+ - OVHcloud manages your Veeam licences and Vault storage — you still keep full control over the server. 
