@@ -12,6 +12,7 @@ https://www.ithome.com.tw/news/147193
  - Open-AudIT inventories, manages, and monitors IT assets, whether hardware, software, network device, or virtual machine. https://admin-magazine.com/Archive/2025/86/Inventory-and-manage-your-IT-systems
  - Anonymization and pseudonymization of data https://www.admin-magazine.com/Archive/2025/86/Anonymization-and-pseudonymization-of-data
  - CISA Releases Thorium for Automated Malware Analysis https://www.admin-magazine.com/News/CISA-Releases-Thorium-for-Automated-Malware-Analysis
+ - Google named a Leader in External Threat Intelligence Service Providers, Q3 2026 Evaluation
 ### 2023年最常被利用的漏洞
 https://www.twcert.org.tw/newepaper/cp-64-8319-2129a-3.html
 ### CVE-2025-26466 - sshd(8) in OpenSSH versions 9.5p1 to 9.9p1 
