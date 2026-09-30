@@ -11,6 +11,7 @@
 如何撐起企業全球版圖？SD-WAN + Cloud WAF：跨國營運的「輕裝上陣」新策略
  - 是方 CHIEF Internet 神盾 Pro防禦服務
 給您乾淨頻寬
+ - 是方攜手 Google Cloud 導入 CSI 跨站互連｜提供多元跨國海纜服務 ，建構國家級防線
  - ESX to cloud: 省下30%的虛擬化成本！是方電訊「輕量化移轉」讓預算直接回流淨利！
  - Hinet 光世代無備援機制，電路規劃與環路保護；頻寬使用次優先權，且國內接取有集縮設計。
 https://fttb.hinet.net/compare.html
