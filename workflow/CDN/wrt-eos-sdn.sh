@@ -86,4 +86,5 @@ Introducing UniFi OS Server for MSPs
  - Introducing Whole-Home WiFi by UniFi
  - Introducing: Next-Gen UniFi Enterprise Networking
  - Meet the New UniFi Design Center
+ - Explore UniFi Protect 7.3
 END
