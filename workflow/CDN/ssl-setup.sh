@@ -33,4 +33,5 @@ first stable release for the 4.1.x branch, also available with OpenBSD 7.7. The 
 safe programming practices. 
 : '
  - LibreSSL 4.3.1 released
+ - LibreSSL 4.4.0rc1 released
 '
