@@ -19,3 +19,6 @@ echo 'HostKeyAlgorithms=+ssh-rsa' >> ~/.ssh/config
 # OpenSSH Post-Quantum Cryptography https://www.openssh.com/pq.html
 # [openssh-unix-announce] Announce: OpenSSH 10.4 released
 # [openssh-unix-announce] Announce: OpenSSH 10.5 released
+: '
+[openssh-unix-announce] Announce: OpenSSH 10.6 released
+'
