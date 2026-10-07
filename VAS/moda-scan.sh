@@ -18,8 +18,10 @@ whois 104.18.22.126
 # Ethical Hacking TryHackMe's Capture https://www.linux-magazine.com/Issues/2025/291/Capture-the-Flag
 # The Flipper Zero mobile hacking tool https://www.admin-magazine.com/Archive/2025/86/Mobile-hacking-tool?utm_source=AU
 :'
-Integrated Security with Wazuh
+ - Integrated Security with Wazuh
 This versatile security app checks for vulnerabilities, watches logs, and acts as a single interface for other tools.
+ - Full-Spectrum Security Scanner with Trivy
+We take a close look at the Trivy scanners for vulnerabilities, misconfigurations, and secrets with Ubuntu-centric guidance on performance tuning, security configurations, and scalability across Linux distributions.
 '
 # One-liner to check WordPress, Joomla, Drupal, etc.
 for path in wp-admin wp-login.php wp-content/themes admin/index.php sites/default/settings.php /laravel /react-build /static/js; do
