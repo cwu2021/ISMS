@@ -88,4 +88,5 @@ Introducing UniFi OS Server for MSPs
  - Meet the New UniFi Design Center
  - Explore UniFi Protect 7.3
  - Introducing UniFi Industrial Switching and WiFi
+ - Introducing UniFi Network 11 | Our Most Impactful Release Yet
 END
