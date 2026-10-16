@@ -177,6 +177,7 @@ https://www.epochtimes.com/b5/23/10/12/n14093967.htm
  - Developer Summit 2026, Roku OS 15.3 Beta, new forum, and more!
  - NOTICE: Updated Roku Distribution Agreement
  - Reminder — New Roku certification criteria effective October 1st
+ - Developer Summit 2026 replays, Roku OS 16.0, Fall Cert update, and more!
  - 串流媒體的現況與挑戰
 https://www.facebook.com/share/p/mnv5hhD4ZmmzeoHe/?mibextid=CTbP7E
  - 毛利率、淨利率、營業利益率，怎麼計算？ https://www.managertoday.com.tw/articles/view/55137
