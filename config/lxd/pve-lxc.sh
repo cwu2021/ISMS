@@ -27,4 +27,5 @@ Dynamic Load Balancer for the Cluster Resource Scheduler. Expanded SDN stack wit
  - Proxmox Mail Gateway 9.1 released
  - Proxmox VE for Arm64 is Here!
  - Announcing 24/7 Support and Proxmox North America Inc.
+ - Proxmox Introduces Global 24/7 Premium Enterprise Support
 '
