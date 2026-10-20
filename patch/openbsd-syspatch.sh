@@ -9,4 +9,5 @@ OpenBSD 7.8 released: Oct 22, 2025
 OpenBSD Errata: February 2, 2026 (httpd)
 OpenSMTPD 7.9.0p0 released 
 OpenBGPD 9.3 released
+OpenBSD 8.0: released Oct 20, 2026
 '
