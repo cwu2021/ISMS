@@ -89,4 +89,5 @@ Introducing UniFi OS Server for MSPs
  - Explore UniFi Protect 7.3
  - Introducing UniFi Industrial Switching and WiFi
  - Introducing UniFi Network 11 | Our Most Impactful Release Yet
+ - Introducing UniFi Long-Range PoE Switching
 END
