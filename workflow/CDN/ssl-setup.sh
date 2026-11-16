@@ -36,4 +36,5 @@ safe programming practices.
  - LibreSSL 4.4.0rc1 released
  - LibreSSL 4.3.4 and 4.2.3 released
  - LibreSSL 4.4.0 released
+ - LibreSSL 4.3.5 and 4.4.1 released
 '
